@@ -1,0 +1,55 @@
+# Naptári terv, 6. osztály, NÚS, II. félév, egyéni oktatási formában tanuló gyerekek számára
+
+- **Eredeti ukrán cím:** Календарне планування 6 клас НУШ ІІ семестр для дітей з індивідуальною формою навчання
+- **Szerző:** Вовкотруб Л.
+- **Tankönyv:** Prepare 6 (Joanna Costa, Melanie Williams, Student's Book, Ukrainian Edition, Cambridge)
+- **Osztály:** 6. osztály
+- **Heti óraszám:** 1 óra (II. félév – 19 óra)
+- **Félév/év:** II. félév, 2023–2024-es tanév
+- **Forrás URL:** https://naurok.com.ua/kalendarne-planuvannya-6-klas-nush-ii-semestr-dlya-ditey-z-individualnoyu-formoyu-navchannya-393195.html
+
+*Megjegyzések: a naptári terv egyéni oktatási formában tanuló gyerekek számára készült, a 6. osztály, NÚS, II. félév, 2023–2024, a Prepare 6 tankönyv alapján (Joanna Costa, Melanie Williams, Student's Book, Ukrainian Edition, Cambridge). A forrásban az órák nincsenek sorszámozva, csak dátumokkal szerepelnek; a „Зошит" (Füzet) sorok a forrásban is külön sorokként szerepelnek. A forrásban a „Купуємо речі" óra dátuma „31.03" – a dátumsorrend alapján valószínűleg elírás (31.01), a fordítás a forrás dátumát megőrzi. A szerzők megjelölésénél a forrásban „Кетрін Сміт, Керолайн Кук" szerepel, ami eltér a tankönyv címlapján szereplő szerzőktől – a fordítás a forrás szövegét változatlanul adja vissza.*
+
+**Naptári-tematikus terv a 6. osztályban, NÚS, egyéni oktatási formában tanuló diákok számára a „Prepare 6" tankönyv alapján.**
+
+Szerzők: Кетрін Сміт, Керолайн Кук (heti 1 óra). Kidolgozta: Вовкотруб Лариса, a Katerinopili 2. sz. Líceum angoltanára.
+
+**II. félév (19 óra)**
+
+**Kulcskompetenciák:** szociális és állampolgári, kulturális, egészségmegőrző, kommunikatív.
+
+**Integrált tartalmi vonalak:**
+
+- **Állampolgári felelősség:** megérti, tiszteli az ember jogait, érdekeit és kötelességeit, kommunikál és toleránsan viszonyul más tanulók ötleteihez és információihoz, megbeszéli a csoportbeli interakció sajátosságait, megérti az együttműködés szükségességét, egy egészet alkot a kollektívával. Elsajátítja a társadalmi környezettel való sikeres interakcióhoz szükséges tudást és készségeket, valamint a személy jóllétét és önészlelését a változó társadalomban.
+- **Kulturális:** elemzi és értékeli a nemzeti és a világkultúra vívmányait, tájékozódik a modern társadalom kulturális és szellemi kontextusában, az egyetemes emberi értékekre orientált önképzési módszereket alkalmaz; kreativitást, kezdeményezőkészséget, más emberekkel való együttműködési képességet mutat, példákat hoz a pihenésre, a sportolásra, az otthoni és iskolai mindennapi cselekvésekre, megosztja zenei, filmes, könyvekkel kapcsolatos kedveléseit.
+- **Egészség és biztonság:** konkrét helyzet körülményei között alkalmazza az egészségmegőrző kompetenciák összességét, gondosan viszonyul saját egészségéhez és mások egészségéhez; szemlélteti az egészséges életmód szükségességét saját családja példáján, előre jelzi az interneten tanúsított meggondolatlan viselkedés következményeit, rendezi saját munkanapját az egészséges életmód betartásával.
+- **Kommunikatív kompetencia:** a kommunikáció konkrét fajtájában alkalmazza a nyelv ismeretét, a körülötte lévő és távol lévő emberekkel való interakció módjait, a csoportmunkában való készségeket, különböző társadalmi szerepeket birtokol.
+
+Oszlopok: Az óra sorszáma / Dátum | Az óra témája | Beszédfunkciók | Kulcskompetenciák | Kommunikatív készségek (hallás utáni / vizuális észlelés; szóbeli/írásbeli produkció) | Nyelvi készlet (lexika, nyelvtan) | Várt tanulási eredmények | Tankönyvoldalak | Házi feladat | Megjegyzések
+
+| Dátum | Az óra témája | Beszédfunkciók, készségek, nyelvi készlet, várt eredmények | Tankönyv, házi feladat |
+| --- | --- | --- | --- |
+| 17.01. | Biztonság otthon. | Kérdezni a háztartási tárgyakkal és a polgári védelmi eszközökkel való bánásmód szabályairól. Egészség és biztonság. Olvasás és feladatok végrehajtása. Kérdések megfogalmazása és válaszok adása, a fő szabályok lejegyzése. Lexika: Safety, lighter, rug, stairs, iron, matches. Not good idea / bad idea. Nyelvtan: Present Simple, Imperatives. Parancsokat észlel és végrehajt, figyelmeztetni tud a veszélyre és tanácsot tud adni. | 50–51. o. 5. gyakorlat, 51. o. |
+| 24.01. | Ruházat és divat. A legjobb vásárlás. | Mesélni, kérdezni a tevékenységfajtákról. Kulturális és szociális és kulturális. Olvasás, hallgatás és feladatok végrehajtása. Elbeszélés és rövid párbeszédek létrehozása. Lexika: Boots, cap, gloves, jumpers, swimming costumes, tie, trainers. Nyelvtan: névmások, mutató névmások. Mesél a ruházatról, a vásárlásokról, az anyagról, amiből a ruha készült. | 54–56. o. 1. gyakorlat, 57. o. |
+| 31.03. | Dolgokat vásárolunk. | Hallgatni és olvasni. Válaszolni a kérdésekre. Állampolgári, szociális és kulturális. Hallgatás és feladatok végrehajtása. Párbeszéd létrehozása. Lexika: Some, any, lots of, a lot of, few, a bit of… Nyelvtan: megszámlálható és megszámlálhatatlan főnevek. Mesél a vásárlás különböző módjairól. | 58–59. o. 3. gyakorlat, 58. o. |
+| 07.02. | Vásárlás. Üzletfajták. A szóbeli kompetencia készségeinek kialakítása. | Mesélni a cselekvésekről. Szociális és kulturális. Olvasás és feladatok végrehajtása az üzletekben való vásárlásokról. Párbeszédek összeállítása és mondatok írása. Lexika: Shopping survey, penny. Donate, acessories, furniture, local, fresh. Nyelvtan: Present Simple. Szóbeli válaszok a kérdésekre. A helyes vagy hamis állítások meghatározása. | 62–63. o. 5. gyakorlat, 63. o. |
+|  | **Füzet.** |  |  |
+| 14.02. | Étkezés. | Tudni megtervezni saját munkanapját. Állampolgári és szociális kompetenciák. Egészségmegőrző kompetencia. Elbeszélések hallgatása és kérdések feltevése az információ pontosításához. Cselekvésekről való mesélés, rövid párbeszédek létrehozása. Lexika: Daily routine, make the bed, brush teeth, send messages, clean the room, pack the bag, have breakfast. Nyelvtan: Do és make. Kérdéseket tesz fel, és rövid és teljes válaszokat ad. | 18–19. o. 3. gyakorlat, 18. o., 2. gyakorlat, 20. o. |
+| 21.02. | **Diagnosztikai dolgozat.** |  |  |
+| 28.02. | Utcai étel. | Mesélni az ukrajnai utcai ételekről. Kulturális és szociális, egészségmegőrző. Ételek fajtáiról szóló szövegek olvasása. Rövid párbeszédek kialakítása az ételről és az ételek leírása. Lexika: Curry, chilli, omeletters, nodles, grilled meat, fried onions… Nyelvtan: Would you like…? What's your favourite/… Kérdéseket tesz fel és válaszol rájuk. | 66–67. o. Lerajzolni a leginkább tetsző utcai ételt. |
+| 06.03. | Legújabb találmányok. Új technológiák. | Elemezni a találmányok szerepét az emberek életében. Szociális és egészségmegőrző. Szövegek olvasása és feladatok végrehajtása. Rövid elbeszélés létrehozása. Lexika: e-reader, game console, laptop, smartphone. Nyelvtan: a melléknevek fokozása. Válaszol a kérdésekre. | 68–69. o. 3. gyakorlat, 68. o. |
+|  | **Füzet.** |  |  |
+| 13.03. | A számítógépek története. | Mesélni az olvasottakról, hallottakról. Kulturális, szociális, állampolgári. Feladatok hallgatása és gyakorlatok végrehajtása. Szövegek olvasása. Az olvasás utáni feladat végrehajtása, szavak ismétlése. E-mail írása. Lexika: Digital, download, machine, save software, virus. Nyelvtan: This is, This describes, This means, This helps… Kérdéseket tesz fel és rövid válaszokat ad. Érzelmeket fejez ki, értékelve az eseményeket. | 70–71. o. 1. gyakorlat, 71. o. |
+| 20.03. | Blog vezetése. | Saját vélemény kifejezése írásbeli üzeneteken keresztül. Kulturális, szociális, állampolgári. Üzenetek olvasása és gyakorlatok végrehajtása. Mondatokban lévő hézagok kitöltése, a szókincs használatának gyakorlása. Lexika: Glad, happy, surprised, worried, upset. Nyelvtan: To be in Past Simple. Kérdéseket tesz fel és rövid válaszokat ad. Érzelmeket fejez ki, értékelve az eseményeket. | 72–73. o. 73. o.: lerajzolni egy blogoldalt. |
+|  | **Füzet.** |  |  |
+| 03.04. | **Diagnosztikai dolgozat.** |  |  |
+| 10.04. | Egészséges szervezet. | Leírni érzéseit, válaszolni a kérdésekre. Állampolgári, egészségmegőrző. Olvasni, hallgatni és feladatokat végrehajtani. Rövid párbeszédek létrehozása. Lexika: Cold. Hurt, Broken arm, temperature, toothache, sick. Nyelvtan: Should, Shouldn't. Rövid válaszokat adni a kérdésekre múlt időben. | 76–77. o. 3. gyakorlat, 77. o. |
+| 17.04. | Utazás a városban. | Tudni alkalmazni a helyhatározó elöljárószókat, tájékozódni a város térképén. Állampolgári, szociális, kommunikatív. Olvasni, feladatokat végrehajtani. Válaszlehetőségek lejegyzése és a hely meghatározása. Lexika: Across, next to, opposite, behind, in front of, outside, turn, straight, stay, cross… Nyelvtan: Prepositions, 149. o. Az elöljárószók összehasonlítása. | 80–81. o. Lerajzolni a közlekedési jeleket. |
+| 24.04. | Lenyűgöző utazás. Ukrajna természeti csodái. Az olvasási készségek fejlesztése. | Érdeklődést kifejezni, kérdezni az információ pontosítása céljából. Állampolgári, szociális, kulturális. Olvasni és tervezni a jövőbeli utazást. Kérdéseket feltenni az információ pontosításához. A látványosságok meglátogatásának tervezése. Lexika: Cave, forest, hill, lake, mountain, river, sea, waterfall, dune, wonder, bottom. Nyelvtan: Present Simple. Mesélni az utazásról. Rövid információ írása az utazásról és a pihenés alatti cselekvésekről. | 84–85. o. Feladat a munkafüzetben. |
+| 01.05. | Pihenés Skóciában. **Hallás utáni szövegértési készségek ellenőrzése.** | Leírni a helyet, ahol utazik, értékelést adni az utazásról szerzett benyomásokon keresztül. Állampolgári, szociális, kulturális. Szavak kiejtése, a rendhagyó igék múlt idejű alakjainak memorizálása. Szavak memorizálása és megtalálása maga körül az utazás során. Nyelvtan: Past Simple / Present Simple. Mesélni az utazási tervről, információt megtudni az utazás helyéről stb. | 88–89. o. 2. gyakorlat, 89. o. |
+|  | **Füzet.** |  |  |
+| 08.05. | Csodálatos állatok. **Olvasási készségek ellenőrzése.** | Megnevezni és meghatározni az állatokat (házi, vad). Kommunikatív, szociális, egészségmegőrző. Kérdésekre válaszolni. Tudni meghatározni az állatot, élőhelyét. Lexika: Bear, monkey, insect, lion… Nyelvtan: Past Continuous. Kérdéseket és válaszokat megfogalmazni. | 90–91. o. Lerajzolni bármely állatot, röviden leírni a nevét, hol él, mit eszik… |
+| 15.05. | Mit nézel a tévében? **Íráskészség ellenőrzése.** | Megnevezni a műsorokat, filmeket vagy rajzfilmeket, kedvenc műsorokat. Kommunikatív, kulturális, szociális. Beszélgetéseket folytatni a tévénézéssel kapcsolatban. Olvasni és meghatározni a szabadidős tevékenységet. Lexika: The news, channeis, cartoons, talent show, remote controle. Nyelvtan: Going to. Mondatokat alkotni jövő időben going to-val. | 98–99. o. 5. gyakorlat, 99. o. |
+| 22.05. | A családom. **Beszédkészség ellenőrzése.** | Mesélni a családtagokról. Leírni a külső megjelenést. Kommunikatív, szociális. Mesélni a családfáról. Olvasni és meghatározni az állításokat: igaz/hamis. Lexika: Aunt, cousin, niece, grandchild, nephew. Nyelvtan: melléknevek-határozószók. Tudni a melléknevet határozószóvá változtatni. | 112–115. o. 5. gyakorlat, 113. o. |
+| 29.05. | **Diagnosztikai dolgozat.** |  |  |
+|  | **Füzet.** |  |  |
