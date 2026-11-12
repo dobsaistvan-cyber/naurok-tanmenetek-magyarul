@@ -1,0 +1,69 @@
+# Naptári terv, 11. osztály, Karpjuk, 2. félév, heti 2 óra
+
+- **Eredeti ukrán cím:** Календарне планування 11 клас Карпюк 2 семестр 2 год
+- **Szerző:** nem megállapítható
+- **Tankönyv:** О. Д. Карп'юк, Англійська мова (11. tanulási év), 2019
+- **Osztály:** 11. osztály
+- **Heti óraszám:** 2 óra (évi 70 óra; I. félév 30 óra, II. félév 37 óra)
+- **Félév/év:** II. félév
+- **Forrás URL:** https://naurok.com.ua/kalendarne-planuvannya-11-klas-karpyuk-2-semestr-2-god-242892.html
+
+> **Megjegyzés:** A forrás táblázat oszlopai (Óra sorszáma, Dátum, Téma, altéma, Integrált tartalmi vonalak, Nyelvi készlet — Nyelvtan, Szókincs; Kommunikatív beszédtevékenység-típusok — Olvasás, Hallás utáni szövegértés, Szóbeli/írásbeli interakció; Házi feladat) a kinyert szövegben összeolvadtak; a fordítás azt tartalmazza, ami kivehető volt. A forrás hibáját megőriztük: a 67. óránál „Összegző óra az I. félévről" szerepel. Т.О. = tematikus értékelés; кр = ellenőrző dolgozat.
+
+## Naptári-tematikus terv angol nyelvből a 11. osztály számára
+
+Karpjuk O. D. tankönyve alapján, „Angol nyelv (11. tanulási év)", 2019.
+
+**Évi óraszám — 70 óra. I. félév — 30 óra. II. félév — 37 óra.**
+
+### Unit 5. Inventions and Lifestyles. Tudomány és technikai haladás.
+
+- **31.** A mobiltelefon kialakulásának története. Discuss the place of a person in modern technological environment. Ex. 1a, p. 120. "Words for you" box, p. 122 Ex. 2, p. 121–122. Ex. 3a, p. 122–123 "Warm up activity", p. 119. Ex. 1b, p. 120. Discuss the questions. Share an experience of the use of the Internet Write a brief essay.
+- **32.** Az emberi tevékenység hatása a környezetre. Develop your vocabulary: Science and inventions Discuss positive and negative effects of some inventions. Ex. 1, p. 117. Ex. 3, p. 125. Ex. 5, p. 125–126 Texts: 1. YouTube. 2. Water as Fuel. 3. Creation of Human Organs. 4. Artificial Intelligence 5. Detection of Gravitational Waves Ex. 2, p. 124–125. Answer the questions Write a brief review
+- **33.** Technikai haladás. Build up your grammar: adverb clauses of time Describe their own lifestyle and defines priorities "Grammar links" box, p. 126. "Note" box, p. 127. Ex. 1, p. 127 Grammar Practice card Ask and answer the question in pairs. Ex. 4, p. 128 Ex. 5, p. 128
+- **34.** A modern technika megváltoztatott minket. Describe their own lifestyle and defines priorities. Discuss the positive and negative effects of certain inventions "Words for you" box, p. 129 Ex. 2a, 130. Ex. 4, p. 133 Ex. 1, p. 129. Ex. 2a, 130. Ex. 2b, 130–131. Ex. 3, p. 131 Ex. 1, p. 129. Ex. 1, p. 132. Ex. 2a, p. 132. Ex. 4, p. 133–134. Ex. 3, p. 133 Ex. 5, p. 134. Express your attitude to the surfing the Internet. Answer the questions
+- **35.** Articles: purpose, type, style Describe their own lifestyle and defines priorities; compare real and virtual communication "Writing point" box, p. 135; Ex. 1, p. 135. Ex. 2, p. 135 Text for Listening "DJ" Ex. 3, p. 136. Ask and answer the questions. Pre-listening task. After-listening task Ex. 4, p. 136
+- **36.** Use your skills: Digital world Foresee effects of careless behaviour in the social networks To revise Verbs tenses. Ex. 1, p. 137 To revise previously taught vocabulary. Ex. 2, p. 137. Ex. 3, p. 137–138 Ex. 2, p. 137 Ex. 4, p. 138 Ex. 6, p. 139. Explain preferences. Give reasons Interview a discuss information. Ex. 5, p. 138–139 Ex. 6, p. 139, question. Write a discursive article
+- **37.** Íráskészség fejlesztése. Tematikus értékelés (Т.О.). A tanár feladata. Ex. 4, p. 141–144
+- **38.** **Szókincs-nyelvtani teszt az „Inventions and Lifestyles" témából.**
+
+### Unit 6. Nature and the Environment. Természet és környezet.
+
+- **39.** Nemzeti parkok és természetvédelmi területek. Accept nature as an integral system. Evaluate the impact of the environment on people and vice versa "Warm up" activity, p. 145. Ex. 1, p. 146. The "Words for you" box, p. 147 Ex. 2a, p. 146–149. Ex. 2b, p. 149 "Warm up" activity, p. 145. Discussing the questions. Presenting opinions of the majority. Giving words definitions. Sharing information to the others Ex. 4, p. 149. Make a project (computer presentation or poster) and prepare for the class discussion
+- **40.** Develop your vocabulary. Build up your grammar Accept nature as an integral system. Evaluate the impact of the environment on people and vice versa Defining and non-defining Relative clauses. "Grammar links" box, p. 152. Ex. 2, p. 153. Ex. 4, p. 154. Ex. 5, p. 154. Ex. 6, p. 155 "Vocabulary links" box, p. 150. Ex. 1, p. 150. Ex. 2, p. 150–151 Ex. 1, p. 153. Ex. 3, p. 154 Ex. 1, p. 153. Ex. 3, p. 154 Giving words definitions. Explaining the words meanings. Explaining the rule in groups. Comparing results. Correction mistakes. Ex. 3, p. 151. Ex. 8, p. 155–156
+- **41.** Ökológiai problémák. Estimate effects of disasters on people Ex. 1, p. 156. "Words for you" box, p. 156. "Words for you" box, p. 158 Ex. 4, p. 158. Ex. 2, p. 158–160 Ex. 2a, p. 156. Ex. 2b, p. 157 Making notes. Comment on information. Explaining the word meanings. Complete the sentences. Discuss problems. Acting out the dialogues. Ask and answer the questions in pairs Ex. 4, p. 160. Write a brief paragraph "Environmental problems in Ukraine"
+- **42.** Stages of writing process: Opinion essay Accept nature as an integral system. Estimate effects of disasters on people Do the quiz Ex. 3a, p. 162. Ex. 4, p. 163 Do the quiz. "Writing point" box, p. 161. Ex. 2a, p. 161. Ex. 2b, p. 162. Ex. 2c, p. 162. Ex. 3b, p. 163. Ex. 3c, p. 163 Ex. 5b, p. 163
+- **43.** Az ökológiai problémák megoldásának módjai. Accept nature as an integral system Relative Clauses. Ex. 1, p. 164 To revise previously taught vocabulary Ex. 4, p. 165. "Writing an opinion essay" text Ex. 2, p. 164. Ex. 3, p. 165. Role-play the situation. Ex. 5-1, p. 166 Ex. 5-2, p. 166. Write you variant of the leaflet. Prepare to present your work in class with your group
+- **44.** A tanult anyag összefoglalása. Estimate effects of natural disasters on people Revise Defining and non-defining Relative clauses. Ex. 2, p. 168 To revise previously taught vocabulary. Ex. 1a, p. 167. Ex. 1b, p. 167 Ex. 4, p. 169–170 Ex. 3, p. 163 Answer the questions. Ecological problems and possible solutions Ex. 4, p. 170. Complete the table according to the text; use your lesson notes
+- **45.** **Szókincs-nyelvtani teszt a „Nature and the Environment" témából.** A tanár feladata.
+
+### Unit 7. Speaking about Art … Művészet.
+
+- **46.** Művészeti ágak. The story of one girl Demonstrate understanding the value of cultural diversity and the need to live together in peace Ex. 4b, p. 174, "Words for you" box, p. 175. Ex. 5, p. 175–176 Ex. 4b, p. 172–174 Ex. 4a, p. 172–174 "Warm-up activity", p. 171. Ex. 1, p. 172. Ex. 2, p. 172. Ex. 3, p. 172. Ex. 6, p. 176. Ex. 7a, p. 176. Ex. 8, p. 170 Ex. 7b, 7c, p. 176. Write an essay about strong impression
+- **47.** Develop your vocabulary. Build up your grammar Give examples of the influence of art on health and well-being "Grammar links" box, p. 179–180. Ex. 2a, p. 180–181. Ex. 3, p. 181. Ex. 4, p. 181. Ex. 6, p. 182 "Vocabulary links" box, p. 177. Ex. 1a, b, p. 177. Ex. 2, p. 178. Ex. 3, p. 178. Ex. 4, p. 178 Discuss the quotation. Ex. 2b, p. 180–181; Ex. 5, p. 179. Ex. 5, 7, 182
+- **48.** Language of art Make reports about the main attractions of history and culture "Words for you" box, p. 183 Ex. 5, p. 176–177. Ex. 4, p. 180–181 Ex. 2, p. 184. Ex. 3, p. 184. Ex. 5, p. 186 Ex. 1, p. 183. Ex. 4a, p. 185. Ex. 4b, p. 185. Ex. 1, p. 186. Ex. 2, p. 187. Ex. 3, p. 189. Ex. 4, p. 190–191 Write a brief paragraph about one of the pictures you've chosen
+- **49.** Writing a review Demonstrate understanding the value of cultural diversity and the need to live together in peace Linking words list, "Useful language" box, p.192 Ex. 1, p. 191. Ex. 3, p. 192 Answer the questions. Write down questions. Ask and answer in pairs. Ex. 2, p. 192. Explain your point of view. Speak about a film Write a film / book review
+- **50.** Use your skills: Diversity of arts Compare museums. Demonstrate understanding the value of cultural diversity and the need to live together in peace Participle. Ex. 1, p. 188 Ex. 2, p. 195 To revise previously taught vocabulary. Ex. 1, p. 194 Text "Digital art". Ex. 3, p. 196–197 Ex. 3, p. 196–197. Discussing questions. Giving opinion. Ex. 5, p. 198–199. Role play the situation Ex. 4, p. 198
+- **51.** A tanult anyag összefoglalása. **Szókincs-nyelvtani teszt a „Speaking about Art …" témából.** A tanár feladata.
+
+### Unit 8. Youth in Mind. Ifjúság és ifjúsági kultúra.
+
+- **52.** A fiatalok problémái. Discuss the peculiarities of interaction between personality and group. Formulate personal values priorities. "Words for you" box, p. 207. Ex. 4, p. 207 Ex. 2, p. 204–206 "Warm-up activity" box, p. 203. Ex. 1, p. 204. Ask and answer the questions. Brainstorm the activities. Make a mind map. Define the essential and detailed information Ex. 5, p. 207. Make an individual project.
+- **53.** Develop your vocabulary: I myself… Discuss the Peculiarities of interaction between personality and group Prefix "self-"; box, p. 208. Ex. 2, p. 209. Ex. 3, p. 209 Text "Problems of youth" Ex. 1, p. 208. Explain a choice. Ex. 4a, p. 209 Ex. 4b, p. 209. Write an essay
+- **54.** Build up Your Grammar: are you in an infinitive mood? Demonstrate an understanding of the value of work and diligence to achieve well-being "Grammar links-1" box, p. 210. Ex. 1, p. 210. Choose the appropriate form of the Infinitive. "Grammar links -2, 3" box, p. 210–211. Ex. 2, p. 211. Ex. 3, p. 212. Ex. 4, p. 212 Text "The Youth" "One truth and a lie" — game. define the Infinitive forms Ex. 5, p. 212
+- **55.** Érzelmek. How are you feeling now? Critically assess the impact of destructive youth movements on peer life "Words for you" box, p. 213. "Words for you" box, p. 215; Ex. 2a, p. 213. Ex. 2b, p. 213 Ask and answer a partner the questions in turns. Ex. 1, p. 213 Ex. 1, p. 215. Ex. 2, p. 215–216. Ex. 3, p. 214. Ex. 3, p. 216 Ex. 2, p. 216 Write an essay about Ukrainian teenagers' life;
+- **56.** A discursive Essay structure: solution to a problem essay Discuss their position and own views on the various social problems. Formulate personal values priorities "Writing point" box, p. 217. Ex. 1, p. 217. Text "Teen Line" Compare ideas. Ex. 2, p. 218. Ex. 3, p. 218. Answer the questions. Discuss the problems. Complete the table. Propose solutions and predict the results Ex. 4, p. 218
+- **57.** Use your skills: Social maturity Formulate personal values priorities Forms of the Infinitive. Ex. 2, p. 220 To revise previously taught vocabulary. Ex. 1, p. 219 Ex. 1, p. 219. Ex. 3a, p. 220–221 Youth Organizations in Ukraine Ex. 1, p. 219. Ex. 3b, p. 221. Ex. 5, p. 221. Role-play the situation. Ex. 4, p. 221. Ex. 6, p. 222 Ex. 6, p. 222.
+- **58.** Íráskészség fejlesztése. **Szókincs-nyelvtani teszt a „Youth in Mind" témából.** A tanár feladata. Készüljön fel a hallás utáni szövegértés ellenőrző dolgozatára.
+- **59.** *Hallás utáni szövegértés ellenőrzése.* A tanár feladata. Készüljön fel az olvasott szöveg értése ellenőrző dolgozatára.
+- **60.** *Olvasott szöveg értése ellenőrzése.* A tanár feladata. Készüljön fel az íráskészség ellenőrző dolgozatára.
+- **61.** *Íráskészség ellenőrzése.* A tanár feladata. Készüljön fel a beszédkészség ellenőrző dolgozatára.
+- **62.** *Beszédkészség ellenőrzése.* A tanár feladata. Write down a brief paragraph about yourself; use the plan
+
+### Unit 9. People and Society. Angol nyelvű országok. Ukrajna a világban.
+
+- **63.** World and European organisations Demonstrate understanding the value of cultural diversity and the need to live together in peace "Words for you" box, p. 230. Ex. 4, p. 230 Ex. 2, p. 228–229. Ex. 3, p. 229. Ex. 5, p. 230–231 "Warm-up activity" box, p. 227. Ex. 1, p. 228. Ex. 5, p. 230–231. Ex. 6, p. 231. Answer the questions. discuss the following questions. Ex. 9, p. 231 Write a brief essay "Ukraine of the future"
+- **64.** Develop Your Vocabulary. Build up your grammar Compare different political systems. Offers options for school / class participation in community life Non-finite verb forms. Ex. 1, p. 234. Ex. 2, p. 234 "Vocabulary links" box, p. 232. Ex. 1, p. 232. Ex. 2, p. 232. Ex. 3, p. 233. Ex. 4, p. 233 Express your opinion. Explain the word meanings. Discuss the questions; Ex. 3, p. 234
+- **65.** Council of Europe and European Union Discuss about their role and place in a modern multilingual and multicultural environment "Words for you" box, p. 237 Ex. 3, p. 238 Ex. 2, p. 235. Ex. 4, p. 236. Listen to a song Ex. 1, p. 235. Complete the table. Ex. 3, p. 235. Discuss the questions. Ex. 1, p. 237. Give common opinion. Ex. 2a, p. 237. Ex. 3, p. 238. Role play Ex. 2b, p. 237. Think about the information you've discussed and write a brief essay expressing your opinion
+- **66.** Writing an article: social problems Identify own rights and responsibilities. Discuss active citizenship and own views on various social problems Transitions and linking words Text "Article about how to write an article on social issues". "Writing points" box, p. 239 Answer the questions. "Writing points" box, p. 239. Ex. 1, p. 239. Ex. 2, p. 239–240. "Useful tips" box, p. 240. Ex. 3, p. 240. Discuss the questions Ex. 3, p. 240. Use your notes and printed lesson materials to write an article
+- **67.** Use your skills: Providing a seminar. **Szókincs-nyelvtani teszt a „People and society" témából. Összegző óra az I. félévről.** Offers options for school / class participation in community life. To revise non-finite verb forms. Ex. 2, p. 242 To revise previously taught vocabulary. "Useful tips" box, p. 246. Table "Useful phrases" Ex. 1, p. 240. Ex. 5a, p. 243–244 Ex. 3, p. 241. Ex. 4, p. 242. Ex. 5b, p. 244. Ex. 6, p. 244–246. Provide a seminar Ex. 6, p. 246. Choose a topic and write a seminar structure

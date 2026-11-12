@@ -1,0 +1,188 @@
+# Naptári-tematikus terv angol nyelvi órákhoz, emelt szint
+
+- **Eredeti ukrán cím:** календарно-тематичне планування уроків англійської мови поглиблений рівень
+- **Szerző:** nincs megadva
+- **Tankönyv:** О. Д. Карп'юк, Англійська мова, 10. osztály, szakosított iskolák számára
+- **Osztály:** 10. osztály
+- **Heti óraszám:** nincs megadva
+- **Félév/év:** teljes tanév (2017–2018-as tanév)
+- **Forrás URL:** https://naurok.com.ua/kalendarno-tematichne-planuvannya-urokiv-angliysko-movi-poglibleniy-riven-78824.html
+
+> **Megjegyzés:** A terv a 2017–2018-as tanév frissített programja szerint készült az I. és II. félévre, nyelvi és beszédkompetenciákkal, szerkeszthető dátumokkal. A forrás táblázatának oszlopai a megjelenítésben összeolvadtak, ezért a fordítás az órák kivehető tartalmát listás formában adja vissza (dátum, téma, feladatok, házi feladat). A forrás számozási hibái megőrizve: a 116., 140. és 162. sorszám hiányzik, a 161. sorszám kétszer szerepel (18.05 és 21.05); az 55. és 56. óra dátuma egyaránt 22.11; a 69–72. óránál két-két dátum szerepel.
+
+A forrás táblázatának oszlopai: Fejezet | Az óra sorszáma | Dátum | A kommunikáció témája | Nyelvi kompetencia (szociokulturális, nyelvészeti összetevő, lexikai anyag, nyelvtani anyag) | Beszédkompetencia (hallás utáni szövegértés, beszéd: dialogikus / monologikus, olvasás, írás) | Házi feladat
+
+## I. félév
+
+### Unit 1. ENGLISH.
+
+- **1. 01.09** A tanulási stratégiák megvitatása az új tanévre. Beszámoló a nyári szünetről.
+- **2. 04.09** Az angol nyelv története. Az angol nyelv eredete. — 6. gy., 7. o.; 2., 3. gy., 4–5. o.; 4. gy., 7. o.; 5., 7. gy., 7. o.
+- **3. 05.09** Complex Subject — 10. gy., 8. o.; 8. gy., 7. o.; 9. gy., 7. o.
+- **4. 06.09** Prepositions — 12. gy., 8. o., 14. gy., 9. o.; 13. gy., 9. o.; 14. gy., 9. o.
+- **5. 07.09** Az angol nyelv tanulása. — 2. gy., 9. o.; 2. gy., 9. o.; 2в gy., 10. o.; 1. gy., 9. o.; 2с gy., 10. o. — Beszámoló: „Az angol nyelv tanulásának módjai"
+- **6. 08.09** — 3. gy., 11. o.; 4. gy., 11. o.; 3. gy., 10. o.; 3. gy., 10. o. (újramesélés)
+- **7. 11.09** Az angol nyelvű világ. Angolul beszélő országok. Az angol nyelv változatai. — 6. gy., 12. o.; 5в gy., 12. o.; 5. gy., 11. o.; 7. gy., 13. o.
+- **8. 12.09** Az angol nyelv változatossága. — 8в gy., 13. o.; 8a gy., 13. o., 9. gy., 14. o.; 10в gy., 14. o.; 10. gy., 14. o.
+- **9. 13.09** A különbség a Standard English és az American English között. — 14. gy., 15. o.; 13. gy., 15. o.; 11. gy., 14. o.; 14с gy., 16. o.; 15. gy., 16. o.
+- **10. 14.09** Az angol nyelv változatai. — 15. gy., 16. gy., 16. o.
+- **11. 15.09** Az ukrán nyelv. — 16. gy., 16. o.; 16. gy., 16. o. (újramesélés)
+- **12. 18.09** Ellenőrző óra.
+- **13. 19.09** Hagyományok és szokások. Ünnepek Ukrajnában. — 1в gy., 18. o.; 1a gy., 17. o. — Levelet írni.
+- **14. 20.09** Ünnepek az USA-ban. — 2. gy., 18. o.; 3в gy., 19. o.; 3a gy., 18. o.; 3с gy., 19. o.
+- **15. 21.09** — 4. gy., 19. o.; 3с gy., 19. o.; 4. gy., 19. o., 5. gy., 20. o. — Beszámoló az ünnepekről.
+- **16. 22.09** — 6. gy., 20. o.; 7. gy., 20. o.; 7. gy., 20. o. (újramesélés)
+- **17. 25.09** Ünnepek és hagyományok az USA-ban és Ukrajnában. Karácsony. — 8. gy., 21. o.; 7. gy., 20. o. (a tanulók beszámolói); 9. gy., 21. o.
+- **18. 26.09** Családi ünnepek különböző országokban. Húsvéti ünnepek. — 10. gy., 22. o.; 9. gy., 21. o. — Beszámoló a húsvéti ünnepekről.
+- **19. 27.09** A tanulók beszámolói — 11. gy., 22. o.; 11с gy., 23. o.
+- **20. 28.09** Angol hagyományok. — 11. gy., 22. o., 12в gy., 24. o.; 12a gy., 23. o.; 12в gy., 24. o. (írásban)
+- **21. 29.09** Amerikaiak. — 14. gy., 25. o.; 13. gy., 24. o.; 13в gy., 25. o.
+- **22. 02.10** Nagy-Britannia és Észak-Írország Egyesült Királysága. Nagy-Britannia különböző részeinek hagyományai. — 14. gy., 25. o.; 15с gy., 25. o.; 15. gy., 25. o.; 15d gy., 26. o.
+- **23. 03.10** Az ukrán nép hagyományai. — 17. gy., 26. o.; 18. gy., 26. o.; 16. gy., 26. o.; 18. gy., 26. o.
+- **24. 04.10** Ellenőrző óra.
+- **25.** Tartalék óra.
+
+### Unit 2. FAMILY
+
+- **26. 05.10** Megvitatandó szöveg: „Old Folks' Christmas". 27. o. — Passive Voice. Wish-sentences. Imperatives. — 1. gy., 32. o.; 27–32. o.; 2. gy., 33. o., 3. gy., 34. o.
+- **27. 06.10** — 4–8. gy., 34. o.; 9a gy., 35. o.
+- **28. 09.10** — 9aв gy., 35. o.; 10. gy., 35. o.
+- **29. 10.10** Családi problémák. Családok Ukrajnában és Nagy-Britanniában — 1. gy., 35. o.; 1в gy., 35. o.; 2. gy., 36. o.; 1a gy., 35. o.; 3. gy., 36. o.
+- **30. 11.10** — 5. gy., 37. o.; 4., 5. gy., 37. o.; 4в gy., 37. o.
+- **31. 12.10** — 6в gy., 38. o.; 6с gy., 39. o.; 6. gy., 38. o., 8. gy., 39. o.; 8вс gy., 39. o.
+- **32. 13.10** — 9. gy., 39. o.; 9с gy., 39. o.; 9. gy., 39. o. — Fogalmazás írása: „Do you have the same family problems?"
+- **33. 17.10** A dolgozó nők problémája. — 10. gy., 40. o., 12в gy., 41. o.; 10в gy., 40. o.; 10–12. gy., 40. o.; 12. gy., 41. o.
+- **34. 18.10** Szülők és gyerekek. — 14. gy., 42. o.; 16. gy., 43. o.; 13в gy., 42. o., 16. gy., 43. o.; 13., 14. gy., 42. o.; 15. gy., 43. o.
+- **35. 19.10** — 18. gy., 43. o.; 17–19. gy., 43–44. o.; 19. gy., 44. o.
+- **36. 20.10** A kamaszkor problémái. — 19. gy., 44. o.; 20–22. gy., 44. o. — Levelet írni az újságba.
+- **37. 23.10** A királyi család. — 23. gy., 45. o.; 23. gy., 45. o.; 23. gy., 45. o.; 24. gy., 46. o.
+- **38. 24.10** — 24. gy., 46. o.; 25. gy., 46. o.; 26. gy., 47. o.
+- **39. 25.10** Ellenőrző óra.
+- **40. 26.10** Otthon és háztartás. Különböző háztípusok. — 4. gy., 49. o.; 1. gy., 47. o.; 1с gy., 48. o.; 2. gy., 48. o.; 5. gy., 49. o.
+- **41. 27.10** Lakás Ukrajnában. Az építkezés története Ukrajnában. — 5. gy., 49. o.; 6. gy., 49. o.; 6. gy., 49. o. (újramesélés)
+- **42. 06.11** Lakásproblémák az USA-ban. — 7в, 8. gy., 50. o.; 7с gy., 50. o.; 7aв, 8. gy., 50. o.; 9. gy., 52. o.
+- **43. 07.11** Lakáseladás. — 11a gy., 52. o.; 11в gy., 53. o.; 11a gy., 52. o.; 10. gy., 52. o.
+- **44. 08.11** A jövő lakása. — 12в, 13. gy., 53. o.; 14в gy., 54. o.; 12вс gy., 53. o.; 13., 14. gy., 53–54. o.; 14в gy., 54. o. (írásban)
+- **45. 09.11** Költözés új házba. — 16. gy., 55. o.; 15. gy., 54. o.; 15. gy., 54. o., 16. gy., 55. o.; 17. gy., 55. o.
+- **46. 10.11** Háztartás. — 19. gy., 56. o.; 18., 19. gy., 56. o.; 17. gy., 55. o.; 18., 19. gy., 56. o.; 20. gy., 57. o.
+- **47. 13.11** Házimunka. — 24., 25. gy., 58. o.; 22., 23. gy., 58. o.; 21. gy., 58. o.; 26. gy., 58. o.
+- **48. 14.11** Hogyan rendezzük be és díszítsük a lakást. — 27., 28. gy., 58. o.; 32. gy., 59. o.; 30. gy., 59. o.; 33. gy., 59. o.
+- **49. 15.11** Ellenőrző óra.
+- **50.** Tartalék óra.
+- **51. 16.11** Megvitatandó szöveg: „The Man of Property". 61. o. — 60–65. o.; 1., 2. gy., 65. o.
+- **52. 17.11** — 3. gy., 64. o., 4. gy., 65. o.; 5. gy., 65. o., 6. gy., 66. o.
+- **53. 20.11** — 7., 9., 11. gy., 66–67. o.; 8. gy., 66. o.; 10., 12. gy., 67. o.
+- **54. 21.11** — 12. gy., 67. o.; 14. gy., 68. o.; 13. gy., 68. o.; 15. gy., 68. o.
+- **55. 22.11** — 16., 18. gy., 68. o.; 17. gy., 68. o.
+- **56. 22.11** Személyiség. — 1. gy., 68. o.; 2. gy., 69. o.; 3. gy., 69. o.; 1. gy., 68. o., 2. gy., 69. o.; 1в gy., 69. o.
+- **57. 23.11** Külső és jellem. — 5. gy., 70. o.; 4. gy., 69. o.; 6. gy., 70. o.
+- **58. 24.11** — 9a gy., 71. o.; 8. gy., 71. o.; 7. gy., 70. o., 9. gy., 71. o.; 9в gy., 71. o.
+- **59. 27.11** Nemzeti jellemvonások. Az ukránok, britek, amerikaiak jellemvonásai. — 11в gy., 73. o.; 10в gy., 72. o.; 10., 11. gy., 72. o.; 12. gy., 73. o.
+- **60. 28.11** Az emberekhez való viszony. — 13в gy., 74. o.; 13a gy., 74. o.; 15. gy., 74. o.; 14. gy., 74. o.
+- **61. 29.11** — 17. gy., 75. o., 18. gy., 76. o.; 16. gy., 74. o.; 19. gy., 76. o.
+- **62. 30.11** Kiemelkedő személyiségek — Helen Keller. — 2a gy., 76. o.; 20. gy., 76. o.; 21., 22. gy., 77. o.; 20вс gy., 76. o.; 23. gy., 77. o.
+- **63. 01.12** Személyiség. — 23. gy., 77. o. — Beszámoló a témából.
+- **64. 04.12** Ellenőrző óra.
+- **65. 05.12** Pihenés. — 4. gy., 79. o.; 4. gy., 79. o.; 2., 3., 4вс gy., 79. o.; 1. gy., 78. o.; 5. gy., 79. o.
+- **66. 06.12** — 7. gy., 80. o.; 6. gy., 79. o., 7. gy., 80. o.; 8. gy., 80. o.; 7. gy., 80. o.; 6. gy., 79. o.; 8в gy., 81. o.
+- **67. 07.12** Pihenési program. Meghívás, reklám — 9. gy., 81. o., 13. gy., 82. o.; 10в gy., 81. o.; 10a gy., 81. o., 12. gy., 82. o.; 14. gy., 83. o.
+- **68. 08.12** Túrák. Piknikek. Utazás. — 15. gy., 83. o.; 16с gy., 84. o.; 14с gy., 83. o., 16в gy., 84. o.; 15. gy., 83. o., 16. gy., 84. o.; 16. gy., 84. o.
+- **69. 11.12 12.12** — 17. gy., 85. o., 20. gy., 86. o.; 19в, 21. gy., 86. o.; 19. gy., 85. o., 20., 21. gy., 86. o.; 18. gy., 85. o.; 22., 23. gy., 87. o.
+- **70. 13.12 14.12** — 24. gy., 87. o., 26. gy., 88. o.; 24в gy., 87. o.; 24a, 25. gy., 87. o., 26. gy., 88. o.; 27., 28. gy., 88. o.
+- **71. 15.12 18.12** — 31., 32. gy., 90. o.; 33. gy., 90. o.; 29. gy., 89. o.; 33. gy., 90. o.
+- **72. 19.12 20.12** A pihenés tervezése. — 34. gy., 90. o.; 36. gy., 91. o.; 34с gy., 90. o.; 35. gy., 90. o.; 37., 38. gy., 92. o.
+- **73. 21.12** Olvasott szöveg értése ellenőrzése.
+- **74. 22.12** Íráskészség ellenőrzése.
+- **75. 25.12** Beszédkészség ellenőrzése.
+- **76. 26.12** Hallás utáni szövegértés ellenőrzése.
+- **77. 27.12** Összegző értékelés.
+- **78. 28.12 29.12** Tartalék óra. Félévi értékelés.
+
+## II. félév
+
+- **79. 15.01** Megvitatandó szöveg: „A Wicked Story". 94. o. — 1. gy., 94. o.; 94–96. o.; 2., 3. gy., 95. o.
+- **80. 16.01** Sequences of Tenses — 4–7. gy., 96. o.; 9., 10. gy., 97. o.; 8. gy., 96. o.
+- **81. 17.01** — 12. gy., 97. o., 13. gy., 98. o.; 14. gy., 98. o.
+- **82. 18.01** A művészet világa. A színház története. — 3. gy., 100. o.; 1. gy., 98. o.; 2. gy., 98. o.; 4. gy., 100. o.
+- **83. 19.01** Színház. — 4. gy., 100. o.; 6. gy., 100. o.; 5. gy., 100. o.; 6. gy., 100. o., 7. gy., 101. o. — Párbeszéd összeállítása (6., 7. gy., 100. o.)
+- **84. 22.01** Látogatás a színházban. A színház repertoárja. — 8. gy., 101. o.; 8., 9. gy., 102. o.; 8. gy., 101. o.; 10. gy., 103. o.
+- **85. 23.01** A kedvenc előadás. — 17. gy., 105. o.; 12. gy., 104. o., 13., 14. gy., 105. o.; 19., 20. gy., 106. o.; 11. gy., 103. o.; 15., 16., 18. gy., 105. o.
+- **86. 24.01** Ukrán művészet: színház és balett. Ukrajna művészete — 10. gy., 103. o.; 21., 22. gy., 106–107. o. — Beszámoló írása Ukrajna egyik kiemelkedő művészeti személyiségéről.
+- **87. 25.01** Színészek a művészetről. Brit színházi színészek. A tanulók beszámolói. — 25. gy., 107. o.; 23. gy., 107. o., 26. gy., 108. o.; 24. gy., 107. o., 27., 28. gy., 108. o.
+- **88. 26.01** Zene. Zenei stílusok — 2. gy., 109. o., 3. gy., 110. o.; 1. gy., 109. o.; 2., 3., 4. gy., 109–110. o.; 5. gy., 111. o.
+- **89. 29.01** A zene hatása az emberre. — 6. gy., 111. o. — Esszé írása: „A rockzene hatása".
+- **90. 30.01** Az ukrán zene története. Az ukrán zene fejlődése. — 9в, 10. gy., 114. o.; 7. gy., 112. o., 9a gy., 113. o.; 8. gy., 113. o.; 11. gy., 114. o.
+- **91. 31.01** A zene az ember életében. Zene az USA-ban és Nagy-Britanniában. — 12. gy., 114. o.; 15. gy., 115. o.; 13. gy., 115. o.; 14. gy., 115. o.
+- **92. 01.02** Kiemelkedő zenészek. — 18. gy., 117. o.; 19. gy., 117. o.; 16., 17. gy., 116. o.; 16в gy., 116. o., 20. gy., 117. o.
+- **93. 02.02** A kedvenc zene. — 23. gy., 118. o.; 21., 22. gy., 118. o.; 22., 23. gy., 118. o.; 24., 25. gy., 119. o.
+- **94. 05.02** — 27. gy., 119. o.; 27. gy., 119. o.; 24., 25. gy., 119. o.; 26. gy., 119. o.
+- **95. 06.02** Rockzene. A rockzene fejlődésének története. — 28. gy., 120. o.; 29. gy., 120. o. — Fogalmazás: „A kedvenc együttesed".
+- **96. 07.02** Ellenőrző óra.
+- **97. 08.02** Festészet. Az ukrán festészet hagyományai — 1. gy., 121. o., 3. gy., 123. o.; 2в gy., 123. o.; 2. gy., 121. o.; 2. gy., 121. o. (újramesélés)
+- **98. 09.02** — 4. gy., 124. o.; 6. gy., 125. o.; 5. gy., 124. o.; 7., 8. gy., 125. o.
+- **99. 12.02** Kép leírása. — 10. gy., 126. o.; 9в gy., 126. o.; 11. gy., 126. o.; 9a gy., 125. o.; 12., 13. gy., 126–127. o.
+- **100. 13.02** Képtár. A londoni képtár. — 15. gy., 128. o.; 14. gy., 127. o. — Leírni a szülőváros képtárát.
+- **101. 14.02** Könyvek, albumok, füzetek a művészetről. — 16. gy., 128. o.; 17. gy., 129. o.; 18. gy., 129. o.; 16. gy., 128. o.; 19. gy., 129. o.
+- **102. 15.02** Nagy-Britannia kiemelkedő festője — John Constable. — 20a gy., 129. o.; 20. gy., 129. o.; 20в gy., 129. o.; 24., 25. gy., 131. o.
+- **103. 16.02** Antikvárium. — 21. gy., 130. o.; 26. gy., 131. o.; 21. gy., 130. o., 22., 23. gy., 131. o.; 27. gy., 131. o.
+- **104. 19.02** Viták a művészetről. Angol festők. — 28. gy., 131. o.; 27. gy., 130. o., 28. gy., 132. o.; 29. gy., 132. o.; 28. gy., 132. o.
+- **105. 20.02** Mozi. — 2. gy., 134. o.; 1. gy., 134. o.; 3. gy., 134. o.; 4. gy., 134. o.; 5., 6. gy., 135. o.
+- **106. 21.02** — 7. gy., 136. o.; 9. gy., 136. o.; 8. gy., 136. o.; 10. gy., 136. o.
+- **107. 22.02** — 11с gy., 138. o.; 11в gy., 138. o.; 11a gy., 137. o.; 12. gy., 138. o.; 13. gy., 138. o.
+- **108. 23.02** A kedvenc filmem. — 15. gy., 139. o.; 14. gy., 139. o.; 15. gy., 139. o.; 16. gy., 139. o.
+- **109. 26.02** A filmművészet hatása az emberre. — 18., 19. gy., 140. o.; 17. gy., 139. o.; 21. gy., 141. o.
+- **110. 27.02** Hollywood csillagai. Amerikai színészek. — 23a gy., 142. o.; 23. gy., 142. o.; 22в–d gy., 142. o.; 22a gy., 141. o., 24. gy., 143. o. — Beszámoló a kedvenc színészről.
+- **111. 28.02** — 25., 26. gy., 144. o.; 27. gy., 144. o.
+- **112. 01.03** A filmművészet Ukrajnában. — 30–32. gy., 145. o.; 28. gy., 144. o., 29. gy., 145. o. — A 32. gy., 145. o. tervként felhasználva fogalmazást írni.
+- **113. 02.03** A mozi szerepe az ember életében. — 33., 35. gy., 146. o.; 34. gy., 146. o.; 36. gy., 147. o.
+- **114. 05.03** — 27., 38. gy., 146. o.; 36. gy., 147. o.; 36. gy., 147. o.
+- **115. 06.03** Ellenőrző óra.
+- **117. 07.03** Megvitatandó szöveg: „Kon-Tiki Expedetion". 148. o. — 1., 2. gy., 149. o.; 148–151. o.; 3–6. gy., 150. o.
+- **118. 09.03** — 9. gy., 151. o.; 7., 8. gy., 151. o.; 10. gy., 151. o.
+- **119. 12.03** — 148–151. o.; 11. gy., 152. o.
+- **120. 13.03** Tudomány és technológia. — 1a gy., 152. o., 2., 3. gy., 153. o.; 1. gy., 152. o.; 1в gy., 152. o.; 1a, 2., 3. gy., 153. o.; 1–3. gy., 152. o. (megtanulni a szavakat)
+- **121. 14.03** Az ukrán tudomány fejlődése. Híres ukrán tudósok. — 5. gy., 155. o.; 4. gy., 154. o.; 6. gy., 155. o.
+- **122. 15.03** Találmányok. — 8a gy., 155. o.; 8. gy., 155. o.; 8в gy., 155. o.; 7a gy., 155. o.; 9. gy., 155. o.
+- **123. 16.03** Tudományos-technikai haladás. — 15. gy., 157. o.; 11., 13. gy., 157. o.; 10. gy., 156. o.; 12. gy., 157. o.
+- **124. 19.03** Űrkutatás. — 18a gy., 158. o.; 19. gy., 158. o.; 18a gy., 157. o.; 18в gy., 158. o.; 18с gy., 158. o.
+- **125. 20.03** Tudomány és ember. Találmányok, amelyek megváltoztatták az emberek életét. — 21–25. gy., 159. o.; 26., 27. gy., 159. o.
+- **126. 21.03** — 30. gy., 160. o.; 26–28. gy., 159. o.; 31. gy., 160. o.; 29. gy., 159. o.
+- **127. 22.03** Nagy tudósok. A világ tudósai. — 32a gy., 160. o.; 32. gy., 160. o.; 32с gy., 161. o.; 33. gy., 161. o.; 32в gy., 161. o.
+- **128. 23.03** A. Nobel, I. Puljuj. — 39a gy., 163. o.; 39. gy., 163. o.; 37. gy., 162. o.; 38. gy., 162. o.; 27. gy., 162. o.
+- **129. 02.04** Tudományos múzeumok. — 34. gy., 161. o.; 34. gy., 161. o.; 35., 36. gy., 162. o.
+- **130. 03.04** Ellenőrző óra.
+- **131. 04.04** A postán. — 3. gy., 165. o.; 2. gy., 165. o., 4. gy., 166. o.; 1. gy., 164. o., 3. gy., 165. o.; 5. gy., 166. o., 6. gy., 167. o.
+- **132. 05.04** — 7. gy., 167. o.; 11. gy., 169. o.; 8. gy., 167. o.; 6. gy., 167. o.; 9., 11., 12., 13. gy., 169. o.; 15. gy., 170. o.; 10., 16. gy., 169–170. o.
+- **133. 06.04** Levelezés. — 17. gy., 171. o.; 18. gy., 171. o.; 22., 25. gy., 174. o.; 17. gy., 171. o., 19. gy., 172. o., 24. gy., 174. o.; 20. gy., 173. o., 23. gy., 174. o.
+- **134. 10.04** Táviratok és elektronikus posta. — 27–29. gy., 175. o.; 26. gy., 174. o., 30. gy., 175. o.; 30. gy., 175. o.
+- **135. 11.04** Az irodában. — 31в gy., 176. o., 32. gy., 177. o.; 31вс gy., 176. o.; 31. gy., 176. o., 32. gy., 177. o.; 33. gy., 177. o.
+- **136. 12.04** Telefonbeszélgetések. — 34. gy., 177. o.; 36. gy., 178. o., 39. gy., 179. o.; 37. gy., 178. o.; 35., 38. gy., 178. o.; 40. gy., 179. o.
+- **137. 13.04** — 41., 43. gy., 180. o.; 41., 43. gy., 180. o.; 42. gy., 180. o.; 41., 43. gy., 180. o.; 44–46. gy., 181. o.
+- **138. 16.04** — 48. gy., 182. o.; 49. gy., 182. o.; 50. gy., 182. o.; 47. gy., 182. o.
+- **139. 17.04** Ellenőrző óra.
+- **141. 18.04** Megvitatandó szöveg: „Martin's University Days". 183. o. — 1., 2. gy., 186. o.; 183–186. o.; 3–9. gy., 186. o.
+- **142. 19.04** — 11–14. gy., 188. o.; 15., 16. gy., 188. o.
+- **143. 20.04** — 17., 18. gy., 189. o.; 20. gy., 189. o.
+- **144. 23.04** Oktatás. — 4. gy., 190. o.; 1. gy., 189. o.; 2. gy., 189. o., 4. gy., 190. o., 5. gy., 191. o.; 3. gy., 190. o., 5в gy., 191. o.
+- **145. 24.04** Iskolák. Az oktatási rendszer Nagy-Britanniában. — 6. gy., 191. o.; 7в gy., 193. o.; 6., 7. gy., 191. o.; 7d gy., 194. o.
+- **146. 25.04** — 8., 10. gy., 194. o.; 11. gy., 195. o.; 13. gy., 195. o.; 12. gy., 195. o.
+- **147. 26.04** — 14a gy., 195. o.; 14., 15. gy., 195. o.; 14вс gy., 195. o.; 15. gy., 195. o.; 16. gy., 196. o.
+- **148. 27.04** Tanulás. — 18. gy., 197. o.; 17. gy., 197. o.; 17., 18. gy., 196. o.; 18вс gy., 198. o.
+- **149. 30.04** Oktatás az USA-ban. Az oktatási rendszer az USA-ban. — 19a gy., 198. o.; 19с gy., 199. o.; 19aв gy., 198. o., 20. gy., 199. o.; 21. gy., 200. o.
+- **150. 02.05** — 22. gy., 201. o.; 23. gy., 201. o.; 21–23. gy., 200–201. o. — Újramesélés.
+- **151. 03.05** Tervek a jövőbeli tanulással kapcsolatban. — 24. gy., 202. o., 26. gy., 203. o.; 24. gy., 202. o., 25. gy., 203. o.; 26с gy., 204. o.
+- **152. 04.05** Felsőoktatás. — 28. gy., 205. o.; 27в gy., 205. o.; 27с gy., 205. o.; 27a gy., 204. o., 28. gy., 205. o.; 29. gy., 206. o.
+- **153. 07.05** A tanár munkája. — 34. gy., 207. o.; 30–32. gy., 206. o.; 29. gy., 206. o.; 34. gy., 207. o.; 35. gy., 207. o.
+- **154. 08.05** Az oktatás szerkezetének összehasonlítása Nagy-Britanniában és az USA-ban. — 36вс, 37. gy., 207. o.; 36. gy., 207. o.; 38. gy., 208. o.
+- **155. 10.05** Ellenőrző óra.
+- **156. 11.05** Könyvek. — 5. gy., 210. o.; 7a gy., 211. o.; 3. gy., 209. o.; 1. gy., 208. o.; 2., 3. gy., 209. o.; 4., 6. gy., 210. o.
+- **157. 14.05** Kedvenc könyvek. — 10. gy., 212. o.; 11. gy., 213. o.; 8–10. gy., 212. o.; 12. gy., 213. o.
+- **158. 15.05** — 13. gy., 213. o.; 14. gy., 214. o.; 13., 14. gy., 213–214. o.; 14d gy., 215. o.
+- **159. 16.05** Ukrán irodalom. — 17. gy., 217. o.; 16. gy., 215. o. — Beszámoló az egyik ukrán íróról.
+- **160. 17.05** Olvasói vélemények. — 24. gy., 220. o.; 18–26. gy., 218. o.; 28. gy., 221. o. — Vélemény az olvasott könyvről.
+- **161. 18.05** — 29. gy., 222. o.; 30., 31., 34. gy., 223. o.; 29. gy., 222. o.; 35. gy., 224. o.
+- **161. 21.05** — 35–39. gy., 224. o.; 40. gy., 224. o.; 41., 42. gy., 225. o.
+- **163. 22.05** Beszédkészség ellenőrzése.
+- **164. 23.05** Íráskészség ellenőrzése.
+- **165. 24.05** Hallás utáni szövegértés ellenőrzése.
+- **166. 25.05** Olvasott szöveg értése ellenőrzése. Összegző értékelés.
