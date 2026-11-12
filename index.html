@@ -108,16 +108,50 @@ footer a{color:var(--accent)}
 <dl id="dlgBody"></dl>
 <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:14px">
 <a class="btn" id="dlgDl" href="#" download>Letöltés (.md)</a>
+<button class="btn ghost" id="dlgDocx" type="button">Letöltés (.docx)</button>
 <a class="btn ghost" id="dlgLink" href="#" target="_blank" rel="noopener">Eredeti megnyitása a Naurok oldalán ↗</a>
 <button class="btn ghost" id="dlgClose" type="button">Bezárás</button>
 </div>
 </dialog>
+<script src="js/docx-bundle.js"></script>
+<script src="js/md2docx.js"></script>
 <script>
 var DATA=[];
 var state={q:"",g:0,cat:"",sem:"",hrs:"",status:"",sort:"default",page:1};
 var PER=24;
 function esc(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
 function fname(p){return p.split("/").pop()}
+function dlDocx(btn,g,id){
+  var r=DATA.find(function(x){return x.g===g&&x.id===id});
+  if(!r||r.missing)return;
+  if(!window.md2docx||!window.md2docx.convertMarkdownToDocx){
+    alert("A .docx-készítő nem töltődött be. Frissítsd az oldalt, vagy töltsd le a .md változatot.");
+    return;
+  }
+  var orig=btn.textContent;
+  btn.disabled=true;
+  btn.textContent="Készül a .docx…";
+  fetch(encodeURI(r.file)).then(function(res){
+    if(!res.ok)throw new Error("HTTP "+res.status);
+    return res.text();
+  }).then(function(md){
+    return window.md2docx.convertMarkdownToDocx(md,r.hu);
+  }).then(function(blob){
+    var a=document.createElement("a");
+    a.href=URL.createObjectURL(blob);
+    a.download=fname(r.file).replace(/\.md$/i,".docx");
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    setTimeout(function(){URL.revokeObjectURL(a.href);},5000);
+    btn.disabled=false;
+    btn.textContent=orig;
+  }).catch(function(){
+    btn.disabled=false;
+    btn.textContent=orig;
+    alert("Nem sikerült elkészíteni a .docx fájlt. Próbáld újra, vagy töltsd le a .md változatot.");
+  });
+}
 function filtered(){
   var q=state.q.trim().toLowerCase();
   var out=DATA.filter(function(r){
@@ -148,8 +182,9 @@ function render(){
   else{
     grid.innerHTML=slice.map(function(r){
       var dl=r.missing?"":"<a class=\"btn\" href=\""+encodeURI(r.file)+"\" download=\""+esc(fname(r.file))+"\">Letöltés (.md)</a>";
+      var dlx=r.missing?"":"<button class=\"btn ghost\" type=\"button\" onclick=\"dlDocx(this,"+r.g+",'"+r.id+"')\">Letöltés (.docx)</button>";
       var miss=r.missing?"<span class=\"badge miss\">Hiányzik</span>":"";
-      return "<div class=\"card"+(r.missing?" missing":"")+"\"><div><span class=\"badge\">"+r.g+". osztály</span><span class=\"badge\">"+esc(r.cat)+"</span>"+miss+"</div><h3>"+esc(r.hu)+"</h3><p class=\"meta\"><b>Szerző:</b> "+esc(r.author)+"</p><p class=\"meta\"><b>Tankönyv:</b> "+esc(r.book)+"</p><p class=\"meta\"><b>Óraszám:</b> "+esc(r.hours)+" · "+esc(r.sem)+"</p><div class=\"actions\">"+dl+"<button class=\"btn ghost\" type=\"button\" onclick=\"openDlg("+r.g+",'"+r.id+"')\">Részletek</button></div></div>";
+      return "<div class=\"card"+(r.missing?" missing":"")+"\"><div><span class=\"badge\">"+r.g+". osztály</span><span class=\"badge\">"+esc(r.cat)+"</span>"+miss+"</div><h3>"+esc(r.hu)+"</h3><p class=\"meta\"><b>Szerző:</b> "+esc(r.author)+"</p><p class=\"meta\"><b>Tankönyv:</b> "+esc(r.book)+"</p><p class=\"meta\"><b>Óraszám:</b> "+esc(r.hours)+" · "+esc(r.sem)+"</p><div class=\"actions\">"+dl+dlx+"<button class=\"btn ghost\" type=\"button\" onclick=\"openDlg("+r.g+",'"+r.id+"')\">Részletek</button></div></div>";
     }).join("");
   }
   var p=document.getElementById("pager");
@@ -162,7 +197,8 @@ function openDlg(g,id){
   if(!r)return;
   document.getElementById("dlgTitle").textContent=r.hu;
   var dl=document.getElementById("dlgDl");
-  if(r.missing){dl.style.display="none";}else{dl.style.display="";dl.href=encodeURI(r.file);dl.setAttribute("download",fname(r.file));}
+  var dx=document.getElementById("dlgDocx");
+  if(r.missing){dl.style.display="none";dx.style.display="none";}else{dl.style.display="";dl.href=encodeURI(r.file);dl.setAttribute("download",fname(r.file));dx.style.display="";dx.onclick=function(){dlDocx(dx,r.g,r.id);};}
   document.getElementById("dlgLink").href=r.url;
   document.getElementById("dlgBody").innerHTML=
     "<dt>Évfolyam</dt><dd>"+r.g+". osztály</dd>"+
