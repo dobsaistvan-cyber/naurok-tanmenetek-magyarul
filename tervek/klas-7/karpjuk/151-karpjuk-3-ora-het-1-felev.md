@@ -1,0 +1,68 @@
+# Naptári-tematikus terv angol nyelvből 7. osztály, I. félév (O. D. Karpjuk tankönyve alapján)
+
+- **Eredeti ukrán cím:** Календарно-тематичне планування з англійської мови 7 клас 1 семестр (за О.Д. Карп'юк)
+- **Szerző:** Мельничук Т. Ю.
+- **Tankönyv:** О. Д. Карп'юк, Англійська мова, 7. osztály
+- **Osztály:** 7. osztály
+- **Heti óraszám:** 3 óra
+- **Félév/év:** I. félév
+- **Forrás URL:** https://naurok.com.ua/kalendarno-tematichne-planuvannya-z-angliysko-movi-7-klas-1-semestr-za-o-d-karp-yuk-82711.html
+
+> Megjegyzés: a forrás táblázatában az integrált tartalmi vonalak oszlopai összeolvadtak; a „+" jelöléseket a kivehető helyeken tartottuk meg. A forrásban szereplő elírásokat (pl. „Musn't" helyett „Musn 't", „С пособи" — „Способи") változatlanul, illetve a magyar fordításban javítás nélkül őriztük meg.
+
+## Naptári-tematikus terv angol nyelvből a 7. osztályban O. D. Karpjuk tankönyve alapján (heti 3 óra) — Мельничук Тетяна Юріївна
+
+A terv tartalmi vonalakkal és heti 3 órás terheléssel készült. Teljesen megfelel a tantervnek.
+
+**I. félév**
+
+| Sorszám | Dátum | Az óra témája | Nyelvi készlet — lexika | Nyelvi készlet — nyelvtan | Kulcskompetenciák | Integrált tartalmi vonalak | Várható eredmények | Házi feladat |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 |  | Ismerkedés. Hogyan töltöttem a nyári szünetemet | My name is … I am… My hobby is… | Present and Past Simple tenses | Az egész életen át tartó tanulás képessége | Polgári felelősség | Mesél magáról. | 1. gyak., 4. o. |
+| 2 |  | Ismerkedés a tankönyvvel. | 1–2. gyak., 4–5. o. |  | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Képes kifejezni a véleményét. | 2–3. gyak., 5. o. (írásban) |
+| 3 |  | Elkezdjük a tanulást. | 4. gyak., 6. o.; 3. gyak., 5. o. | 5. (a) gyak., 6. o. | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Csoportban dolgozik | 5. (a, b) gyak., 6. o. |
+| 4 |  | Az iskolában. | 1. gyak., 8. o.; 2. gyak., 9. o. | 3. gyak., 9. o. | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Mesél az iskoláról. | 4. gyak., 9. o. |
+| 5 |  | Iskolai tevékenységek. | 1. gyak., 10. o.; 2. gyak., 11. o. | There is/There are; 3. gyak., 11. o. | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Mesél az iskoláról. | 4. gyak., 12. o. |
+| 6 |  | Iskola neked | 1. gyak., 13. o.; 2. gyak., 14. o. | Módbeli segédigék | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Mesél az iskolai foglalkozásokról | 4. gyak., 14. o. |
+| 7 |  | Iskolai szabályok. | 1. gyak., 16. o. (1–4), 5. gyak., 15. o. | Módbeli segédigék: Must / Have to / Mustn't / Need / Needn't | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Mesél az iskolai viselkedési szabályokról. | 3–4. gyak., 16. o. |
+| 8 |  | Iskolai szabályok. | 2. gyak., 17. o.; 4. gyak., 17. o. | Módbeli segédigék: Must / Have to / Mustn't / Need / Needn't | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Mesél az iskolai szabályokról. | 1. gyak., 18. o. |
+| 9 |  | Iskolai szabályok. | Szókincs a szöveg megértéséhez; 2. gyak., 19. o.; 5. gyak., 20. o. | Módbeli segédigék: Must / Have to / Mustn't / Need / Needn't | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Elmondja, mit kell és mit nem szabad tenniük a tanulóknak az iskolában. | 4. (a) gyak., 20. o. |
+| 10 |  | Hogyan írjunk le helyesen egy helyet. | Hely leírásának szókincse |  | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Képes leírni az iskolai tantermet. | 2. gyak., 21. o. |
+| 11 |  | A tanult téma rögzítése és ismétlése | Tesztfeladatok |  | Kezdeményezőkészség és vállalkozókészség | Ökológiai biztonság | Képes önállóan és csoportban dolgozni | Az osztályterem leírása. | 1. gyak., 22. o. |
+| 12 |  | Iskola után. | Szókincs a hobbi és a szabadidő eltöltésének leírásához; 1. gyak., 22. o.; 2. gyak., 23. o.; 4. gyak., 24. o. | Szóképzés. 3. gyak., 23. o. | Információs-digitális kompetencia | Egészség és biztonság | Képes mesélni a hobbijáról. | 5., 6. gyak., 25. o. |
+| 13 |  | Új technológiák és a tinédzserek. | Szókincs a szöveg megértéséhez; 1. gyak., 26. o.; 2. gyak., 26–27. o.; 3. gyak., 27. o. | Melléknév és határozószó: Too / enough | Információs-digitális kompetencia | Egészség és biztonság | Képes mesélni a közösségi oldalairól. | 5. gyak., 28. o. (megtanulni) |
+| 14 |  | Közösségi hálózatok. | 1. gyak., 29. o.; 2. gyak., 29. o.; 3. gyak., 29–30. o. | Melléknév és határozószó: Too / Enough, 28. o. | Információs-digitális kompetencia | Egészség és biztonság | Képes helyesen használni mondatokban a melléknevet és a határozószót. | 4–5. gyak., 30. o. |
+| 15 |  | Tanulás az iskolán kívül. | Jelentéserősítő melléknevek; 1. gyak., 31. o.; 2. gyak., 32. o.; 3–4. gyak., 33. o. |  | Információs-digitális kompetencia | Polgári felelősség | Képes mesélni az iskolai szakkörökről. | 2. gyak., 34. o. |
+| 16 |  | Tanulás az iskolán kívül. | Iskolán kívüli foglalkozások; 1. gyak., 35. o.; 2. gyak., 35. o. | Módbeli segédigék: Must / Have to / Mustn't / Need / Needn't | Az egész életen át tartó tanulás képessége | Polgári felelősség | Képes mesélni az iskolai szakkörökről. | 3. gyak., 35. o. |
+| 17 |  | Iskolai szaktantermek. | 6. gyak., 38. o.; 7. gyak., 39. o. | Past Simple (múlt idő, határozatlan) | Az egész életen át tartó tanulás képessége | Polgári felelősség | Képes mesélni az iskolai szaktantermekről. | 5. (a, b) gyak., 37. o. |
+| 18 |  | Nemzetközi fesztivál a New Berg iskolában. | Szókincs a szöveg megértéséhez; 9. gyak., 40–41. o. |  | Kulturális tájékozottság és önkifejezés a kultúra területén | Polgári felelősség | Képes összehasonlítani a kulturális hagyományokat | 10. gyak., 41. o. |
+| 19 |  | Olvasásóra. | 1. gyak., 42–43. o.; 2. gyak., 43. o.; 3. gyak., 43. o. |  | Kulturális tájékozottság és önkifejezés a kultúra területén | Polgári felelősség | Kifejti véleményét az olvasott szövegről | 1. gyak., 42. o. (újramondás) |
+| 20 |  | A tanult téma rögzítése. | A tanár feladatai szerint. (Tesztfeladatok) | Past Simple és módbeli segédigék. | Az egész életen át tartó tanulás képessége | Polgári felelősség |  | A tanár feladatai szerint. |
+| 21 |  | Házimunka. | Háztartási kötelezettségek. 1. gyak., 48. o.; 3., 4. gyak., 49. o.; 5. gyak., 50. o. |  | Az egész életen át tartó tanulás képessége | Polgári felelősség; Vállalkozókészség és pénzügyi műveltség | Mesél a háztartási teendőkről. | 6. gyak., 50. o.; 8. gyak., 51. o. (megtanulni) |
+| 22 |  | Csináld magad. | Háztartási tárgyak. 1. gyak., 52–53. o.; 2. gyak., 54. o.; 5. gyak., 55. o. |  | Az egész életen át tartó tanulás képessége | Ökológiai biztonság; Polgári felelősség | Mesél a háztartási kötelezettségeiről. | 3., 4. gyak., 54–55. o. |
+| 23 |  | Otthon. | 1. gyak., 57. o.; 3. gyak., 58. o.; 4. gyak., 58. o. | Névmások | Az egész életen át tartó tanulás képessége | Polgári felelősség; Vállalkozókészség és pénzügyi műveltség | Mesél a családtagok háztartási kötelezettségeiről | 2. gyak., 58. o. |
+| 24 |  | Házimunka. | 1. gyak., 59. o.; 2. gyak., 59. o.; 3. gyak., 60. o.; 5. gyak., 61. o. | Névmások | Az egész életen át tartó tanulás képessége | Ökológiai biztonság; Polgári felelősség | Mesél a családtagok háztartási kötelezettségeiről | 6. gyak., 62. o. |
+| 25 |  | Minden az ételről. | Ételkészítés. 1. gyak., 64–65. o.; 2. gyak., 65. o. |  | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség; Egészség és biztonság | Mesél az étel hasznosságáról. | 3. gyak., 65–66. o. |
+| 26 |  | Élelmiszerek feldolgozásának módjai. | Az étel feldolgozásának módjai. 1. gyak., 69. o.; 2. gyak., 69. o.; 3. gyak., 70. o. |  | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség; Vállalkozókészség és pénzügyi műveltség | Képes elmondani kedvenc ételének receptjét | 5. gyak., 71. o. |
+| 27 |  | Konyhai eszközök, edények. Terítés. | Konyhai felszerelés. 1. gyak., 71. o.; 2. gyak., 72. o.; 3. gyak., 72–73. o. | A főnevek többes száma. Kivételek. | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség; Vállalkozókészség és pénzügyi műveltség | Képes megvitatni az asztali etikett szabályait. | 4. gyak., 73. o. |
+| 28 |  | Étel. | 1. gyak., 74. o.; 2. gyak., 74–75. o.; 3. gyak., 75. o. | Megszámlálható és megszámlálhatatlan főnevek. | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség; Egészség és biztonság | Képes megkülönböztetni a főneveket és helyesen használni őket. | 4. gyak., 75. o. |
+| 29 |  | Élelmiszerek feldolgozásának módjai. | Szókincs a szöveg megértéséhez; 1. gyak., 76. o.; 2. gyak., 76. o.; 3. gyak., 77. o. | A főnevek többes száma. Kivételek. | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség; Egészség és biztonság | Képes útmutatást adni az asztalterítéshez. | 4. gyak., 78. o. Írd le kedvenc ételed receptjét |
+| 30 |  | Receptek. Ukrán borscs. | Élelmiszerek. 6. gyak., 79. o. | Megszámlálható és megszámlálhatatlan főnevek. | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség; Egészség és biztonság | Képes elmondani, hogyan kell elkészíteni a nemzeti konyha ételeit. | 1. gyak., 79. o. |
+| 31 |  | Házimunka. | 6. gyak., 82. o.; 7. gyak., 82–83. o.; 7. gyak., 82–83. o.; 7. gyak., 82–83. o. |  | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség; Vállalkozókészség és pénzügyi műveltség | Képes mesélni a családi háztartási hagyományokról. | 10. gyak., 85. o. |
+| 32 |  | A férfi, aki soha nem mosogatta el az edényt. | Szókincs a szöveg megértéséhez; 1. gyak., 85–86. o.; 2. gyak., 87. o.; 4. gyak., 87. o. |  | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség; Egészség és biztonság | Mesél a családi házimunkáról. | 4. gyak., 87. o. (újramondás) |
+| 33 |  | Az „Iskola" téma ismétlése | A tanár feladatai szerint. | There is/there are; Must / Have to / Mustn't / Need / Needn't | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Képes mesélni az iskolájáról, az órákról és az iskolai kötelezettségekről. | A tanár feladatai szerint. |
+| 34 |  | Az „Iskolán kívül" téma ismétlése | A tanár feladatai szerint. | Too / Enough; Past Simple | Információs-digitális kompetencia | Egészség és biztonság | Képes mesélni a napjáról. | A tanár feladatai szerint. |
+| 35 |  | Az „Otthon" téma ismétlése | A tanár feladatai szerint. | Everybody, Somebody, Anybody, Nobody. | Az egész életen át tartó tanulás képessége | Polgári felelősség; Vállalkozókészség és pénzügyi műveltség | Példákat hoz a családjához való hozzájárulására. | A tanár feladatai szerint. |
+| 36 |  | A „Csináld magad" téma ismétlése. | A tanár feladatai szerint. |  | Az egész életen át tartó tanulás képessége |  | Mesél a háztartási kötelezettségeiről (a tanult szókincs felhasználásával) | A tanár feladatai szerint. |
+| 37 |  | A „Házimunka" téma ismétlése | A tanár feladatai szerint. | Something, nothing, anywhere, Anything, Nowhere, somewhere | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség; Egészség és biztonság | Mesél a családi kötelezettségek megosztásáról. | A tanár feladatai szerint. |
+| 38 |  | Az „Étel" téma ismétlése | A tanár feladatai szerint. | A tanár feladatai szerint. (Tesztfeladatok) | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Mesél az ételkészítés módjairól | A tanár feladatai szerint. (Tesztfeladatok) |
+| 39 |  | A „Minden az ételről" téma ismétlése. | Ételkészítés. 4. gyak., 67. o. |  | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség; Egészség és biztonság | Összehasonlítja az egészséges és káros élelmiszereket. | 5. gyak., 67. o. |
+| 40 |  | „Élelmiszerek feldolgozásának módjai" ismétlése | A tanár feladatai szerint. | Megszámlálható és megszámlálhatatlan főnevek. A főnevek többes száma. Kivételek. | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség; Vállalkozókészség és pénzügyi műveltség | Mesél az ételkészítés módjairól | 4., 5. gyak., 81. o. |
+| 41 |  | A „Receptek" téma ismétlése. Kedvenc étel receptje. | Élelmiszerek. | Megszámlálható és megszámlálhatatlan főnevek. | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség; Egészség és biztonság | Képes elmondani kedvenc étele receptjét | „Kedvenc ételem receptje" |
+| 42 |  | A „Konyhai eszközök, edények. Terítés." téma ismétlése | A tanár feladatai szerint. | A tanár feladatai szerint. | Információs-digitális kompetencia | Egészség és biztonság | Képes útmutatást adni az asztalterítéshez. | A tanár feladatai szerint. |
+| 43 |  | A tanult témák rögzítése. | A tanár feladatai szerint. | A tanár feladatai szerint. | Az egész életen át tartó tanulás képessége | Polgári felelősség; Vállalkozókészség és pénzügyi műveltség | Képes mesélni a múltbeli eseményekről | A tanár feladatai szerint. (Tesztfeladatok) |
+| 44 |  | Hallás utáni szövegértés ellenőrzése. | Listening Comprehension (the first term) |  | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Megírni a hallás utáni szövegértés ellenőrzését. | Készülni az olvasott szöveg értése ellenőrzésére |
+| 45 |  | Olvasott szöveg értése ellenőrzése. | Reading Comprehension (the first term) |  | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Megírni az olvasott szöveg értése ellenőrzését. | Készülni az íráskészség ellenőrzésére |
+| 46 |  | Íráskészség ellenőrzése. | Writing Comprehension (the first term) |  | Kezdeményezőkészség és vállalkozókészség | Polgári felelősség | Megírni az alkotó munkát. | Készülni a beszédkészség ellenőrzésére |
+| 47 |  | Beszédkészség ellenőrzése. | Speaking Comprehension (the first term) |  | Kezdeményezőkészség és vállalkozókészség | Ökológiai biztonság | Elmondani a választott témát. | Ismételni a tanultakat |
+| 48 |  | Az I. félév tudásának összegzése. |  |  |  |  | Ismételni az I. félévben tanultakat. | . |
