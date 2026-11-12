@@ -1,0 +1,75 @@
+# Naptári-tematikus terv angol nyelvből a II. félévre a 9. osztályokban, Карпюк О. Д. tankönyve alapján, heti 2 óra
+
+- **Eredeti cím:** Календарно-тематичне планування уроків англійської мови на ІІ семестр у 9 класах за підручником Карпюк О.Д., 2 год.
+- **Szerző:** Чабанюк Т. П.
+- **Tankönyv:** Карпюк О. Д., Англійська мова (9-й рік навчання) (English (the 9th year of studies)): tankönyv a 9. osztály számára, Тернопіль: «Видавництво Астон», 2017; Карпюк О. Д., Munkafüzet angol nyelvből a 9. osztály számára, Тернопіль: Лібра Терра, 2017
+- **Heti óraszám:** 2
+- **Félév/év:** II. félév, 2018–2019-es tanév, 9–Є és 9–Ж osztályok
+- **Forrás:** https://naurok.com.ua/kalendarno-tematichne-planuvannya-urokiv-angliysko-movi-na-ii-semestr-u-9-klasah-za-pidruchnikom-karpyuk-o-d-2-god-81267.html
+
+A terv az „Idegen nyelvi tantervek az általános oktatási intézmények és az idegen nyelveket elmélyülten oktató szakosított iskolák számára. 5–9. osztály, Київ, 2017" program alapján készült.
+
+**9–Є osztály** (K., Sze.) A program szerint: 2 óra × 18 hét = 36 óra. Szünnapok: 2019.05.01. (Sze.). A napló szerint: 35 óra.
+
+**9–Ж osztály** (K., Cs.) A program szerint: 2 óra × 18 hét = 36 óra. Szünnapok: 2019.05.09. (Cs.). A napló szerint: 35 óra.
+
+### Óraszámok elosztása (mindkét osztályban)
+
+| Téma | Óraszám |
+| --- | --- |
+| 5. téma. Tudomány és technikai haladás | 8 óra |
+| 6. téma. Természet és időjárás | 8 óra |
+| 7. téma. Angol nyelvű országok | 7 óra |
+| 8. téma. Ukrajna | 7 óra |
+| Ellenőrző dolgozat (hallás utáni szövegértés) | 1 |
+| Ellenőrző dolgozat (olvasás) | 1 |
+| Ellenőrző dolgozat (írás) | 1 |
+| Ellenőrző dolgozat (beszéd) | 1 |
+| Az ellenőrző dolgozatok elemzése, hibajavítás. Év végi összegző óra. | 1 |
+| **Összesen:** | **35 óra** |
+
+## A terv
+
+A táblázat oszlopai az eredetiben: Az óra sorszáma | Dátum (9–Є, 9–Ж) | Az óra témája | Nyelvi anyag (szókincs, nyelvtan) | Kommunikatív kompetencia (hallás utáni szövegértés, beszéd, olvasás, írás) | Házi feladat.
+
+| Sorszám | Dátum (9-Є) | Dátum (9-Ж) | Az óra témája | Nyelvi anyag, tevékenységek | Házi feladat |
+| --- | --- | --- | --- | --- | --- |
+| **5. téma. Tudomány és technikai haladás (8 óra)** | | | | | |
+| 1. | 15/01 | 15/01 | Tudomány és technikai haladás. Modern készülékek az életben és a háztartásban. A téma lexikai egységeinek bevezetése és aktivizálása. | An artist, an architect, an engineer, a reason, an inventor, to launch, to exist. Gyak. 2c, 119. o.; Gyak. 3, 119. o.; Gyak. 4a, 120. o.; Gyak. 7, 120. o.; Gyak. 1, 118. o.; Gyak. 2b, 119. o.; Gyak. 9, 123. o.; Gyak. 7, 120. o.; Gyak. 4c, 120. o.; Gyak. 5, 120. o. | Gyak. 6, 121. o.; Gyak. 7d, 122. o. |
+| 2. | 16/01 | 17/01 | A tudomány ágai. Kiváló tudósok. Szóképzés. Olvasási és hallás utáni szövegértési készség fejlesztése. | Geology, chemistry, botany, biology, physics, an invention, a theory, to discover, to invent. Gyak. 2, 124. o.; Gyak. 3a, 125. o.; Gyak. 6, 127. o.; Gyak. 3b, 125. o.; Gyak. 1, 124. o.; Gyak. 4, 126. o. Táblázat kitöltése. Gyak. 7, 127. o. (kérdésekre válaszolás) | WB ex. 8, 9, pp. 63–64 |
+| 3. | 22/01 | 22/01 | Az első találmányok és felfedezések. Olvasási és nyelvtani készség fejlesztése (az igék szenvedő alakja). | An explorer, exploration, an observer, observation, to explore, to observe, to succeed. Present Passive. Past Passive. Gyak. 4, 131. o.; Gyak. 1b, 129. o.; Gyak. 3b, 131. o.; Gyak. 6c, 131. o.; Gyak. 1a, 128. o.; Gyak. 3a, 130. o.; Gyak. 5, 132. o.; Gyak. 2, 130. o.; Gyak. 3b, 131. o. | Fogalmazás írása az óra témájáról; Gyak. 5, 132. o. WB ex. 11, p. 65 |
+| 4. | 23/01 | 24/01 | A találmányok szerepe az életünkben. Olvasási készség fejlesztése. Munka a szöveggel. | An achievement, cell, humanity, affordable, awesome, harmful, remote. Passive Voice. Gyak. 6, 134. o.; Gyak. 8, 136. o.; Discussion; Gyak. 7a, 134. o.; Gyak. 7b, 135. o.; Mondatok kiegészítése. Gyak. 9, 136. o. | WB ex. 13, pp. 66–67 |
+| 5. | 29/01 | 29/01 | Híres feltalálók. Beszédkészség fejlesztése. | Purpose, riddle, to depend on, recent. Passive Voice. Gyak. 3, 138. o.; Gyak. 1a, 136. o.; Gyak. 1b, 137. o.; Párbeszédek; Gyak. 2, 137. o.; Gyak. 4a, 138. o.; Gyak. 4b, 138. o.; Gyak. 7, 143. o. | WB ex. 15, p. 69, ex. 17, p. 71 |
+| 6. | 30/01 | 31/01 | Beszéljünk a jövőről. Beszédkészség fejlesztése. | Disease, to apply, curious, overseas, mainly. Present Passive, Past Passive. Gyak. 6a, 142. o.; Gyak. 5b, 6b, 142. o.; Gyak. 5a, 139. o.; Gyak. 10a, 144. o.; Gyak. 1, 145. o.; Gyak. 10a, 144. o.; Táblázat kiegészítése. Gyak. 10a, 144. o. | WB ex. 21, 22, pp. 73–74 |
+| 7. | 05/02 | 05/02 | Mit szeretsz írni? Életrajz írása. Íráskészség tökéletesítése. | Gyak. 8, 143. o.; Gyak. 9, 144. o.; Expressing opinion; Fogalmazás írása. Gyak. a, 145. o. | Keress információt egy ukrán tudósról |
+| 8. | 06/02 | 07/02 | Tudomány és technikai haladás. A témában tanult anyag összefoglalása. | | Ismételd át a 118–145. oldalt. WB ex. 23, p. 74 |
+| **6. téma. Természet és időjárás (8 óra)** | | | | | |
+| 9. | 12/02 | 12/02 | Természet és időjárás. A természet jelentősége számodra. Lexikai egységek bevezetése és olvasási készség fejlesztése. | Climate change, rubbish, growing population, pollution, danger, environment, to pollute, environmental, to recycle, to reduce, to reuse, to save. Present Passive, Past Passive. Discussion. Gyak. 1, 146. o.; Gyak. 3, 147. o.; Gyak. 5, 149. o.; Gyak. 2, 146. o.; Gyak. 4, 147. o. | Fogalmazás írása minta alapján. Gyak. 7, 150. o. |
+| 10. | 13/02 | 14/02 | Nincs másik Földünk. Szókincs aktivizálása és beszédkészség fejlesztése. | Global warming, pollution, the ozone layer, deforestation, recycling, electric car, alternative energy. Present Passive, Past Passive. Gyak. 6, 150. o.; Gyak. 7b, 151. o. | Gyak. 9b, 152. o.; WB ex. 3, 4, pp. 77–78 |
+| 11. | 19/02 | 19/02 | Ukrajna növény- és állatvilága. Párbeszédes és monologikus beszédkészség fejlesztése. | Növények, vad- és háziállatok nevei. endangered animal and plant species, to protect. Gyak. 8, 151. o.; Gyak. 9a, 151. o. Táblázat kitöltése. | Beszámoló a témáról; WB ex. 5, pp. 78–79 |
+| 12. | 20/02 | 21/02 | Mit tehetsz, hogy megmentsd a Földet? Hallás utáni szövegértés fejlesztése. | A container, oxygen, a surface, survival, coastal, waste. Gyak. 2a, b, 3a, 153. o.; Gyak. 6a, b, 156. o.; Gyak. 1, 152. o.; Gyak. 3b, 154. o.; Gyak. 4, 154. o.; Gyak. 5, 155. o. Táblázat kitöltése. Gyak. 7a, b, 156. o. | WB ex. 6, p. 79 |
+| 13. | 26/02 | 26/02 | Mit kellene tennünk? Nyelvtani készségek fejlesztése (az I. típusú feltételes mondatok használata). | Az I. típusú feltételes mondatok használata. Gyak. 3, 157. o.; Gyak. 4, 158. o.; Discussion; Gyak. 1, 157. o.; "Pollution" és "Alternative Energy" szövegek; Gyak. 2, 157. o.; Gyak. 5, 158. o. | WB ex. 15, pp. 84–85, ex. 18, p. 87 |
+| 14. | 27/02 | 28/02 | Beszéljünk a környezetvédelemről. Beszédkészség fejlesztése. | Habitat, to preserve, to spill, to survive, extinct, to get rid of, to run out of, endangered, oxygen. Modal Verbs. Gyak. 1, 159. o.; Gyak. 4, 162. o.; Gyak. 5b, 163. o.; Gyak. 2a, 159. o.; "Do you know" box, 160. o.; Gyak. 6, 164. o.; Gyak. 2b, 160. o.; Gyak. 8, 165. o. Táblázat kitöltése. | Gyak. 7, 164. o.; Gyak. 9a, b, 165–166. o. |
+| 15. | 05/03 | 05/03 | Környezetvédelem Ukrajnában. Íráskészség tökéletesítése. | Picturesque, wildlife, valuable, a predator, a shrinking, to cause, illegal shooting, a lack, a stork, an inhabitant. Present, Past Passive. Modal Verbs. Discussion. Gyak. 1, 167. o.; "Do you know?" box, 166–167. o.; "Environmental Protection in Ukraine". Terv írása. Mondatok kiegészítése. Levél írása, Gyak. 2, 167. o. | WB ex. 17, p. 86, ex. 19, p. 88 |
+| 16. | 06/03 | 07/03 | Természet és időjárás. A témában tanult anyag összefoglalása. | | Ism. 146–167. o.; WB ex. 20, pp. 88–89 |
+| **7. téma. Angol nyelvű országok (7 óra)** | | | | | |
+| 17. | 12/03 | 12/03 | Angol nyelvű országok. Nagy-Britannia térképe. A téma lexikai egységeinek bevezetése és olvasási készség fejlesztése. | Independent, linked, located, governed, diverse, varied, society, the United Kingdom of Great Britain and Northern Ireland. Prepositions. Gyak. 1, 182. o.; Gyak. 2a, 182. o.; Gyak. 2d, 183. o.; Gyak. 4, 185. o.; Gyak. 5a, 185. o.; Gyak. 2b, 182. o.; Gyak. 3, 184. o. Táblázat kitöltése. Mind-map készítése. Gyak. 2, 182. o.; Gyak. 4, 185. o. | Gyak. 5b, 186. o. WB ex. 3, pp. 91–92 |
+| 18. | 13/03 | 14/03 | Történelmi tudnivalók és a hagyományok sokszínűsége. Beszéd- és halláskészség fejlesztése. | Sword, shield, traffic, conveniently, sandwich, butler, gambling, accents. Total population, national symbol, national day, the UK, the United Kingdom, Great Britain, Britain. Prepositions. Articles with proper names. Gyak. 2, 188. o.; Gyak. 3a, b, c, 189. o.; Gyak. 3d, 4a, 190. o.; Gyak. 6, 186. o.; Információcsere. Gyak. 8, 187. o.; Gyak. 1, 188. o.; Gyak. 7, 186. o.; Szövegek. Gyak. 4b, 190. o.; Gyak. 8, 18. o. (kérdések); Táblázat kitöltése; Gyak. 5b, 191. o. | 10 kérdés összeállítása felméréshez; Gyak. 5a, 191. o. WB ex. 4, 6, pp. 92–93 |
+| 19. | 19/03 | 19/03 | Az Egyesült Királyság tegnap, ma és holnap. Munka a térképpel. Beszéd- és nyelvtani készség fejlesztése (az igeidők használata). | England, Scotland, Wales, Northern Ireland, Dinosaur Park, the bronze age, Show-down, the Welsh dragon, the underground tour, Cardiff, coal mine, bone cave, Big Pit, patron saint. Past Tenses. Future Tenses revision. Articles with proper names. Articles with proper names. Gyak. 5a, 198. o.; Explanation. Gyak. 1, 192. o.; Defining the verb tenses. Gyak. 1, 194. o.; Gyak. 7, 200. o.; "Sir Isaac Newton" szöveg. Gyak. 5, 194. o.; Gyak. 3a, 196. o.; Gyak. 3b, 197. o.; Factfile, 197. o.; Gyak. 2, 192. o.; Gyak. 3 (1–8. mondat), 193. o.; Gyak. 4, 193. o.; Mind-map készítése. Gyak. 5b, 198. o. | Gyak. 3 (9–15. mondat), 193. o.; Gyak. 7, 194. o.; Gyak. 6a, 199. o. |
+| 20. | 20/03 | 21/03 | Blog készítése Nagy-Britanniáról. Íráskészség fejlesztése. | Accommodation, camp-grounds, budget hotels, laundry, facilities, Lidl Aldi, Sainsbury's, money saving, to book. Camping garden, Summertime. Past Tenses. Future Tenses. Articles with proper names. Gyak. 6b, 200. o.; Gyak. 4, 198. o.; Gyak. 8, 200. o.; Információcsere. Reading the blog's information. Making notes. Gyak. 6, 194. o.; Gyak. 2, 195. o.; Gyak. 1, 200. o. | WB ex. 7, 8, pp. 94–95 |
+| 21. | 02/04 | 02/04 | Nagy-Britannia körül. Beszéd- és olvasási készség fejlesztése. | Belfast, Cardiff, London, Edinburgh. Városok és történelmi-kulturális nevezetességek nevei. Past Future Tenses. Articles with proper names. "Do you know the British land-marks?" quiz. Gyak. 5b, 205. o.; Gyak. 1b, 202. o.; Gyak. 2, 204. o.; Gyak. 3, 204. o.; Gyak. 5a, 205. o.; Gyak. 5c, 206. o.; Gyak. 1a, 201. o.; Gyak. 2, 203. o.; Quiz reading; Gyak. 5c, 206. o.; Kérdéslista összeállítása; Gyak. 5c, 206. o. | Gyak. 4a, b, 205–206. o. WB ex. 13, 14, pp. 98–100 |
+| 22. | 03/04 | 04/04 | Nagy és híres városok. Hallás utáni szövegértés és nyelvtani készségek tökéletesítése. | Highlands, Cambridge, Snowdown, Lake District, Cheviot Hills, Bath, York-shire Moors, Brighton, Up-land, navigable, county, borough, iron ore, brass-ware, blast furnace, steam engine, allotment, cluster. Past Tenses. Future Tenses. Articles with proper names. Present and Past Simple Passive. Gyak. 1a, 207. o.; Gyak. 2a, 207. o.; Gyak. 3a, b, 209. o.; Gyak. 2b, c, 208. o.; Gyak. 4, 210. o.; Gyak. 4 (1–8. mondat), 212. o.; "Travel to Ukraine. Useful information". Gyak. 1, 213. o.; Gyak. 2, 214. o.; Gyak. 1b, 207. o.; Gyak. 1, 210. o.; Gyak. 2, 211. o. Táblázat kitöltése. | Gyak. 3c, 210. o.; Gyak. 5, 210. o. WB ex. 16, 17, p. 101 |
+| 23. | 09/04 | 09/04 | Mesélj Nagy-Britanniáról. A témában tanult anyag összefoglalása. | Articles with proper names. Asking/Giving directions. Gyak. 3, 215. o.; Gyak. 4b, 215. o.; Gyak. 4a, 215. o.; Gyak. 6a, 216. o.; Gyak. 5, 216. o.; Gyak. 3, 211–212. o. Tézisek írása. | Gyak. 6b, 217. o. WB ex. 18, p. 102 |
+| **8. téma. Ukrajna (7 óra)** | | | | | |
+| 24. | 10/04 | 11/04 | Ukrajna – a mi hazánk. A téma lexikai egységeinek bevezetése és aktivizálása. | Városok és történelmi-kulturális nevezetességek nevei. Articles with common and proper names. "British towns" szöveg. About places of interest booklet presentation. Answ. questions. Reading a tourist guide booklet. Mondatok kiegészítése. Turisztikai brosúra összeállítása. | Gyak. 1, 217. o. WB ex. 3, 4, pp. 105–107 |
+| 25. | 16/04 | 16/04 | Történelmi tudnivalók Ukrajnáról. Mit érdemes megnézni Ukrajnában? Íráskészség fejlesztése. | Városok és történelmi-kulturális nevezetességek nevei. Present and Past Simple Passive. Gyak. 1, 218. o.; Válaszok a kérdésekre. Gyak. 4, 222. o.; Gyak. 2a, 218. o.; Gyak. 3, 220. o.; Gyak. 2b, 220. o.; Gyak. 5, 222. o. | WB ex. 5, 6, pp. 108–110 |
+| 26. | 17/04 | 18/04 | Ukrajna nevezetességei. Hallás utáni szövegértés fejlesztése. | If I go to…, I will choose…; being in…, I'd like to see… / I'd prefer to go…; among of all of… sights, I'd want to… Articles with common and proper names. Gyak. 7b, 224. o.; Gyak. 6, 223. o.; Válaszok a kérdésekre. Gyak. 8, 224. o.; Gyak. 9, 225. o.; Gyak. 6, 223. o.; "What to See in the UK" szöveg. Mondatok kiegészítése. Gyak. 7a, 224. o. Táblázat kitöltése. | Gyak. 10, 225. o. WB ex. 11, 12, pp. 114–115 |
+| 27. | 23/04 | 23/04 | Térjünk vissza Ukrajnához. Olvasási készség fejlesztése. Munka a szöveggel. | Városok és történelmi-kulturális nevezetességek nevei. Gyak. 1, 226. o.; Gyak. 3 (1–7. kérdés), 32. o.; Gyak. 4, 233. o.; Válaszok a kérdésekre. Gyak. 2, 226. o.; "Odesa" szöveg. Mondatok kiegészítése. | Gyak. 5, 233. o. WB ex. 13, p. 116 |
+| 28. | 24/04 | 25/04 | Információkeresés. Párbeszédes beszédkészség fejlesztése. Páros munka. | Past and Future Tenses. Articles with common and proper names. Gyak. 3 (8–10. kérdés), 232. o.; "In a travel agency" párbeszéd. Válaszok a kérdésekre. Megbeszélés. Gyak. 2, 230. o.; Gyak. 5, 233. o. | WB ex. 15, p. 118 |
+| 29. | 30/04 | 30/04 | Mesélj Ukrajnáról. Beszédkészség tökéletesítése. | Odesa, Truskavets', Uman', Chernyhiv, Kolomyia, Mukacheve, Zaporizhzhia. "Around Ukraine" quiz. Reading the tourist guide booklet "Tun-nel of Love". | Keress további információt a témáról |
+| 30. | 07/05 | 02/05 | A szülővárosom és Ukrajna más városai. A témában tanult anyag összefoglalása. | | Ismételd át a 201–233. oldalt |
+| 31. | 08/05 | 07/05 | Hallás utáni szövegértés ellenőrzése a „Tudomány és technikai haladás" témában. | | Szókincs ismétlése |
+| 32. | 14/05 | 14/05 | Olvasott szöveg értése ellenőrzése a „Természet és időjárás" témában. | | Ismételd át a levél és a fogalmazás szerkezetét |
+| 33. | 15/05 | 16/05 | Íráskészség ellenőrzése az „Angol nyelvű országok", „Ukrajna", „Tudomány és technikai haladás", „Természet és időjárás" témákban. | | Készíts beszámolót a témáról |
+| 34. | 21/05 | 21/05 | Beszédkészség ellenőrzése az „Angol nyelvű országok", „Ukrajna", „Tudomány és technikai haladás", „Természet és időjárás" témákban. | | A nyelvtani és lexikai anyag ismétlése |
+| — | 22/05 | 23/05 | Az ellenőrző dolgozatok elemzése, hibajavítás. Év végi összegző óra. | | |

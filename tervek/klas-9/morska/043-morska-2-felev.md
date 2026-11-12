@@ -1,0 +1,55 @@
+# Naptári tervek (tartalmi vonalakkal), II. félév, 9. osztály
+
+- **Eredeti ukrán cím:** Календарні плани (зі змістовими лініями) 2 семестр 9 клас
+- **Szerző:** Мицкан Л. І.
+- **Tankönyv:** Англійська мова (9-й рік навчання), 9. osztály (Морська Л.І.)
+- **Heti óraszám:** — (az eredetiben nincs megadva; a II. félév 33–64. órája)
+- **Félév/év:** II. félév
+- **Forrás:** https://naurok.com.ua/kalendarni-plani-zi-zmistovimi-liniyami-2-semestr-9-klas-319615.html
+
+## Naptári tervek (tartalmi vonalakkal), II. félév, 9. osztály
+
+(Az eredeti táblázat oszlopai: sorszám; dátum; a tankönyvcsalád fejezete; az óra témája; várható eredmény — az óra végére a tanulók…; nyelvi anyag [szókincs; nyelvtan]; kommunikatív kompetencia [hallás utáni szövegértés / vizuális észlelés; írásbeli / szóbeli interakció / produkció]; házi feladat. A dátum oszlop az eredetiben üres.)
+
+| Sorszám | A tankönyvcsalád fejezete | Az óra témája | Várható eredmény (az óra végére a tanulók…) | Nyelvi anyag (szókincs; nyelvtan) | Kommunikatív kompetencia | Házi feladat |
+|---|---|---|---|---|---|---|
+| | **Unit 4. Travelling** | | | | | |
+| | Tartalmi vonalak: Ökológiai biztonság és fenntartható fejlődés: az ökológiai közlekedési eszközök előnyeinek megvitatása. A pihenés közbeni rendrakás szükségességének magyarázata. Állampolgári felelősség: honismereti utazás tervezése. Egészség és biztonság: a biztonságos és a veszélyes helyzetek megkülönböztetése az aktív pihenés során. Vállalkozói szellem és pénzügyi műveltség: az utazás költségének összehasonlítása különböző közlekedési eszközökkel. | | | | | |
+| 33 | Lesson 37, 38 | Types of tourism | Megkülönböztetik a turizmus típusait. A családjukban népszerű turizmustípusokról mesélnek. | Adventure / sports / business / cultural / cruise tourism; Ismétlés: Present Simple (affirmative) | Gyak. 1, 4, 78., 80. o.; Gyak. 2, 3, 78. o. | Gyak. 5, 79. o. (10 mondat írása) |
+| 34 | Lesson 39 | Getting information | Tájékozottságot mutatnak az utazással kapcsolatos információ megszerzésének módjairól. | Guide tours, events, leaflet, venue, booking; Ismétlés: Present Simple (negative, questions) | Gyak. 1, 81. o.; Gyak. 3, 82. o. | Gyak. 5, 82. o. (10 mondat összeállítása) |
+| 35 | Lesson 40 | Attractions | Javaslatokat tesznek érdekes helyek meglátogatására Amerikában és Nagy-Britanniában. | Exhibit, site, castle, cathedral, palace, museum; Ismétlés: Present Continuous. Gyak. 4, 84. o. | Gyak. 3, 83. o.; Gyak. 6, 84–85. o. | Beszámoló előkészítése. Gyak. 9, 85. o. |
+| 36 | Lesson 41 | Fairs | Beszámolnak egy meglátogatott vásárról. | Village / school / fun / antiques fair, pottery sales, produce, handmade; Ismétlés: Past Simple, Present Perfect. Gyak. 1–3, 86. o. | Gyak. 6, 87. o.; Gyak. 4, 86. o. | Gyak. 8, 87. o. (levél írása) |
+| 37 | Lesson 42 | A place to stay | Kérdeznek a szálloda szolgáltatásairól, és megadják a szükséges információt. | Stay, reserve, discount, single / double room, sign; Az általános kérdések ismétlése. | Gyak. 4, 89. o.; Páros, csoportos munka. Gyak. 2, 3, 5, 88–89. o. | Gyak. 8, 90. o. |
+| 38 | Lesson 43 | A place to visit | Kérdeznek és információt adnak Odesszáról. | Population, size, sightseeing; Minden kérdéstípus ismétlése. | Gyak. 2, 91. o.; Gyak. 5, 92. o. | Gyak. 7, 92. o. |
+| 39 | Lesson 44, 45 | On tour. A daily programme. Eating out | Egynapos túra programját írják. A megszerzett készségek és képességek reflexiója. | Coach / guided tour; Order, follow, main course; Too, enough. Gyak. 1, 2, 93. o. | Gyak. 6, 93. o.; Gyak. 5, 6, 93–94. o.; Páros munka. Gyak. 3, 95. o. | Gyak. 8, 94. o. (túraprogram írása) |
+| | **Unit 5. Sights of Great Britain** | | | | | |
+| | Tartalmi vonalak: Ökológiai biztonság és fenntartható fejlődés: az ökoturizmus fajtáinak leírása. Állampolgári felelősség: a különböző kultúrák viselkedési normáinak összehasonlítása. Egészség és biztonság: a biztonságos és a veszélyes helyzetek megkülönböztetése utazás közben. Vállalkozói szellem és pénzügyi műveltség: meghatározza az angol nyelvű országban való tartózkodás hozzávetőleges költségét. | | | | | |
+| 40 | Lesson 46 | Trafalgar square | Beszámolót készítenek a Trafalgar Square-ről, válaszolva a kérdésekre. | Admire, attraction, unforgettable, excursion, sight. Gyak. 1–3, 98. o. | Gyak. 1, 6, 98–99. o.; E-mail olvasása. Gyak. 4, 8, 99–100. o. | Gyak. 9, 100. o. – beszámoló készítése |
+| 41 | Lesson 47 | Edinburg. Stratford-on-Avon | Beszámolót készítenek Edinburgh-ről és Stratford-upon-Avonről terv alapján. | Situate, ancient, playwright, royal, valley, hill. Gyak. 1, 2, 101. o. | Gyak. 1, 101. o.; Szövegolvasás. Gyak. 4, 5, 101. o. | Beszámoló előkészítése. Gyak. 7, 102. o. |
+| 42 | Lesson 48 | Big Ben | Beszámolót készítenek a Big Benről az olvasottak alapján. | Landmark, spectacular, parliament. Gyak. 3, 103. o.; A (not) as … as használata. Gyak. 1, 2, 103. o. | Gyak. 3, 103. o.; Szövegolvasás. Gyak. 4, 103. o. | Beszámoló előkészítése. Gyak. 6, 104. o. |
+| 43 | Lesson 49 | The Houses of Parliament | Képeslapot írnak egy londoni utazásról. | Site, chapel, residence, century. Gyak. 2, 105. o.; A számnevek használata. Gyak. 1, 105. o. | Gyak. 2, 105. o.; Szövegolvasás. Gyak. 3–5, 105–106. o. | Gyak. 7, 106. o. A képek leírása |
+| 44 | Lesson 50, 51 | The British Museum. Tower Bridge | Kiegészítő információt mutatnak be a témában. | Dedicate, nevertheless, human, preserve, view, bridge, tower. Gyak. 1–3, 107. o.; Gyak. 1–3, 109. o.; A (not) as … as használata. Gyak. 7, 8, 108. o. | Gyak. 1, 107. o.; Gyak. 1, 7, 110. o.; Szövegolvasás. Gyak. 4–6, 105. o.; Gyak. 4–6, 110. o. | Gyak. 9, 108. o.; Gyak. 8, 110. o. Kiegészítő információ keresése |
+| 45 | Lesson 52, 53 | Millenium Dome. Madam Tuddauds | Kiegészítő információt mutatnak be a témában. | Millennium, major, dome, exhibition, wax, display, branch, royal. Gyak. 1, 107., 112. o.; A különböző kérdéstípusok ismétlése. Gyak. 3, 111. o. | Gyak. 1, 107., 112. o.; Gyak. 2, 111. o.; Gyak. 3, 112. o. | Gyak. 5, 111. o. Kiegészítő információ keresése |
+| 46 | Lesson 54, 55 | The London Eye. Snowdonia | Összehasonlítják a walesi Snowdoniát és az ukrajnai nemzeti parkot. A megszerzett készségek és képességek reflexiója. | Giant, wheel, rotate, erect, provide, reach, include, climbing. Gyak. 1, 113., 115. o. | Gyak. 1, 113., 115. o.; Gyak. 3, 113. o.; Gyak. 2, 115. o. | Gyak. 7, 6, 114–115. o. |
+| | **Unit 6. Sights of Ukraine** | | | | | |
+| | Tartalmi vonalak: Ökológiai biztonság és fenntartható fejlődés: intézkedések javaslása az ország ökológiájának megőrzésére. Állampolgári felelősség: a kulturális sokszínűség értékének megértése. Egészség és biztonság: a biztonságos viselkedés szabályainak kialakítása utazás közben. Vállalkozói szellem és pénzügyi műveltség: (az eredetiben üres) | | | | | |
+| 47 | Lesson 56 | Pyrohiv | Kutatást mutatnak be. | Unique, windmill, cuisine, huge. Gyak. 1–3, 118–119. o. | Gyak. 1, 118. o.; Gyak. 4–6, 119. o. | Gyak. 7, 119. o. Kutatás készítése |
+| 48 | Lesson 57 | Lviv High Castle | Idegenvezető szerepében beszámolót készítenek. | Locate, point, defensive, existence. Gyak. 1, 2, 120. o. | Gyak. 1, 120. o.; Gyak. 4, 121. o. | Gyak. 7, 121. o. Beszámoló előkészítése idegenvezető szerepében |
+| 49 | Lesson 58 | Uzhhorod Castle | Meggyőzik barátjukat az ungvári vár meglátogatásának értékéről. | Surround, border, ware, equip. Gyak. 1, 122. o.; A something, anything, nothing használata. Gyak. 7, 123. o. | Gyak. 1, 122. o.; Gyak. 4, 122. o. | Gyak. 8, 123. o. A barát meggyőzése az ungvári vár meglátogatásáról |
+| 50 | Lesson 59 | Mukachevo Palanok Castle | A munkácsi Palanok várról mesélnek. | Valley, contain, moat, beneath. Gyak. 1, 124. o.; A worth + Ving szerkezet használata. Gyak. 2, 124. o. | Gyak. 1, 124. o.; Gyak. 3, 4, 124. o. | Beszámoló előkészítése. Gyak. 5, 124. o. |
+| 51 | Lesson 60, 61 | Waterfalls. St. Sophia's Cathedral | Kérdeznek és beszámolnak a kárpáti vízesésekről és a Szent Szófia-székesegyházról. | Waterfall, diverse, holy, glorify. Gyak. 1, 125., 127. o. | Gyak. 1, 125., 127. o.; Gyak. 3, 125. o.; Gyak. 2, 127. o. | Beszámoló előkészítése. Gyak. 6, 122. o.; Gyak. 5, 127. o. |
+| 52 | Lesson 62, 63 | Kyiv-Pechersk Lavra. The Golden Gates | Kérdéseket állítanak össze és válaszolnak a témában. | Spiritual, monk, revival, cave. Gyak. 1, 128. o. | Gyak. 1, 128. o.; Gyak. 2, 3, 128. o.; Gyak. 1, 3, 130. o.; Mini párbeszédek. | Beszámoló előkészítése. Gyak. 7, 129. o.; Gyak. 5, 132. o. |
+| 53 | Lesson 64, 65 | The Dnipro. The Thames. Sights of GB and Ukraine | Összehasonlítják a Dnyipro és a Temze folyót. A megszerzett készségek és képességek reflexiója. | Peace, hire, beauty, birth | Gyak. 1, 4, 133. o. | Gyak. 9, 134. o.; Gyak. 7, 135. o. |
+| | **Unit 7. School Subjects** | | | | | |
+| | Tartalmi vonalak: Állampolgári felelősség: saját kedvteléseinek és szükségleteinek meghatározása. | | | | | |
+| 54 | Lesson 66, 67 | Geography. History | Megmagyarázzák, miért érdemes ezeket a tantárgyakat tanulni. | Surface, earth, affect, current, war, king, discovery. Gyak. 5, 139. o.; Gyak. 3, 141. o. | Gyak. 5, 132. o.; Gyak. 3, 141. o.; Gyak. 3, 7, 138., 140. o.; Gyak. 5, 142. o. | Megmagyarázni, miért (nem) tetszenek ezek a tantárgyak. Gyak. 9, 140. o.; Gyak. 8, 142. o. |
+| 55 | Lesson 68, 69 | Mathematics. Chemistry | Megmagyarázzák, miért érdemes ezeket a tantárgyakat tanulni. | Solve, research, wonder, glow, keep, cleaner. Gyak. 2, 3, 143., 145. o. | Gyak. 2, 3, 143., 145. o.; Gyak. 5, 144., 146. o. | Megmagyarázni, miért (nem) tetszenek ezek a tantárgyak. Gyak. 8, 144. o.; Gyak. 7, 146. o. |
+| 56 | Lesson 70 | Languages | Megmagyarázzák, miért érdemes ezt a tantárgyat tanulni. | Improve, confidence, experience, opportunity. Gyak. 3, 148. o. | Gyak. 3, 148. o.; Gyak. 4, 148. o. | Megmagyarázni, miért (nem) tetszik ez a tantárgy. Gyak. 7, 148. o. |
+| 57 | Lesson 71, 72 | Literature. Physics | Megmagyarázzák, miért érdemes ezeket a tantárgyakat tanulni. | Imagination, challenge, significance, consumer, universe, obtain. Gyak. 3, 150., 152. o. | Gyak. 3, 150., 152. o.; Gyak. 5, 150., 152. o. | Megmagyarázni, miért (nem) tetszenek ezek a tantárgyak. Gyak. 7, 150., 152. o. |
+| 58 | Lesson 73, 74 | Biology. Handicrafts | Megmagyarázzák, miért érdemes ezeket a tantárgyakat tanulni. | Involve, breeding, supply, promote, success. Gyak. 3, 4, 154–155. o. | Gyak. 3, 4, 154–155. o.; Gyak. 6, 154. o.; Gyak. 7, 156. o. | Megmagyarázni, miért (nem) tetszenek ezek a tantárgyak. Gyak. 8, 154. o.; Gyak. 9, 156. o. |
+| 59 | Lesson 75 | Physical Training | Megmagyarázzák, miért érdemes ezt a tantárgyat tanulni. A megszerzett készségek és képességek reflexiója. | Participate, explore, effort, body. Gyak. 3, 4, 158. o. | Gyak. 3, 158. o.; Gyak. 5, 158. o. | Megmagyarázni, miért (nem) tetszik ez a tantárgy. Gyak. 9, 158. o. |
+| 60 | | **Hallás utáni szövegértés ellenőrzése** | | | | |
+| 61 | | **Olvasott szöveg értése ellenőrzése** | | | | |
+| 62 | | **Íráskészség ellenőrzése** | | | | |
+| 63 | | **Beszédkészség ellenőrzése** | | | | |
+| 64 | | **Összegző óra** | | | | |
