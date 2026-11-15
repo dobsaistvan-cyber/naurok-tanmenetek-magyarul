@@ -1,0 +1,102 @@
+# Naptári-tematikus terv angol nyelvből 5. osztály számára (NUS) T. Budna tankönyve alapján, II. félév (47–128. óra)
+
+- **Eredeti ukrán cím:** Календарно-тематичне планування з англійської мови ( 1І семестр) для 5 класу за підручником Т. Будна [a címben a forrásban „1І семестр" szerepel „ІІ семестр" helyett]
+- **Szerző:** nem megállapítható (a részletes oldal szöveges lehúzásában nem szerepel)
+- **Tankönyv:** T. Budna, „Англійська мова" 5. osztály számára
+- **Osztály:** 5. osztály (NUS)
+- **Heti óraszám:** a forrásban nincs megadva (II. félév: 47–128. óra)
+- **Félév/év:** II. félév (megjelenés: 2023.03.14.)
+- **Forrás URL:** https://naurok.com.ua/kalendarno-tematichne-planuvannya-z-angliysko-movi-1i-semestr-dlya-5-klasu-za-pidruchnikom-t-budna-340591.html
+
+> A „Іноземна мова. 5–9 класи" modell tanterv alapján (általános középfokú oktatási intézmények számára; szerzők: Redko V. G., Salenko O. P., Szotnikova Sz. I., Kovalenko O. Ja., Koropecka I. B., Jakob O. M., Szamojljukevics I. V., Dobra O. M., Kior T. M.).
+
+## Naptári-tematikus terv angol nyelvből (II. félév) 5. osztály számára T. Budna tankönyve alapján
+
+- Sorszám. Dátum. A szituációs kommunikáció témája. Kommunikatív beszédtevékenységek / oldal a tankönyvben (Hallás utáni szövegértés; Beszéd; Olvasás; Írás). Nyelvi készlet / oldal (Szókincs; Nyelvtan). Házi feladat.
+
+- 47. Ünnepek és hagyományok. 60–61. o. 1., 4. f. 2–3. f. 61. o. 4. f. 60. o. 60–61. o. Megtanulni az új szavakat, és írásban a 6. f.
+- 48. Ünnepek Ukrajnában. 61. o. 7. f. 62. o. 1. f. 61. o. 4. f. Elolvasni a szöveget és megírni a 8. f.-t a 61. oldalon.
+- 49. Az ünneplésen. Past Simple affirmative. 62. o. 2–3. f. 62. o. 2–3. f. Megtanulni a keretben lévő szavakat.
+- 50. A tegnapi koncerten. 63. o. 4–5. f. 6–7. f. 63. o. 7. f. megírni.
+- 51. Az amerikai Hálaadás napja. 64. o. 2. f. 3. f. 2. f. 4. f. 64. o. 2. f. elolvasni és lefordítani.
+- 52. A barátom tegnap. Past Simple negative and questions. 64–65. o. 4–7. f. 65. o. 8. f. írásban.
+- 53. Újévi ünnepek. 66. o. 1–2. f. 3. f. 2. f. 66. o. 2. f. Megtanulni a szavakat és megírni a 4. f.-t a 67. oldalon.
+- 54. Karácsony. 67. o. 7. f. Future Simple. 5–6. f. 67. o. 8. f. megírni.
+- 55. Tervek az évre. 68. o. 2. f. 5. f. 1. f. 2–4. f. be going to. 68. o. 1. és 4. f. Megtanulni a szavakat, és írásban a 4. f.
+- 56. A teendőim listája a következő évre [a forrásban elírásokkal: „Мій сисок дій у натупному році"]. 69. o. 6. f. 7. f. 69. o. 9. f. írásban.
+- 57. Ünnepek és ajándékok. 70–71. o. 3. f. 1. f. 71. o. 4–5. f.
+- 58. Születésnap. 72. o. 3. f. 1–2. f. 72. o. 3. f. Eljátszani a párbeszédet.
+- 59. Beszédgyakorlat, házi párbeszédek. 73. o. 5. f. megírni és elmondani.
+- 60. Felkészülés a bulira, munkák bemutatása. 73. o.
+- 61. Üdvözlőlap, lapok bemutatása.
+- 62. Ukrajna. 74. o. 2. f. 1., 4. f. 2., 3. f. 5. f. 74. o. 6. f.
+- 63. Ukrajna történelme. 75. o. 2–3. f. 1. f.
+- 64. A lexikai-nyelvtani anyag összefoglalása. 75. o. 4–5. f. 76–77. o. 1–3. f. írásban.
+- 65. Az én haladásom a hallás utáni szövegértésben. 77. o. 4. f. Néhány (5–8) mondatot készíteni a témákból. 5–6. f. a 77. oldalon.
+- 66. Tematikus diagnosztizáló dolgozat.
+- 67. Ruházat. 78. o. 1., 3. f. 2. f. Plurals of nouns. 78. o. 2. f. Megtanulni a szavakat.
+- 68. Ruhafajták. 79. o. 5. f. 6. f. 4. f. A 79. oldali 4. f. mintája alapján megírni a saját ruházati ízlésedről.
+- 69. Kiegészítők. 80. o. 2. f. 1. f. Megírni a válaszokat a 80. oldali 2. f. kérdéseire magadról.
+- 70. Vásárlás. 81. o. 4. f. 1., 3. f. Present Continuous. 3. f. 81. o. 6. f. írásban.
+- 71. Évszakok szerinti ruházat. 82. o. 2., 3. f. 1. f. 82. o. Megtanulni az 1. f. szavait és elolvasni a 2. f. szövegét.
+- 72. Kultúra a ruházatban. 83. o. 4. f. 6. f. 5. f. 83. o. 7. f.
+- 73. A ruhaboltban. 84. o. 3., 2., 4. f. 1. f. 84. o. 3. f. Elolvasni és lefordítani a szöveget.
+- 74. Árak. Pénz. 85. o. 5–6. f. 6. f. Who/whose kérdések. Megtanulni a 85. oldali 6. f. párbeszédének kérdéseit.
+- 75. Iskolai egyenruha. 86. o. 2. f. 3. f. 87. és 89. o. Megtanulni a keretben lévő kifejezéseket. pronunciation.
+- 76. A kedvenc ruhád. 87. o. 5–7. f. Adverbs of frequency. 87. o. 4. f. 87. o. 7. f. írásban.
+- [A 77. sorszám a forrásban hiányzik.]
+- 78. Jelmezbál. 88. o. 2–3. f. 1. f. 89. o. 4. f. írásban.
+- 79. Dress code. 89. o. 5. f. 6. f. 8. f. 89. o. 7. f. írásban.
+- 80. Használt ruha (second hand). 90. o. 2–3. f. 1. f. 91. o. 4. f. meghallgatni és lefordítani.
+- 81. Ruházat jótékonyságra. 91. o. 6. f. 7. f. 8. f. 92. o. 1. f.
+- 82. Növények. 92. o. 3. f. 92. o. 3–4. f. 93. o.
+- 83. Tematikus diagnosztizáló dolgozat. Projekt. 92. o.
+- 84. Étkezés. 94. o. 4. f. 1., 2., 3. f. 95. o. 5–6. f.
+- 85. Élelmiszerek. 95. o. 7–8. f. 9. f. 95. o. 10. f. írásban.
+- 86. Élelmiszerek fajtái. 96. o. 4. f. 1. f. 96. o. 1., 2. f. Megtanulni a szavakat.
+- 87. Nyelvtan. A megszámlálható és megszámlálhatatlan főnevek fogalma. Some/any; much/many; few/little. 97. o. 98. o. 1., 2. f.
+- 88. Vásárlás. 98. o. 3. f. 3. f. 99. o. 4–7. f. 3. f.
+- 89. Kedvenc ételek. 100. o. 2. f. 2–3. f. 1. f. 100. o. 2. f. Átírni a saját élelmiszereidet behelyettesítve.
+- 90. Egészséges táplálkozás. 101. o. 1. f. 7. f. Models: can/can't/could/couldn't. 5–6. f. 101. o. 8–9. f.
+- 91. Ukrán ételek. 102. o. 2. f. 3–4. f. 1. f. 102. o. 1. f. Megtanulni a szavakat és megírni a 4. f.-t.
+- 92. Ukrán borscs. 103. o. 5., 7. f. 8. f. Elmondani, hogyan kell borscsot főzni, és írásban a 9. f. a 103. oldalon.
+- 93. Angol ételek. 104–105. o. 2., 3. f. 4. f. 1. f. Ismételni a tanult szavakat és az 1. f.-t a 106. oldalon.
+- 94. Az én főzési képességeim. 105. o. 6–8. f. be able to. Átnézni a szótáradat.
+- 95. Mit esznek a tizenévesek? 106. o. 3. f. 5., 6. f. 3. f. 4. f. Házi olvasmány, 149. o.
+- 96. A dietetikus tanácsai. 107. o. 7. f. 8. f. 9. f. 107. o. Megtanulni a 9. f.-t.
+- 97. A tanult anyag áttekintése. 108. o. 1–5. f. Házi olvasmány, 147. o.
+- [Sorszám nélkül:] Tematikus diagnosztizáló dolgozat. 108. o. szavak.
+- 98. Természet és világegyetem. 2., 5., 6. f. 2., 3., 4. f. 108. o. Projekt a világegyetemről a szöveg alapján.
+- 99. Pihenés és szabadidő. 110–111. o. 2. f. 1. f. -ing forms. 111. o. Elmesélni a hobbidat [a forrásban elírással: „зозказать"].
+- 100. Hobbi. 111. o. 3. f. 4. f. 5. f. Befejezni az 5. f.-t a 111. oldalon.
+- 101. Az aktív pihenés fajtái. 112. o. 2., 3. f. 1. f. 112. o. 3. f. megírni.
+- 102. Tanácsok. 113. o. 7. f. Should/shouldn't. 113. o. 4., 5. f. 112. o. 8. f. írásban.
+- 103. A sport — hobbi vagy pihenés? 114. o. 2., 3. f. 1. f. 115. o. 4. f. írásban.
+- 104. Sportolni. 115. o. 5., 8. f. 115. o. 5. f. do/play/go. 115. o. 9. f.
+- 105. Pihenőhelyek. 116–117. o. 2., 3. f. 1. f. 118. o. 1. f.
+- 106. Környezet. 118. o. 2. f. 3. f. 118. o. Megtanulni a szavakat.
+- 106. A világ földrajza. 119. o. 6. f. Capital letters for geographical names. 119. o. 3., 4. f. 119. o. 3. f. írásban és megtanulni, és a 4. f.-t megtanulni. [A 106. sorszám a forrásban kétszer szerepel.]
+- 107. Időjárás. 121. o. 5. f. 1. f. Imperatives. 120–121. o. 3. f. 121. o. 6. f.
+- 108. Képeslap az utazásról. 122. o. 2. f. Prepositions of place. 122. o. 1. f. 121. o. 4. f. elolvasni.
+- 109. Nyelvtan. Különleges idő. 123. o. 5. f. Present Perfect. 123. o. 3., 4. f. 123. o. 6. f.
+- 110. Ismétlés. 125. o. 1–4. f. 125. o. 5. f.
+- 111. Tematikus diagnosztizáló dolgozat. Ismételni a tanult szavakat.
+- 112. Biztonsági szabályok tűz esetén. 124. o. 1. f. 3. f. 2. f. Projekt. 124. o. 4. f.
+- 113. Utazás. 126. o. 3. f. 1., 2. f. Megtanulni az országok neveit. 126. o. 3. f.
+- 114. Az utazások irányai [a forrásban elírással: „Напроямки подорожей"]. 127. o. 5., 6. f. 4. f. Suggestions with «shall». Megtanulni az országok és kontinensek neveit, a 127. oldali 4. f.-t és írásban a 8. f.-t.
+- 115. Az utazások fajtái. 128. o. 3. f. 2. f. 128–129. o. 3., 4. f. 1. f. 128. o. 4. f. írásban.
+- 116. Utazás Londonba. 129. o. 5. f. 6. f. 7. f. Befejezni a 7. f.-t a 129. oldalon.
+- 117. A pihenés fajtái az utazás során. 2. f. 1. f. 130. o. 3. f.
+- 118. Utazás Kanadába. 131. o. 4. f. 7. f. 4., 5., 6. f. 131. o. 8. f. írásban.
+- 119. Ajándéktárgyak és fényképek. 132. o. 2. f. 3. f. 1. f. 132. o. 4. f. írásban.
+- 120. Városi körutazás. 134. o. 1. f. 134. o. 1., 2. f. Present Perfect via Past Simple. 133. o. 4–8. f. 133. o. 9. f.
+- 121. Hallás utáni szövegértés ellenőrzése. 1346. o. [a forrásban így] 4–5–6. f. 135. o. 5. f. 136. o. 2–3. f.
+- 122. Beszéd ellenőrzése. 143. o. 5–6. f. 138–139. o. 5–6. f.
+- 123. Olvasás ellenőrzése. 142–143. o. 1–3. f. 139. o. 7–8. f.
+- 124. Írás ellenőrzése. 137. o. 9. f. [a forrásban: „впр.ст9"] 140. o. 1–6. f.
+- 125. Házi olvasmány. 150. o. 150. o. elolvasni és lefordítani.
+- 126. Házi olvasmány. 150. o. 150. o. elmesélni.
+- 127. Angoltanulás rajzfilmekkel: rajzfilmek nézése felirattal.
+- 128. Tartalék.
+
+*Megjegyzések: (1) A terv a 47. órától kezdődik (az I. félév 1–46. órája nem része ennek a tételnek). (2) A forrás számozási hibái megőrizve: a 77. sorszám hiányzik; a 106. sorszám kétszer szerepel; a 97. óra után egy sorszám nélküli „Tematikus diagnosztizáló dolgozat" sor áll. (3) A táblázat oszlopai a lehúzásban összeolvadtak; a feladathivatkozások az eredeti sorrendben szerepelnek. (4) Megőrzött elírások: „Мій сисок дій у натупному році" (56. óra), „зозказать" (99. óra), „Напроямки подорожей" (114. óra), „ст.1346" (121. óra), „впр.ст9" (124. óra). (5) A szerző a részletes oldal szöveges lehúzásában nem szerepel.*

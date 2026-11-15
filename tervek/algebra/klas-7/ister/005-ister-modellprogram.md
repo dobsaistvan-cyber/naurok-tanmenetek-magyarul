@@ -1,0 +1,48 @@
+# Modell tantervi program „Algebra, 7. osztály" NUS, szerző: O. Sz. Iszter, 2023
+
+- **Eredeti ukrán cím:** Модельна навчальна програма "Алгебра, 7 клас" НУШ, автора Істер О.С., 2023 р
+- **Szerző:** Істер О.С. — legmagasabb kategóriájú tanár, tanár-metodikus, 050-387-39-71, ister69@gmail.com (a forrásban megadott elérhetőségek)
+- **Tankönyv:** nincs megadva (modell tantervi program, nem tankönyvhöz kötött óraterv)
+- **Osztály:** 7. osztály (NUS)
+- **Heti óraszám:** nincs megadva a forrásban
+- **Félév/év:** 2023 (a program keltezése)
+- **Forrás URL:** https://naurok.com.ua/modelna-navchalna-programa-algebra-7-klas-nush-avtora-ister-o-s-2023-r-422267.html
+- **Megjegyzés:** Ez a tétel nem naptári óraterv, hanem modell tantervi program: témánként az elvárt tanulási eredményeket, a tananyag tartalmát és a tanulók tanulási tevékenységének fajtáit tartalmazza. A forrás szövege számos helyesírási hibát tartalmaz (hiányzó aposztrófok: „розвязати", „розвязок", „здоровя", „відємні" stb., „рокладання" a „розкладання" helyett, „обгрунтовує" az „обґрунтовує" helyett) — a fordítás a helyes magyar szöveget adja. A 2. téma tartalmában „Формули квадрата одночлена" szerepel (valószínűleg „квадрата суми та квадрата різниці" helyett) — a fordítás a forrást követi.
+
+## Modell tantervi program általános középfokú oktatási intézmények számára „Algebra. 7–9. osztály", 2023
+
+**Szerző:** Істер О.С. — legmagasabb kategóriájú tanár, tanár-metodikus, 050-387-39-71, ister69@gmail.com
+
+## 7. osztály
+
+### 1. téma. EGYVÁLTOZÓS LINEÁRIS EGYENLETEK
+
+**Elvárt tanulási eredmények:** Felismeri az egyváltozós lineáris egyenletet az adott egyenletek között; példákat hoz: ekvivalens egyenletekre, egyváltozós lineáris egyenletekre, amelyeknek egy gyöke van, végtelen sok gyöke van, nincs gyöke; megfogalmazza: az egyenlet, az egyenlet gyöke, az ekvivalens egyenletek definícióját, az egyenlet alaptulajdonságait; elmagyarázza: mit jelent egyenletet megoldani, mik az ekvivalens egyenletek; jellemzi: azokat az eseteket, amikor a lineáris egyenletnek 1 megoldása van, végtelen sok megoldása van, egyetlen megoldása sincs; egyenletet állít össze a szöveges feladat feltétele alapján; megoldja a fenti egyenlettípusokat; megalkotja a feladat matematikai modelljét egyenlet formájában; valós adatokkal megadott szöveges feladatokat old meg a következőkről: közlekedésbiztonság, családi költségvetés kiszámítása, biztonság és egészségvédelem, a pénzügyek gyakorlati aspektusai.
+
+**A tananyag tartalma:** Általános tudnivalók az egyenletekről. Ekvivalens egyenletek. Egyváltozós lineáris egyenletek. Lineáris egyenletek megoldása. Feladatok megoldása lineáris egyenletek segítségével. Az egyenlet mint a feladat matematikai modellje.
+
+**A tanulók tanulási tevékenységének fajtái:** Gyakorlatok végzése és feladatok megoldása (szóban és írásban), amelyeket az elvárt tanulási eredmények írnak elő, önálló és tematikus ellenőrző dolgozatok, a tudás ellenőrzése és a tanulási eredmények értékelése. Önálló munka a tankönyvvel és kiegészítő irodalommal. Információkeresés az interneten. Kutatási, projekt- és keresőtevékenység. Előadások tartása. Egyéni, kollektív és csoportos munka, valamint páros munka problémás helyzetek megoldásakor. Didaktikai játékok.
+
+### 2. téma. EGÉSZ KIFEJEZÉSEK
+
+**Elvárt tanulási eredmények:** Érti, mi a számkifejezés, a változós kifejezés; megkülönbözteti: a számkifejezéseket és a változós kifejezéseket; az egytagúakat más algebrai kifejezések között, a normálalakú egytagúakat, a hasonló egytagúakat; a többtagúakat, a normálalakú többtagúakat, a többtagú hasonló tagjait; matematikai terminológia használatával olvassa a számkifejezéseket és a változós kifejezéseket; leírja a számkifejezéseket és a változós kifejezéseket; példákat hoz számkifejezésekre, változós kifejezésekre, egytagúakra és normálalakú egytagúakra, többtagúakra; elmagyarázza: hogyan kell megkeresni a változós kifejezés számértékét; mi az azonos kifejezések, az azonosság, a normálalakú egytagú, az együttható, a normálalakú többtagú; érti a hatványozás műveletét, a többtagú tényezőkre bontását, a hatvány tulajdonságainak bizonyítását; megfogalmazza az egytagú, a természetes kitevőjű hatvány, a többtagú, a többtagú hasonló tagjai, a többtagú foka definícióját; a hatvány tulajdonságait; a többtagúak szorzásának szabályait; leírja és megindokolja a természetes kitevőjű hatvány tulajdonságait, a rövidített szorzás képleteit; gyakorlatokat old meg, amelyek magukban foglalják a számkifejezés kiszámítását, a kifejezések azonossági átalakításait, a hatvány tulajdonságainak alkalmazását kifejezések egyszerűsítésére, egytagú vagy többtagú normálalakra hozását, egytagúak vagy többtagúak szorzását, hatványozást, többtagú tényezőkre bontását, a többtagú fokának meghatározását stb.
+
+**A tananyag tartalma:** Változós kifejezések. Egész racionális kifejezések. Azonosság. A kifejezés azonossági átalakítása. Természetes kitevőjű hatvány. A természetes kitevőjű hatvány tulajdonságai. Egytagú. Egytagúak hatványozása. Egytagúak szorzása. Többtagú. A többtagú hasonló tagjai és összevonásuk. A többtagú foka. Többtagúak összeadása, kivonása és szorzása. Az egytagú négyzetének, a négyzetek különbségének, a köbök összegének és különbségének képletei. Többtagúak tényezőkre bontása.
+
+**A tanulók tanulási tevékenységének fajtái:** Gyakorlatok végzése és feladatok megoldása (szóban és írásban), amelyeket az elvárt tanulási eredmények írnak elő, önálló és tematikus ellenőrző dolgozatok, a tudás ellenőrzése és a tanulási eredmények értékelése. Önálló munka a tankönyvvel és kiegészítő irodalommal. Információkeresés az interneten. Kutatási, projekt- és keresőtevékenység. Előadások tartása. Egyéni, kollektív és csoportos munka, valamint páros munka problémás helyzetek megoldásakor. Didaktikai játékok.
+
+### 3. téma. Függvények
+
+**Elvárt tanulási eredmények:** Példákat hoz: függvénykapcsolatokra, lineáris függvényekre; érti: mely mennyiségek közötti függőségek funkcionálisak, a függvény fogalmának lényegét; elmagyarázza, mi az argumentum, a függvény, a függvény értelmezési tartománya és értékkészlete, a függvény grafikonja; megfogalmazza a következő fogalmak definícióját: függvény, a függvény grafikonja, lineáris függvény, egyenes arányosság; felismeri a lineáris függvényt és az egyenes arányosságot; tudatosítja, hogy a lineáris függvények valós élethelyzetek matematikai modelljeiként szolgálhatnak; megnevezi és példákkal illusztrálja a függvény megadásának módjait; leírja a függvény grafikonjának szerkesztését; gyakorlatokat old meg, amelyek magukban foglalják: az értelmezési tartomány (ОВФ) megkeresését, a függvény értékének megkeresését, a függvény grafikonjának szerkesztését, a függvény egyes jellemzőinek meghatározását a grafikonja alapján (zérushelyek, pozitív vagy negatív értékek); a lineáris függvényt és grafikonját valós folyamatok modellezésére használja.
+
+**A tananyag tartalma:** A mennyiségek közötti függvénykapcsolat mint a valós folyamatok matematikai modellje. Függvény. A függvény értelmezési tartománya és értékkészlete. A függvény megadásának módjai. A függvény grafikonja. Lineáris függvény, grafikonja és tulajdonságai.
+
+**A tanulók tanulási tevékenységének fajtái:** Gyakorlatok végzése és feladatok megoldása (szóban és írásban), amelyeket az elvárt tanulási eredmények írnak elő, önálló és tematikus ellenőrző dolgozatok, a tudás ellenőrzése és a tanulási eredmények értékelése. Önálló munka a tankönyvvel és kiegészítő irodalommal. Információkeresés az interneten. Kutatási, projekt- és keresőtevékenység. Előadások tartása. Egyéni, kollektív és csoportos munka, valamint páros munka problémás helyzetek megoldásakor. Didaktikai játékok.
+
+### 4. téma. Kétváltozós lineáris egyenletrendszerek
+
+**Elvárt tanulási eredmények:** Felismeri a kétváltozós egyenleteket; példákat hoz: kétváltozós egyenletekre, két kétváltozós lineáris egyenlet rendszerére; megfogalmazza a kétváltozós lineáris egyenlet, a kétváltozós lineáris egyenlet megoldásának definícióját; elmagyarázza, mit jelent kétváltozós egyenletet megoldani, kétváltozós egyenletrendszert megoldani, mi a kétváltozós egyenlet grafikonja; egyenletek grafikonjait szerkeszti; jellemzi azokat az eseteket, amikor két kétváltozós lineáris egyenlet rendszerének egy megoldása van, végtelen sok megoldása van, egyetlen megoldása sincs; egyenletrendszereket állít össze a szöveges feladat feltétele alapján; tudatosítja, hogy a lineáris egyenletrendszerek valós helyzetek matematikai modelljeiként szolgálhatnak; két egyenlet rendszereit oldja meg különböző módokon; megalkotja a feladat matematikai modelljét egyenletrendszer formájában.
+
+**A tananyag tartalma:** Kétváltozós egyenlet. A kétváltozós egyenlet megoldása. A kétváltozós egyenlet grafikonja. Kétváltozós lineáris egyenlet és grafikonja. Két kétváltozós lineáris egyenlet rendszere és megoldása. Kétváltozós lineáris egyenletrendszerek megoldása grafikus módszerrel, összeadásos módszerrel, behelyettesítéses módszerrel. Feladatok megoldása lineáris egyenletrendszerek segítségével. Két kétváltozós lineáris egyenlet rendszere mint a feladat matematikai modellje.
+
+**A tanulók tanulási tevékenységének fajtái:** Gyakorlatok végzése és feladatok megoldása (szóban és írásban), amelyeket az elvárt tanulási eredmények írnak elő, önálló és tematikus ellenőrző dolgozatok, a tudás ellenőrzése és a tanulási eredmények értékelése. Önálló munka a tankönyvvel és kiegészítő irodalommal. Információkeresés az interneten. Kutatási, projekt- és keresőtevékenység. Előadások tartása. Egyéni, kollektív és csoportos munka, valamint páros munka problémás helyzetek megoldásakor. Didaktikai játékok.

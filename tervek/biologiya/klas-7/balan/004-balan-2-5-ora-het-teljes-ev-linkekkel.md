@@ -1,0 +1,308 @@
+# Naptári-tematikus terv — Biológia, 7. osztály (Balan tankönyv, heti 2,5 óra, 87 óra) — ГР-ral és elektronikus hivatkozásokkal
+
+- **Eredeti ukrán cím:** КТП ( до підручника П.Балан) з ГР та електроними посиланнями на ігри, відео та презентації Біологія 7 клас НУШ (2.5 год)
+- **Szerző:** Рябоконь Г. І.
+- **Tankönyv:** «Біологія» 7. osztály (szerzők: Pavlo Balan, Olekszandr Kozlenko, Ljudmila Osztapcsenko, Olga Kulinics, Ljudmila Jurcsenko), Kijev: „Geneza" 2024; modellprogram: «Біологія 7–9 класи» (szerzők: Balan P. G., Kulinics O. M., Jurcsenko L. P.)
+- **Osztály:** 7. osztály (NUS)
+- **Heti óraszám:** 2,5
+- **Félév/év:** teljes tanév (87 óra)
+- **Forrás URL:** https://naurok.com.ua/ktp-do-pidruchnika-p-balan-z-gr-ta-elektronimi-posilannyami-na-igri-video-ta-prezentaci-biologiya-7-klas-nush-2-5-god-501100.html
+- **Megjegyzés:** A címben elírás: „електроними" (електронними helyett). A 26. óra hiányzik a forrásból (a 25. után a 27. óra következik), így a terv 86 számozott órát tartalmaz a fejlécben ígért 87 helyett. Az 58. óra „ок58"-ként szerepel. A 40. óránál nincs dátum megadva. A „Письмово завдання на с." feladatoknál az oldalszám hiányzik a forrásból (kivéve a 37. órát: „с.127"). Elírások a forrásban: „Іструктаж" (Інструктаж helyett, számos helyen); „Середовищ мешкання" (3. téma címe); „Будови зелених..." (15. óra); „Інформаційно-пошуковій проєкт" (17. óra); „отруйними хребетним зи тваринами" (65. óra, zavaros szöveg); „Спілкування твари" (46. óra, csonka); „Кілегруді" (67. óra, Кільогруді helyett); „Вправа «Зовнішня будова павука" (59. óra, hiányzik a záró idézőjel); a 42. óránál magában álló „В" betű a keresztrejtvény előtt. Kódolási hibák: „П��сьмово" (11. óra), „черевоног��х" (54. óra). A 31. óránál egy YouTube-link két részre szakadt a forrásban (a fájlban egy linkként szerepel). A 45. óránál kétszer szerepel a munkavédelmi oktatás. A 67. óránál a „Безкільові птахи" (taraj nélküli madarak) a címben szerepel, de a 56. § a „Кільогруді" (tarajos mellcsontú madarak) témája; a 69. óránál a 57. § a „Безкільові птахи". A 7. téma óraszáma 26 óra, de az alcím szerint „7.1 Gerinctelenek (12 óra) + 7.2 Húros állatok + 8. téma Életkörnyezet (14 óra + 3 óra)" — a számok nem adódnak össze tisztán; megőrizve. A 32. óra kreatív projektje („Ehető virágok") a nyitvatermők témájánál szerepel. Egyes videolinkek többször is előfordulnak (pl. a 30. óránál az EG23lvC_wAU videó kétszer, különböző indexszel; a 39. óránál a tMlEIMnyiXI videó kétszer). Az elektronikus hivatkozások (bemutatók, videók, játékok, feladatok) a terv részét képezik, ezért az összes URL-t változatlanul megőriztem.
+
+**NAPTÁRI-TEMATIKUS TERV. BIOLÓGIA, 7. osztály, NUS**
+
+**87 óra évente (heti 2,5 óra)**
+
+**a 202 – 202 tanévre**
+
+**A «БІОЛОГІЯ 7–9. OSZTÁLY» MODELLPROGRAM SZERINT (szerzők: Balan P. G., Kulinics O. M., Jurcsenko L. P.)**
+
+**a «Biológia» 7. osztályos tankönyvhöz az általános középfokú oktatási intézmények tanulói számára (szerzők: Pavlo Balan, Olekszandr Kozlenko, Ljudmila Osztapcsenko, Olga Kulinics, Ljudmila Jurcsenko), Kijev: „Geneza" 2024**
+
+## Bevezetés (3 óra)
+
+**1. óra — 03.09. — Elsődleges munkavédelmi oktatás. A biológia jelentősége a természetben és az ember életében. A biológiai kutatás tervezése. ГР 1**
+Házi feladat: 1. §. Írásbeli feladat az oldalon. Bemutató: „Miért tartják a biológiát a XXI. század tudományának" — https://cutt.ly/WelAXpPv. Információkereső projekt: a biológia jelentőségéről az orvostudományban, a mezőgazdaságban, a természetvédelem ügyében stb. (a tanár választása szerint). Alkotó projekt: esszé (fogalmazás, elbeszélés) írása a biológia szerepéről a természetben és az ember életében; a biológiai ismeretek alkalmazása szüleim szakmájában. Videók: https://www.youtube.com/watch?v=pPEdOfGJySI&list=UULF75zUGWPLwyioDAnG359dTw&index=78&pp=iAQB ; https://www.youtube.com/watch?v=OPNl5_Sce2A&list=PLXKcTh_-F6W857Qxi26MgsAZbrOjX-z6v&index=7&pp=iAQB ; https://www.youtube.com/watch?v=6DlTrHYSf9o&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=39&pp=iAQB. Hangostankönyv: https://www.youtube.com/watch?v=h-BUTjhdOr0&list=PLhlvifsYzy1NkeEmQTW7V6z1STr9Ar3s6&index=33&pp=iAQB
+
+**2. óra — 05.09. — Bolygónk biodiverzitása és szerveződési szintjei (genetikai, faji, ökoszisztémás). A rendszertan – a szervezetek sokféleségét tanulmányozó tudomány. ГР 1**
+Házi feladat: 2. §. Írásbeli feladat az oldalon. Információkereső projekt: a rendszertan mint ágazat fejlődésének története. Bemutató: „Milyen bolygónk biodiverzitása és szerveződési szintjei" — https://cutt.ly/QelACeWq. Videók: https://www.youtube.com/watch?v=_Nww1rhUm3k&list=UULF75zUGWPLwyioDAnG359dTw&index=77&pp=iAQB ; https://www.youtube.com/watch?v=uvmLO_Uhw3Y&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=1&pp=iAQB ; https://www.youtube.com/watch?v=L2Wrjh64UrU&list=PLXKcTh_-F6W857Qxi26MgsAZbrOjX-z6v&index=5&pp=iAQB ; https://www.youtube.com/watch?v=Kang2EczJq4&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=38&pp=iAQB. Hangostankönyv: https://www.youtube.com/watch?v=QC0S1K36vm8&list=PLhlvifsYzy1NkeEmQTW7V6z1STr9Ar3s6&index=32&pp=iAQB
+
+**3. óra — 05.09. — A biodiverzitás kutatásának fő módszerei. A biodiverzitás megőrzése – a bioszféra stabil létezésének záloga. ГР 1**
+Házi feladat: 3. §. Írásbeli feladat az oldalon. Gyakorlatorientált projekt: brosúra készítése: „A szupermarket biodiverzitása" (lakás, ház, háztáji telek). Bemutató: „Miért kell óvni bolygónk biodiverzitását" — https://cutt.ly/KelACEyF. Videók: https://www.youtube.com/watch?v=tYYLRDZylzE&list=UULF75zUGWPLwyioDAnG359dTw&index=76&pp=iAQB ; https://www.youtube.com/watch?v=hA7KoljJH3Q&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=3&pp=iAQB ; https://www.youtube.com/watch?v=h-ppfC4w8oY&list=PLXKcTh_-F6W857Qxi26MgsAZbrOjX-z6v&index=6&pp=iAQB ; https://www.youtube.com/watch?v=3BwhCuIKpxI&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=37&pp=iAQB. Hangostankönyv: https://www.youtube.com/watch?v=iAFAZXhf_mk&list=PLhlvifsYzy1NkeEmQTW7V6z1STr9Ar3s6&index=31&pp=iAQB
+
+## 1. fejezet. A sejt. Prokarióták. Egysejtű eukarióták
+
+### 1. téma. A sejt – szerkezeti-funkciós egység (8 óra)
+
+**4. óra — 10.09. — A sejtek kutatási módszerei. Nagyító eszközök és a velük való munkavégzés szabályai. ГР 1**
+Házi feladat: 4. §. Írásbeli feladat az oldalon. Információkereső projekt: „A sejt felfedezésének története". Bemutató: „Mi a sejt és hogyan tanulmányozzák" — https://cutt.ly/uelACGC6. Videók: https://www.youtube.com/watch?v=r-H_EAV2WLU&list=UULF75zUGWPLwyioDAnG359dTw&index=74&pp=iAQB ; https://www.youtube.com/watch?v=taNqG8PzA9k&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=5&pp=iAQB ; https://www.youtube.com/watch?v=1XNJ3C87_Ic&list=PLXKcTh_-F6W857Qxi26MgsAZbrOjX-z6v&index=4&pp=iAQB ; https://www.youtube.com/watch?v=B-4zF5G_1JE&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=35&pp=iAQB. Hangostankönyv: https://www.youtube.com/watch?v=_ihLI90nw6I&list=PLhlvifsYzy1NkeEmQTW7V6z1STr9Ar3s6&index=30&pp=iAQB
+
+**5. óra — 12.09. — A sejtek szerveződési típusai. ГР 2**
+Házi feladat: 5. §. Írásbeli feladat az oldalon. Bemutató: „Milyen szerveződési típusai vannak a sejteknek" — https://cutt.ly/ZelAC9Pk. Keresztrejtvény: „Az élő fő jellemzői" — https://learningapps.org/30305286. Videók: https://www.youtube.com/watch?v=DBQYBEQ9Jj4&list=UULF75zUGWPLwyioDAnG359dTw&index=75&pp=iAQB ; https://www.youtube.com/watch?v=u9dSNMIIOmw&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=7&pp=iAQB ; https://www.youtube.com/watch?v=LSwOzBzOb8U&list=PLXKcTh_-F6W857Qxi26MgsAZbrOjX-z6v&index=3&pp=iAQB ; https://www.youtube.com/watch?v=gfFgT0v36SQ&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=36&pp=iAQB. Hangostankönyv: https://www.youtube.com/watch?v=jNlPahXO9OI&list=PLhlvifsYzy1NkeEmQTW7V6z1STr9Ar3s6&index=29&pp=iAQB
+
+**6. óra — 17.09. — Az eukarióta sejt felépítése. A sejt sejtszervecskéi, felépítésük és funkcióik sajátosságai. A sejt sejtszervecskéinek kölcsönös kapcsolata. ГР 3**
+Házi feladat: 6. §. Írásbeli feladat az oldalon. Bemutató: „6. §. Milyen sajátosságai vannak az eukarióta sejtek felépítésének" — https://cutt.ly/RelAViXh. Végezzétek el az állati sejt sejtszervecskéinek felismerésére szolgáló gyakorlatot — https://learningapps.org/22174020. Végezzétek el „A sejt felépítése" gyakorlatot — https://learningapps.org/3291202. Videók: https://www.youtube.com/watch?v=Qy-IZRfnsso&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=79&pp=iAQB ; https://www.youtube.com/watch?v=-lCvOpjtsjo&list=PLXKcTh_-F6W857Qxi26MgsAZbrOjX-z6v&index=2&pp=iAQB ; https://www.youtube.com/watch?v=oZC95mvHOJE&list=PLXKcTh_-F6W857Qxi26MgsAZbrOjX-z6v&index=8&pp=iAQB ; https://www.youtube.com/watch?v=7FqxnRfXkWI&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=34&pp=iAQB. Hangostankönyv: https://www.youtube.com/watch?v=-NFt-LnC6SU&list=PLhlvifsYzy1NkeEmQTW7V6z1STr9Ar3s6&index=28&pp=iAQB
+
+**7. óra — 19.09. — Munkavédelmi oktatás. Gyakorlati munka: „Ideiglenes mikrokészítmények készítése és vizsgálatuk optikai mikroszkóp segítségével". ГР 1**
+Házi feladat: 4–6. §. Videók: https://www.youtube.com/watch?v=X604ANCJBIw&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=8&pp=iAQB ; https://www.youtube.com/watch?v=z3MbxUFIX-A&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=33&pp=iAQB
+
+**8. óra — 19.09. — A prokarióta sejt felépítésének sajátosságai és életfolyamataik. ГР 2**
+Házi feladat: 7. §. Írásbeli feladat az oldalon. Bemutató: „Milyen sajátosságai vannak a prokarióta sejtek felépítésének és életműködésének" — https://cutt.ly/welAVmj. Tudományos-kutató projekt: „A joghurt képződési sebességének kutatása a tej zsírtartalmától függően". Videók: https://www.youtube.com/watch?v=6aH7LSNA4o8&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=78&pp=iAQB ; https://www.youtube.com/watch?v=ATYyreMqu8g&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=9&pp=iAQB ; https://www.youtube.com/watch?v=2AuTDenDnPo&list=PLXKcTh_-F6W857Qxi26MgsAZbrOjX-z6v&index=1&pp=iAQB ; https://www.youtube.com/watch?v=zgxFAhbubf0&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=32&pp=iAQB. Hangostankönyv: https://www.youtube.com/watch?v=cMGF-QxlgKo&list=PLhlvifsYzy1NkeEmQTW7V6z1STr9Ar3s6&index=27&pp=iAQB
+
+**9. óra — 24.09. — A prokarióta szervezetek sokfélesége. A prokarióták szerepe a természetben. ГР 3**
+Házi feladat: 8. §. Írásbeli feladat az oldalon. Bemutató: „Milyen a prokarióták sokfélesége. Mi a szerepük a természetben" — https://cutt.ly/2eTTXFLk. Tudományos-kutató projekt: „A hőmérséklet hatásának kutatása a joghurtkultúra baktériumainak szaporodási sebességére". Videó: https://www.youtube.com/watch?v=Ai2tPrfoA7o&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=77&pp=iAQB. Hangostankönyv: https://www.youtube.com/watch?v=UHEZU4HZjuI&list=PLhlvifsYzy1NkeEmQTW7V6z1STr9Ar3s6&index=26&pp=iAQB
+
+**10. óra — 26.09. — A prokarióták szerepe az ember életében. ГР 3**
+Házi feladat: 9. §. Írásbeli feladat az oldalon. Gyakorlatorientált projekt: brosúra (lapbook) készítése: „A higiéniai szabályok betartása az ember bakteriális betegségeinek megelőzése érdekében" (az iskolai ebédlő, az udvar számára). Információkereső projekt: „A baktériumok – az ember betegségeinek kórokozói". Bemutató: „Mi a prokarióták szerepe az ember életében" — https://cutt.ly/leTTCrEz. Videók: https://www.youtube.com/watch?v=DCoStLP_Yns&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=73&pp=iAQB ; https://www.youtube.com/watch?v=bkdKxcJnIwo&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=10&pp=iAQB ; https://www.youtube.com/watch?v=u8i-0kkZAnM&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=31&pp=iAQB. Hangostankönyv: https://www.youtube.com/watch?v=vpatmev1NK8&list=PLhlvifsYzy1NkeEmQTW7V6z1STr9Ar3s6&index=25&pp=iAQB
+
+### 2. téma. Az egysejtű eukarióták – egységes szervezetek (3 óra)
+
+**11. óra — 01.10. — Az egysejtű eukarióták sejtjei szerveződésének sajátosságai. ГР 1**
+Házi feladat: 10. §. Írásbeli feladat az oldalon. Bemutató: „Milyen sajátosságai vannak az egysejtű eukarióták sejtjei szerveződésének" — https://cutt.ly/MeTTCDh9. Videók: https://www.youtube.com/watch?v=RD8mvTSrfgY&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=76&pp=iAQB ; https://www.youtube.com/watch?v=aPudehHXR2I&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=29&pp=iAQB. Hangostankönyv: https://www.youtube.com/watch?v=yhb1Bx9hmlY&list=PLhlvifsYzy1NkeEmQTW7V6z1STr9Ar3s6&index=24&pp=iAQB
+
+**12. óra — 03.10. — Az egysejtű eukarióták – az édesvízi és tengeri vizek lakói. A koloniális és többsejtű szervezetek fogalma. Munkavédelmi oktatás. Laboratóriumi kutatás: „A papucsállatkák megfigyelése". ГР 1**
+Házi feladat: 11. §. Írásbeli feladat az oldalon. Információkereső projekt: „A tengeri egysejtű eukarióták, szerepük az ember életében és a tudományos kutatásokban". Végezzétek el a „Koloniális szervezetek" gyakorlatot — https://learningapps.org/35032981. Bemutató: https://cutt.ly/weTTC9oZ. Laboratóriumi kutatás: „A papucsállatkák megfigyelése". Videók: https://www.youtube.com/watch?v=UmXf61DnbNY&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=12&pp=iAQB ; https://www.youtube.com/watch?v=m5JtDS4zqKA&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=74&pp=iAQB ; https://www.youtube.com/watch?v=lWzDTeqJxoQ&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=11&pp=iAQB ; https://www.youtube.com/watch?v=EbS9lpjZYgQ&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=28&pp=iAQB. Hangostankönyv: https://www.youtube.com/watch?v=YNvrMU2FAxw&list=PLhlvifsYzy1NkeEmQTW7V6z1STr9Ar3s6&index=23&pp=iAQB
+
+**13. óra — 03.10. — Parazita egysejtű eukarióták (a vérhasamőba, a maláriaplazmódium példáján). Az ember parazitás (inváziós) betegségeinek megelőzése. Az egysejtű eukarióták – a többsejtű fajok ősei. ГР 1**
+Házi feladat: 12. §. Információkereső projekt: „Az ember betegségei, amelyeknek kórokozói egysejtű eukarióták". Gyakorlatorientált projekt: brosúra készítése: „Az egysejtű eukarióta szervezetek által okozott betegségek megelőzése". Bemutató: https://cutt.ly/4eTTVsoY. Ismételjétek át az 1–12. §-t. Videók: https://youtu.be/bbqJiwhOOj0?si=aBq9NLwLG_RMjrOI ; https://www.youtube.com/watch?v=bbqJiwhOOj0&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=75&pp=iAQB ; https://www.youtube.com/watch?v=aHq3HCrYrP4&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=14&pp=iAQB ; https://www.youtube.com/watch?v=JkxWTrh5PdM&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=27&pp=iAQB. Hangostankönyv: https://www.youtube.com/watch?v=6VoTmxperdU&list=PLhlvifsYzy1NkeEmQTW7V6z1STr9Ar3s6&index=22&pp=iAQB
+
+**14. óra — 08.10. — Összegző dolgozat. Összegzés a „Bevezetés" és „A sejt – szerkezeti-funkciós egység. Prokarióták", „Az egysejtű eukarióták – egységes szervezetek" témákból. ГР 1**
+
+## 2. fejezet. Az eukarióta szervezetek sokfélesége
+
+### 3. téma. A moszatok élőhelyei és sokfélesége (4 óra)
+
+**15. óra — 10.10. — Egysejtű, koloniális és többsejtű moszatok. A zöldmoszatok sokfélesége. Munkavédelmi oktatás. Laboratóriumi kutatás: „A zöld egysejtű (a klamidomonasz példáján) és a többsejtű fonalas moszatok (a spirogira vagy az ulotrix példáján) felépítése"; ГР 1**
+Házi feladat: 13. §. Információkereső projekt: „Az algológia: fejlődése Ukrajnában és a világon"; Bemutató: https://cutt.ly/BeTTVITt. Végezzétek el „A moszatok szaporodásának szakaszai" gyakorlatot — https://learningapps.org/3222490. Videók: https://www.youtube.com/watch?v=kbn7nZ3MfxU&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=72&pp=iAQB ; https://www.youtube.com/watch?v=c5daw-G9XJk&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=16&t=43s&pp=iAQB (laboratóriumi kutatás); https://www.youtube.com/watch?v=3__fkNlqJZ0&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=17&pp=iAQB ; https://www.youtube.com/watch?v=so0VYZCcTLo&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=26&pp=iAQB ; https://www.youtube.com/watch?v=ypup6ZFobvA&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=25&pp=iAQB
+
+**16. óra — 15.10. — A barna, vörös moszatok sokfélesége. ГР 1**
+Házi feladat: 14. §. Információkereső projekt: „A laminária: elterjedése és alkalmazása"; Bemutató: https://cutt.ly/PeY5f8KI. Videók: https://www.youtube.com/watch?v=NC3WgqEa3ZU&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=71&pp=iAQB ; https://www.youtube.com/watch?v=6MpfkeXV1Zg&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=19&pp=iAQB ; https://www.youtube.com/watch?v=uj6UZga49rI&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=24&pp=iAQB
+
+**17. óra — 17.10. — Kovamoszatok. A moszatok szerepe a természetes ökoszisztémákban és az ember életében. ГР 1**
+Házi feladat: 15. §. Információkereső projekt: „A moszatok különböző képviselőinek felhasználása az iparban, a kozmetológiában, az orvostudományban". Alkotó projekt: „A moszatok jelentősége az ember életében". Kollázsok, lapbookok készítése: „A vizek megőrzése – a moszatok biodiverzitásának megőrzése". Bemutató: https://cutt.ly/9eY5gLg4. Videók: https://www.youtube.com/watch?v=5ig5t-RVZ58&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=70&pp=iAQB ; https://www.youtube.com/watch?v=6MpfkeXV1Zg&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=19&pp=iAQB
+
+### 4. téma. A magasabb rendű növények jellemző vonásai és felépítése (8 óra)
+
+**18. óra — 17.10. — A különböző szövettípusok és differenciált szervek (vegetatív és szaporító) kialakulása. ГР 1**
+Házi feladat: 16. §. Alkotó projekt: A vegetatív szervek nem tipikus funkciói a növényeknél. Játék: „Milyen szervei vannak a virágos növénynek" — https://learningapps.org/4393098. Bemutató: https://cutt.ly/aeDPJOwU. Videók: https://www.youtube.com/watch?v=WLon_iYDPr0&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=69&pp=iAQB ; https://www.youtube.com/watch?v=u84QR_C-2Lo&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=20&pp=iAQB ; https://www.youtube.com/watch?v=SiupFScSWx0&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=23&pp=iAQB
+
+**19. óra — 22.10. — A növények vegetatív szervei – a gyökér, felépítése, funkciói. A gyökér módosulásai. Munkavédelmi oktatás. Laboratóriumi munka: A gyökér és a gyökérmódosulások kutatása. ГР 1**
+Házi feladat: 17. §. Bemutató: https://cutt.ly/7eDPJBOe. Információkereső projekt: „Az epifita növények gyökereinek sajátosságai". Rakjátok össze „A gyökér módosulásai" kirakós játékot — https://learningapps.org/30567809. Videók: https://www.youtube.com/watch?v=avFip6GKlUM&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=68&pp=iAQB ; https://www.youtube.com/watch?v=7pwzyrUkZaM&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=66&pp=iAQB ; https://www.youtube.com/watch?v=tKaNOrUMtso&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=23&pp=iAQB ; https://www.youtube.com/watch?v=ePyEjWRrP_k&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=22&pp=iAQB. Laboratóriumi munka: A gyökér és a gyökérmódosulások kutatása — https://www.youtube.com/watch?v=p2qJEhSHtA4&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=25&pp=iAQB
+
+**20. óra — 24.10. — A növények vegetatív szervei – a hajtás, felépítése, funkciói és módosulásai. Munkavédelmi oktatás. Laboratóriumi munka: A különböző növények hajtásainak és rügyeinek kutatása. ГР 1**
+Házi feladat: 18. §. A hajtás és módosulásai. Milyen a szár felépítése és funkciói. Információkereső projekt: „A növények szárának sokfélesége a növekedési irány szerint". Játék: „A növények szerveinek módosulásai" — https://learningapps.org/1691269. Bemutató: https://cutt.ly/aeDPKadM. Videók: https://www.youtube.com/watch?v=_hAJ4Qflwlg&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=67&pp=iAQB ; https://www.youtube.com/watch?v=1fvtHQIAlmk&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=26&pp=iAQB ; https://www.youtube.com/watch?v=VRhnJy6i7Ck&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=27&pp=iAQB ; https://www.youtube.com/watch?v=8IGneedJPTI&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=29&pp=iAQB ; https://www.youtube.com/watch?v=MwGm_d6r88Y&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=21&pp=iAQB
+
+**21. óra — 05.11. — A növények vegetatív szervei – a levél, felépítése, funkciói és módosulásai. ГР 2**
+Házi feladat: 19. §. Bemutató: „Milyen a levél felépítése és funkciói. Milyen módosulásai vannak" — https://cutt.ly/8eDPKY8Y. Lapbook készítése: „A levél módosulásai a különböző növekedési feltételek között élő növényeknél". Játék: https://wordwall.net/uk/resource/37430485. Videók: https://www.youtube.com/watch?v=gOp_ubT6My8&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=65&pp=iAQB ; https://www.youtube.com/watch?v=rk37PWcGhe4&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=20&pp=iAQB
+
+**22. óra — 07.11. — A növény különböző szervei közötti kölcsönös kapcsolatok. A növények mozgásai. Munkavédelmi oktatás. Laboratóriumi kutatás: Az anyagok szállításának kutatása a növényben festékanyagok segítségével; ГР 1**
+Házi feladat: 20. §. „Hogyan hatnak kölcsönösen egymásra a növény különböző szervei. A növények mozgásai" — https://cutt.ly/keGIuvhv. Laboratóriumi kutatás: Az anyagok szállításának kutatása a növényben festékanyagok segítségével. Videók: https://www.youtube.com/watch?v=XKYku2Evt7w&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=32&pp=iAQB ; https://www.youtube.com/watch?v=w3QU8VnPo3w&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=64&pp=iAQB ; https://www.youtube.com/watch?v=qphR7WyNrkQ&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=31&pp=iAQB ; https://www.youtube.com/watch?v=Eno5u_gbaok&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=19&pp=iAQB
+
+**23. óra — 12.11. — A magasabb rendű növények élőhelyei. A magasabb rendű növények alkalmazkodásai a különböző növekedési feltételekhez. A különböző életformák kialakulása a magasabb rendű növényeknél – a különböző növekedési feltételekhez való alkalmazkodások következménye. ГР 1**
+Házi feladat: 21. §. „Hogyan alkalmazkodnak a magasabb rendű növények a létezési feltételekhez" — https://cutt.ly/DeGIu1hB. Információkereső projekt: „A magasabb rendű növények életformáinak osztályozása különböző tudósok szerint"; Élőhelyek. Videók: https://www.youtube.com/watch?v=1EGMR5HeZHQ&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=21&pp=iAQB ; https://youtu.be/bsmK-58quzA?si=vkuzbrhaBdGHMN7O ; https://www.youtube.com/watch?v=oMH_INoPAEE&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=18&pp=iAQB. Alkalmazkodások: https://www.youtube.com/watch?v=ukOF7n6XU2I&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=22&t=5s&pp=iAQB
+
+**24. óra — 14.11. — A növények szaporodása: ivaros és ivartalan. A magasabb rendű növények életciklusai. ГР 3**
+Házi feladat: 22. §. „A magasabb rendű növények szaporodása és életciklusai" — https://cutt.ly/LeJE9dW5. Ismételjétek át a 16–22. §-t. Gyakorlatorientált projekt: brosúra készítése: „A növények vegetatív szaporodásának módjai". Videók: https://www.youtube.com/watch?v=H0CLlVlLjeg&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=62&pp=iAQB ; https://www.youtube.com/watch?v=tRAnZQBFEuw&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=33&pp=iAQB ; https://www.youtube.com/watch?v=RfKe2MUbGLQ&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=17&pp=iAQB
+
+**25. óra — 14.11. — Összegző dolgozat. Az ismeretek összegzése: A növény – egységes, integrált szervezet. ГР 1, ГР 3**
+Videó: https://youtu.be/MMtZyiZ_NJs?feature=shared. Gyakorlatorientált projekt: brosúra készítése: „A műtrágyák hatásának kutatása a növények növekedésére", „A mikrozöldek otthoni termesztésének sajátosságai".
+
+### 5. téma. A magasabb rendű növények sokfélesége (14 óra)
+
+*[A 26. óra hiányzik a forrásból.]*
+
+**27. óra — 19.11. — Magasabb rendű spórás növények – mohák. ГР 1**
+Házi feladat: 23. §. „Magasabb rendű spórás növények. Mohák" — https://cutt.ly/TeJE9Yfd. Videók: https://www.youtube.com/watch?v=r-DNQfn7szs&list=UULF75zUGWPLwyioDAnG359dTw&index=95&pp=iAQB ; https://www.youtube.com/watch?v=GgOqMnmnh8E&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=34&pp=iAQB ; https://youtu.be/aV9_u76aLEU?si=HdQVIv9ElrxOCQ75. Információkereső projekt: „A magasabb rendű spórás növények jelentősége és felhasználása az ember által".
+
+**28. óra — 21.11. — Magasabb rendű spórás növények – korpafüvek, zsurlók. ГР 1**
+Házi feladat: 24. §. „Korpafűfélék és zsurlófélék" — https://cutt.ly/seJE9Cgr. Videók: https://www.youtube.com/watch?v=M14YrDCzlkQ&list=UULF75zUGWPLwyioDAnG359dTw&index=92&pp=iAQB ; https://www.youtube.com/watch?v=nivU9e8UvxM&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=35&pp=iAQB ; https://www.youtube.com/watch?v=5_rWxZsc59M&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=36&pp=iAQB ; https://www.youtube.com/watch?v=fAyOlolBGxM&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=16&pp=iAQB
+
+**29. óra — 26.11. — Magasabb rendű spórás növények – páfrányok. ГР 1**
+Házi feladat: 25. §. „Miért érdekesek a páfrányfélék" — https://cutt.ly/geKulFHx. Kvíz: „Magasabb rendű spórás növények" — https://learningapps.org/3275468. Videók: https://www.youtube.com/watch?v=XptgDbF5efw&list=UULF75zUGWPLwyioDAnG359dTw&index=91&pp=iAQB ; https://www.youtube.com/watch?v=DHdh_r8O8Yg&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=37&pp=iAQB ; https://www.youtube.com/watch?v=dWOS6rLfUO0&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=15&pp=iAQB
+
+**30. óra — 28.11. — Munkavédelmi oktatás. Gyakorlati munka: „A magasabb rendű spórás növények különböző képviselői felépítésének összehasonlítása". ГР 3**
+Házi feladat: 23., 24., 25. §. Videók: https://www.youtube.com/watch?v=4fyInY2uuow&list=UULF75zUGWPLwyioDAnG359dTw&index=90&pp=iAQB ; https://www.youtube.com/watch?v=EG23lvC_wAU&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=14&pp=iAQB. Gyakorlati munka: „A magasabb rendű spórás növények különböző képviselői felépítésének összehasonlítása" — https://www.youtube.com/watch?v=EG23lvC_wAU&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=44&pp=iAQB
+
+**31. óra — 28.11. — Magvas növények. A mag. Munkavédelmi oktatás. Laboratóriumi kutatás: A mag felépítésének kutatása (a bab és a búza példáján). ГР 1**
+Házi feladat: 26. §. „Magvas növények. A mag felépítése" — https://cutt.ly/aeKuzhaw. Információkereső projekt: „A nyitvatermők az ember életében". Videók: https://www.youtube.com/watch?v=7Z55Yk11bD0&list=UULF75zUGWPLwyioDAnG359dTw&index=88&pp=iAQB ; https://www.youtube.com/watch?v=MKSSexRX52c&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=9&pp=iAQB
+
+**32. óra — 03.12. — Nyitvatermők. Munkavédelmi oktatás. Laboratóriumi kutatás: A tobozok és a tűlevelek kutatása (az erdeifenyő vagy a lucfenyő példáján). ГР 1**
+Házi feladat: 27. §. „Nyitvatermők" — https://cutt.ly/9eKuzYgg. Alkotó projekt: „Ehető virágok". Játék: „Nyisd ki a kirakóst" — https://learningapps.org/2256653. Játék: „A nyitvatermő növények jelentősége" — https://learningapps.org/2325386. Videók: https://www.youtube.com/watch?v=oKALt5gwzy4&list=UULF75zUGWPLwyioDAnG359dTw&index=87&pp=iAQB ; https://www.youtube.com/watch?v=E3eJGmthNlM&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=40&pp=iAQB. Laboratóriumi kutatás: A tobozok és a tűlevelek kutatása (az erdeifenyő vagy a lucfenyő példáján) — https://www.youtube.com/watch?v=XlPVflY3vJY&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=37&pp=iAQB. Laboratóriumi kutatás: https://www.youtube.com/watch?v=zn2p8XqMT4g&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=41&pp=iAQB ; https://www.youtube.com/watch?v=qevEadhyWck&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=13&pp=iAQB ; https://www.youtube.com/watch?v=XlPVflY3vJY&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=7&pp=iAQB
+
+**33. óra — 05.12. — Zárvatermők. A virág. A virágzat. Munkavédelmi oktatás. Laboratóriumi kutatás: A virág és a virágzat felépítésének kutatása. ГР 1**
+Házi feladat: 28. §. „Zárvatermők, vagyis virágos növények" — https://cutt.ly/leKuzH2. Videók: https://www.youtube.com/watch?v=WlJTbtWAv6g&list=UULF75zUGWPLwyioDAnG359dTw&index=85&pp=iAQB ; https://www.youtube.com/watch?v=sCQVAVypSFo&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=42&pp=iAQB. Laboratóriumi kutatás: „A virág felépítése" — https://www.youtube.com/watch?v=IySWLEZ9rrc&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=43&pp=iAQB. Virágzat: https://www.youtube.com/watch?v=VdDo77otISg&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=45&pp=iAQB ; https://www.youtube.com/watch?v=volyQB5rqA0&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=12&pp=iAQB ; https://www.youtube.com/watch?v=n2JVuJDI8iA&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=6&pp=iAQB
+
+**34. óra — 10.12. — A magvas növények szaporodásának sajátosságai (a beporzás és megtermékenyítés folyamatai, a mag és a terméshéj kialakulása (a virágos növényeknél)). ГР 2**
+Házi feladat: 29. §. „Milyen sajátosságai vannak a beporzás és megtermékenyítés folyamatainak a virágos növényeknél" — https://cutt.ly/qeXvWyUJ. Videók: https://www.youtube.com/watch?v=E19gl8zdWaU&list=UULF75zUGWPLwyioDAnG359dTw&index=83&pp=iAQB (beporzás); https://www.youtube.com/watch?v=GAMeyNqFrRI&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=46&pp=iAQB (megtermékenyítés); https://www.youtube.com/watch?v=nZlMgKe2LyI&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=47&pp=iAQB ; https://www.youtube.com/watch?v=eXeW2Q1-_Xc&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=11&pp=iAQB
+
+**35. óra — 12.12. — A termés. A magvak és termések terjedési módjai. Munkavédelmi oktatás. Laboratóriumi kutatás: A termések sokféleségének kutatása. ГР 2**
+Házi feladat: 30. §. „A termések kialakulása. A termések sokfélesége" — https://cutt.ly/8eXvWEBs. Információkereső projekt: „A virágos növények családjai (választható: keresztesvirágúak, burgonyafélék, pillangósvirágúak, fészkesvirágúak, pázsitfűfélék, liliomfélék, hagymafélék stb.)". Laboratóriumi kutatás: „A termések sokféleségének kutatása" — https://www.youtube.com/watch?v=7fhZ3BAHdpM&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=34&pp=iAQB. Laboratóriumi kutatás: „A mag felépítése" — https://www.youtube.com/watch?v=ul_hWHUta-0&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=35&pp=iAQB. Videók: https://www.youtube.com/watch?v=QastGAOiGY&list=UULF75zUGWPLwyioDAnG359dTw&index=81&pp=iAQB ; https://www.youtube.com/watch?v=jBBdiA2AMNs&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=10&pp=iAQB
+
+**36. óra — 12.12. — A zárvatermők sokfélesége (egyszikűek). ГР 1**
+Házi feladat: 31. §. „A zárvatermő (virágos) növények sokfélesége. Egyszikűek" — https://cutt.ly/yeXvWMAa. Kollázs készítése: „Vidékem mérgező növényei"; „Vidékem gyógynövényei". Videók: https://youtu.be/v7D5YNme2yo?si=F835Qg3IyB2kdwzF ; https://www.youtube.com/watch?v=bRCUuVG5-yk&list=PLXKcTh_-F6W857Qxi26MgsAZbrOjX-z6v&index=34&pp=iAQB ; https://www.youtube.com/watch?v=6exNXIVTwRg&list=UULF75zUGWPLwyioDAnG359dTw&index=80&pp=iAQB ; https://www.youtube.com/watch?v=jbvzaZykFSs&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=8&pp=iAQB
+
+**37. óra — 17.12. — A zárvatermők sokfélesége (kétszikűek). ГР 1**
+Házi feladat: 32. §. Tanuljátok meg a 32.4. ábrát. Írásbeli 2. feladat a 127. oldalon. Információkereső projekt: „A virágos növények szerepe az ember életében és gazdasági tevékenységében". Bemutató: „A zárvatermő (virágos) növények sokfélesége. Kétszikűek: keresztesvirágúak, rózsafélék, pillangósvirágúak" — https://cutt.ly/1eCxk4es. Videó: https://www.youtube.com/watch?v=NVw0aqjgCPQ&list=UULF75zUGWPLwyioDAnG359dTw&index=79&pp=iAQB
+
+**38. óra — 19.12. — A zárvatermők sokfélesége (kétszikűek). ГР 2**
+Házi feladat: 33. §. „A zárvatermő (virágos) növények sokfélesége. Kétszikűek: burgonyafélék, fészkesvirágúak" — https://cutt.ly/5eCxlKiA. „Ismerd fel a fát a leveléről" — https://learningapps.org/2952604. Videó: https://www.youtube.com/watch?v=XaMyz7PhSsI&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=2&pp=iAQB
+
+**39. óra — 24.12. — Munkavédelmi oktatás. Gyakorlati munka. A különböző magvas növények (nyitvatermők és zárvatermők (virágos növények)) felépítésének összehasonlítása. ГР 3**
+Házi feladat: 27., 31–33. §. Gyakorlatorientált projekt: brosúra készítése: „Vidékem (Ukrajna) kora tavasszal virágzó növényei" vagy „A kora tavaszi virágok védelme". Ismételjétek át a 23–33. §-t. Gyakorlati munka: https://www.youtube.com/watch?v=tMlEIMnyiXI&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=31&pp=iAQB ; https://www.youtube.com/watch?v=JySgpcBN9FU&list=UULF75zUGWPLwyioDAnG359dTw&index=84&pp=iAQB ; https://www.youtube.com/watch?v=tMlEIMnyiXI&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=1&pp=iAQB
+
+**40. óra — Összegző dolgozat. ГР 3. Az ismeretek összegzése: „A magasabb rendű növények sokfélesége"**
+
+### 6. téma. Az állatok jellemző vonásai (8 óra)
+
+**41. óra — 14.01. — Az állatok jellemző vonásai. Heterotróf táplálkozási típus. A sejtek differenciálódása, a szövetek kialakulása. ГР 1**
+Házi feladat: 34. §. Bemutató: „Milyen jellemzői vannak az állatoknak. Az állatok szövetei" — https://cutt.ly/Je2akKd7. Információkereső projekt: „A ragadozó állatok vadászathoz való alkalmazkodásai". Gyakorlat: „Az állati szervezet szövetei" — https://learningapps.org/2500223. Videók: https://www.youtube.com/watch?v=hExMGhYZIvo&list=UULF75zUGWPLwyioDAnG359dTw&index=73&pp=iAQB. A sejtek differenciálódása: https://www.youtube.com/watch?v=5qU7-QEB7VQ&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=58&pp=iAQB
+
+**42. óra — 16.01. — A szervek és rendszereik. A különböző szervrendszerek funkciói. Az életfunkciók neurohumorális szabályozása. ГР 2**
+Házi feladat: 35. §. „A szervek és szervrendszerek. Az életfunkciók szabályozása". Bemutató: https://cutt.ly/Ie2alhjP. Oldjátok meg a keresztrejtvényt — https://learningapps.org/28849487. Testtakarók: https://learningapps.org/2149803. Oldjátok meg a keresztrejtvényt — https://learningapps.org/24606916. Keringési rendszer: https://learningapps.org/2154225. Idegrendszer: https://learningapps.org/2167007. Keringési rendszer: https://learningapps.org/26000513. Állítsátok fel a megfeleltetést: „Az állatok légzőrendszere" — https://learningapps.org/2154521. Videó: https://www.youtube.com/watch?v=iVVyhj5CVf0&list=UULF75zUGWPLwyioDAnG359dTw&index=72&pp=iAQB
+
+**43. óra — 16.01. — Az állatok szaporodási típusai. A megtermékenyítés módjai (külső és belső). ГР 3. Munkavédelmi oktatás. Laboratóriumi kutatás: A madártojás belső felépítésének kutatása – közvetlen fejlődési típusú állatok (a házi madarak tojásainak példáján)**
+Házi feladat: 36. §. Végezzétek el a teszteket — https://naurok.com.ua/test/biologiya-7-klas-nush-sposobi-rozmnozhennya-tvarin-3226902.html. Végezzétek el „Az állatok megtermékenyítési módjai" gyakorlatot — https://learningapps.org/26072261. „Az állatok szaporodási módjai" — https://cutt.ly/He2alRWT. Videók: https://youtu.be/FwOqEXX3XVc?si=rPuURc8CQNTPu4Jj ; https://www.youtube.com/watch?v=S9bBOWj2-uA&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=59&pp=iAQB ; https://www.youtube.com/watch?v=2361aU4702U&list=UULF75zUGWPLwyioDAnG359dTw&index=71&pp=iAQB. Laboratóriumi kutatás: https://www.youtube.com/watch?v=F2hCNR1FdFQ&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=26&pp=iAQB. A madártojás belső felépítése: https://www.youtube.com/watch?v=nk0bb_IdOxY&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=61&pp=iAQB
+
+**44. óra — 21.01. — A fejlődés típusai (közvetlen és közvetett). ГР 2**
+Házi feladat: 37. §. „Az állatok fejlődése" — https://cutt.ly/qe2alFtf. Videók: https://www.youtube.com/watch?v=m6SvAGOGY00&list=UULF75zUGWPLwyioDAnG359dTw&index=70&pp=iAQB ; https://www.youtube.com/watch?v=QDUlcQ7MyYg&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=60&pp=iAQB
+
+**45. óra — 23.01. — Az állatok viselkedési formái (feltétlen és feltételes reflexek, ösztönök). ГР 2. Munkavédelmi oktatás. Munkavédelmi oktatás. Laboratóriumi kutatás: Az állatok viselkedésének megfigyelése (a fajt a tanár határozza meg)**
+Házi feladat: 38. §. „Milyen az állatok viselkedése" — https://cutt.ly/We9t8CPL. Tudományos-kutató: „A feltételes táplálkozási reflex kialakítása akváriumi halaknál különböző feltételes ingerekre (fény, kopogtatás, etető, különböző takarmánytípusok stb.)". Videók: https://www.youtube.com/watch?v=7ExaQHxa4NQ&list=UULF75zUGWPLwyioDAnG359dTw&index=69&pp=iAQB. Viselkedés. Reflexek: https://www.youtube.com/watch?v=CvuBntwNkR0&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=62&pp=iAQB. Az állatok viselkedési formái: https://www.youtube.com/watch?v=xrMRiBf3Vpc&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=63&pp=iAQB. Az állatok viselkedési formái: https://learningapps.org/2288317 ; https://learningapps.org/3444815 ; https://learningapps.org/482828
+
+**46. óra — 28.01. — Az állatok kommunikációs módjai. Az állatok vándorlásai és tanulmányozásuk módszerei. ГР 1**
+Házi feladat: 39. §. „Milyen kommunikációs módjai vannak az állatoknak. Vándorlások" — https://cutt.ly/5e9t4WND. „Az állatok kommunikációja" — https://learningapps.org/2292519. „Az állatok tanulmányozásának módszerei" — https://learningapps.org/4814718. Információkereső projekt: „Az állatok kommunikációs módjai (madarak, emlősök stb.)". Kommunikáció: https://www.youtube.com/watch?v=6_psRnnk0Ac&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=64&pp=iAQB. A tájékozódás és vándorlás módjai: https://www.youtube.com/watch?v=MpMFv7rf8nA&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=65&pp=iAQB ; https://www.youtube.com/watch?v=SiIf4y-lLVU&list=UULF75zUGWPLwyioDAnG359dTw&index=67&pp=iAQB
+
+**47. óra — 30.01. — Munkavédelmi oktatás. Gyakorlati munka: „Az állatok különböző viselkedési formáinak meghatározása (videóanyagok alapján)". ГР 2**
+Házi feladat: 38–39. §. Videók: https://www.youtube.com/watch?v=oJb1vKmg4mM&list=UULF75zUGWPLwyioDAnG359dTw&index=68&pp=iAQB ; https://www.youtube.com/watch?v=22yfDymxv_8&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=66&pp=iAQB. Az állatok viselkedési formái: https://learningapps.org/3387029. Gyakorlati munka: https://www.youtube.com/watch?v=MeSM3RZ43tg&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=23&pp=iAQB
+
+**48. óra — 30.01. — Összegzés „Az állatok jellemző vonásai" témából. Összegző dolgozat. ГР 3**
+Házi feladat: 34–39. §. Gyakorlatorientált projekt: „A kedvenc háziállatom: tartása és gondozása". Alkotó projekt: „Az állatok, amelyek fontos szerepet játszottak az életemben" – esszé (fogalmazás, elbeszélés) írása: „A növényevés előnyei és hátrányai az állatoknál".
+
+### 7. téma. Az állatok sokfélesége (26 óra)
+
+**7.1. téma. Gerinctelen állatok (12 óra) + 7.2. téma. Húros állatok + 8. téma. Az életkörnyezet (14 óra + 3 óra)**
+
+**49. óra — 04.02. — A szivacsok – primitív vízi állatok, amelyeknek nincsenek kialakult szöveteik. ГР 2**
+Házi feladat: 40. §. „Az állatok sokfélesége. Szivacsok" — https://cutt.ly/We8aYmYS. Videó: https://www.youtube.com/watch?v=3AZIzX6BwYY&list=UULF75zUGWPLwyioDAnG359dTw&index=65&pp=iAQB
+
+**50. óra — 06.02. — A csalánozók – kétrétegű állatok. A csalánozók veszélye az ember egészségére. ГР 2**
+Házi feladat: 41. §. „A csalánozók – kétrétegű állatok" — https://cutt.ly/6e8aUo9o. Videók: https://youtu.be/4JKc1wuJmkU?si=Fu1ZJqSMgfeuO12G ; https://www.youtube.com/watch?v=4zeKrOarbzQ&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=67&pp=iAQB ; https://www.youtube.com/watch?v=b19Gu-nAGEo&list=UULF75zUGWPLwyioDAnG359dTw&index=64&pp=iAQB
+
+**51. óra — 11.02. — A laposférgek – az ember és az állatok parazitái. ГР 2**
+Házi feladat: 42. §. „Laposférgek" — https://cutt.ly/7e7flE2Q. Videók: https://www.youtube.com/watch?v=X2AVbcK3dzA&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=68&pp=iAQB ; https://www.youtube.com/watch?v=Pd67z4VPwqI&list=UULF75zUGWPLwyioDAnG359dTw&index=63&pp=iAQB
+
+**52. óra — 13.02. — A hengeresférgek (fonálférgek) – az ember, az állatok és a növények parazitái. ГР 2**
+Házi feladat: 43. §. „Fonálférgek" — https://cutt.ly/ye7fzieU. Információkereső projektek: „Az ember betegségei, amelyeket parazita férgek (helminták) okoznak". Videók: https://www.youtube.com/watch?v=S4LsWhGDYbc&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=69&pp=iAQB ; https://www.youtube.com/watch?v=9fSlSdFWczM&list=UULF75zUGWPLwyioDAnG359dTw&index=62&pp=iAQB
+
+**53. óra — 13.02. — A gyűrűsférgek, szerepük a természetben és az ember életében. Munkavédelmi oktatás. Laboratóriumi kutatások: a gyűrűsférgek külső felépítése és mozgása (a földigiliszta vagy a csővájóféreg példáján); ГР 1**
+Házi feladat: 44. §. „Gyűrűsférgek" — https://cutt.ly/0e7fz2KV. Videók: https://www.youtube.com/watch?v=6M8S76L8E9o&list=UULF75zUGWPLwyioDAnG359dTw&index=61&pp=iAQB ; https://www.youtube.com/watch?v=n0-GVtjMvnI&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=70&pp=iAQB. Laboratóriumi kutatás: https://www.youtube.com/watch?v=GvNbV44dsbA&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=71&pp=iAQB. Laboratóriumi kutatás: https://www.youtube.com/watch?v=1IWbB9STjP4&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=18&pp=iAQB
+
+**54. óra — 18.02. — A puhatestűek: kagylók, csigák és fejlábúak, szerepük a természetben és az ember életében. Munkavédelmi oktatás. Laboratóriumi kutatás: a csigák külső felépítése és mozgása (az akváriumi fajok példáján). ГР 1**
+Házi feladat: 45. §. Végezzétek el „A puhatestűek sokfélesége" gyakorlatot — https://learningapps.org/25938169. Végezzétek el „Ismerd fel a puhatestűt" gyakorlatot — https://learningapps.org/3025075. „A puhatestűekről" — https://learningapps.org/2687230. „45. §. Puhatestűek" — https://cutt.ly/brewzKqC. „Hogyan keletkeznek a gyöngyök" — https://www.youtube.com/watch?v=G42C6_vzg9c. Videó: https://www.youtube.com/watch?v=XA0RvAU0Jg8&list=UULF75zUGWPLwyioDAnG359dTw&index=59&pp=iAQB. Laboratóriumi kutatás: https://www.youtube.com/watch?v=4Q9Z3Z-j-y4&list=PLWteg9_gGYtHQ8R6oe2vMjkXv71AMNZ21&index=72&pp=iAQB
+
+**55. óra — 20.02. — Az ízeltlábúak – külső vázzal rendelkező gerinctelen állatok. Rákok. A rákok ipari fajai. ГР 2**
+Házi feladat: 46. §. „Az ízeltlábúak – külső vázzal rendelkező gerinctelen állatok. Rákok" — https://cutt.ly/irewxqvV. Végezzétek el „A folyami rák felépítése" gyakorlatot — https://learningapps.org/3025381. Töltsétek ki „A rák felépítése" kvízt — https://learningapps.org/26790396. Ismerd fel az állatot: „Vérszívó és parazita ízeltlábúak" — https://learningapps.org/24894365. Videó: https://www.youtube.com/watch?v=bmZIkJ8C1As&list=UULF75zUGWPLwyioDAnG359dTw&index=58&pp=iAQB
+
+**56. óra — 25.02. — Rovarok. A rovarok általános jellemzése és sokfélesége. Munkavédelmi oktatás. Laboratóriumi kutatás: a rovarok külső felépítése (a gyűjteményi anyag, valamint a szájszervek és a különböző szárny típusok mikrokészítményeinek példáján); ГР 1**
+Házi feladat: 47. §. „Rovarok. A rovarok sokfélesége" — https://cutt.ly/LrewxKeB. Gyakorlatorientált projekt: „Az ember biztonságos viselkedése a mérgező gerinctelen állatokkal". Információkereső projekt: a szülőföld rovarai. „A rovar külső felépítése" — https://learningapps.org/2147002. Laboratóriumi kutatás: https://www.youtube.com/watch?v=R2FW11rLj5w&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=15&pp=iAQB ; https://www.youtube.com/watch?v=SHayJdrXSXo&list=UULF75zUGWPLwyioDAnG359dTw&index=54&pp=iAQB
+
+**57. óra — 27.02. — A rovarok szerepe a természetben és az ember életében. ГР 3**
+Házi feladat: 48. §. „A rovarok szerepe a természetben és az ember életében" — https://cutt.ly/3rewvsSV. Információkereső projektek: „A vérszívó rovarok és atkák – az ember betegségei kórokozóinak hordozói"; „A beporzó rovarok, hasznuk a természetben". Játék: „A rovarok sokfélesége" — https://learningapps.org/2690194. „A szájszervek típusai, a végtagok" — https://learningapps.org/2705019. Videó: https://www.youtube.com/watch?v=AGX7KCMrUMg&list=UULF75zUGWPLwyioDAnG359dTw&index=52&pp=iAQB
+
+**58. óra — 27.02. — Munkavédelmi oktatás. Gyakorlati munka: „Az élőhelyhez és életmódhoz való alkalmazkodások példáinak feltárása a rovaroknál". ГР 2**
+Házi feladat: 47–48. §. Alkotó projekt: „Hogyan kapcsolódnak az állatok a növényekhez és a gombákhoz". Videók: https://www.youtube.com/watch?v=PW8jUEAh9os&list=UULF75zUGWPLwyioDAnG359dTw&index=53&pp=iAQB ; https://www.youtube.com/watch?v=CbsqBTz-_fI&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=8&pp=iAQB
+
+**59. óra — 04.03. — Pókszabásúak: mérgező fajok (pókok), vérszívó fajok (atkák) – az ember és az állatok betegségei kórokozóinak hordozói, az élelmiszerek kártevői. ГР 2**
+Házi feladat: 49. §. „Pókszabásúak" — https://cutt.ly/prewvGZm. Gyakorlat: „A pók külső felépítése" — https://learningapps.org/22830822. Gyakorlat: „Találd meg a megfelelő párt" — https://learningapps.org/24661555. Videó: https://www.youtube.com/watch?v=p2k16ypkABs&list=UULF75zUGWPLwyioDAnG359dTw&index=57&pp=iAQB
+
+**60. óra — 06.03. — Összegzés „A gerinctelen állatok" témából. ГР 2**
+Házi feladat: 40–49. §. Állítsátok fel a megfeleltetést: „Az állatok osztályozása" — https://learningapps.org/24612368
+
+**61. óra — 11.03. — A húros állatok – belső vázzal rendelkező állatok. A fejgerinchúrosok – primitív húros állatok. ГР 2**
+Házi feladat: 50. §. „50. §. Húros állatok. Fejgerinchúrosok" — https://cutt.ly/ery862OE. Videók: https://www.youtube.com/watch?v=dpUMf-wrH64&list=UULF75zUGWPLwyioDAnG359dTw&index=49&pp=iAQB ; https://www.youtube.com/watch?v=Cmh8kCtQ8Pc&list=UULF75zUGWPLwyioDAnG359dTw&index=48&pp=iAQB
+
+**62. óra — 13.03. — A sugarasúszójú és bojtosúszójú halak, alkalmazkodásuk a vizekben való élethez. ГР 2**
+Házi feladat: 51. §. „Halak" — https://cutt.ly/Ery4qd8z. Videó: https://www.youtube.com/watch?v=UTRUm1X4zgo&list=UULF75zUGWPLwyioDAnG359dTw&index=46&pp=iAQB. Gyakorlat: „Határozzátok meg a folyami sügér testének részeit" — https://learningapps.org/3025387
+
+**63. óra — 13.03. — Porcos halak. Munkavédelmi oktatás. Laboratóriumi kutatás: a halak külső felépítése és mozgása (az akváriumi fajok példáján). ГР 1**
+Házi feladat: 52. §. „A halak sokfélesége" — https://cutt.ly/kri3yIhu. Információkereső projekt: a szülőföld halai; Gyakorlat: „Jelöljétek meg a cápa külső felépítésének szerveit" — https://learningapps.org/2853410. „A porcos és csontos halak jellemzői" — https://learningapps.org/2099842. „A halak sokfélesége" — https://learningapps.org/2777841. Laboratóriumi kutatás: https://www.youtube.com/watch?v=iXl-YZrd2hg&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=11&pp=iAQB. „Érdekes tények a halakról" — https://cutt.ly/D84Kqt0. „A bojtosúszós halról" — https://www.youtube.com/watch?v=wNcQ5QmVimc. Videó: https://www.youtube.com/watch?v=9M57ernuUa4&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=22&pp=iAQB
+
+**64. óra — 18.03. — A négylábú húros állatok. A kétéltűek, szerepük a természetben és az ember életében. ГР 2**
+Házi feladat: 53. §. „Kétéltűek" — https://cutt.ly/6ri3ui2X. Információkereső projekt: a szülőföld kétéltűei. „A kétéltűek sokfélesége" — https://learningapps.org/2778076. „Egyedülálló kétéltűek" — https://cutt.ly/K84J063. Videó: https://www.youtube.com/watch?v=ij6S-IPQsHU&list=UULF75zUGWPLwyioDAnG359dTw&index=47&pp=iAQB
+
+**65. óra — 20.03. — A hüllők, szerepük a természetben és az ember életében. ГР 3**
+Házi feladat: 54. §. „Hüllők" — https://cutt.ly/uri3uXcX. Gyakorlatorientált projekt: „Az ember biztonságos viselkedése a mérgező gerinces állatokkal". Információkereső projekt: a szülőföld hüllői. „A hüllők és kétéltűek közös jellemzői. Hüllő vagy kétéltű?" — https://learningapps.org/1428019. Töltsd ki „A hüllők sokfélesége" kvízt — https://learningapps.org/21804310. „Milyen hüllők vannak" — https://cutt.ly/B84Ki1t
+
+**66. óra — 01.04. — Madarak. Általános jellemzés. A repüléshez való alkalmazkodás vonásai. ГР 3**
+Házi feladat: 55. §. „Madarak: a repüléshez való alkalmazkodás vonásai" — https://cutt.ly/rroaYo1G. „A madár csontváza" — https://learningapps.org/2115238. „Keringési rendszer" — https://learningapps.org/2216249. Videó: https://www.youtube.com/watch?v=xhkTVuY3Ndg&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=4&pp=iAQB
+
+**67. óra — 03.04. — Madarak. A madarak sokfélesége. Taraj nélküli madarak. ГР 2**
+Házi feladat: 56. §. „A madarak sokfélesége. Tarajos mellcsontúak" — https://cutt.ly/srobqpjY. Információkereső projekt: a szülőföld madarai. Végezzétek el „Ismerd fel a madarat" gyakorlatot — https://learningapps.org/25015221. Videó: „Tarajos mellcsontú madarak" — https://www.youtube.com/watch?v=Om0SWT7iJcQ&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=3&pp=iAQB0gcJCX4JAYcqIYzv. Videó: https://www.youtube.com/watch?v=AChOhpThXi4&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=2&pp=iAQB
+
+**68. óra — 08.04. — Munkavédelmi oktatás. Gyakorlati munka: „Az életmódhoz való alkalmazkodások példáinak feltárása a különböző ökológiai csoportokba tartozó madarak képviselőinél". ГР 2**
+Házi feladat: 55–56. §. Gyakorlati munka: https://youtu.be/c-7oO_DKXSU?si=W_1h0eaQFYYWU7HS. Játék: „A repüléshez való alkalmazkodás" — https://learningapps.org/2818887. „A madarak a tavakban telelnek?" — https://cutt.ly/O84FqtJ. Videók: https://www.youtube.com/watch?v=lFul0ZAc-nI&list=UULF75zUGWPLwyioDAnG359dTw&index=44&pp=iAQB ; https://www.youtube.com/watch?v=Ol8cN6Qp9wM&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=1&pp=iAQB ; https://youtu.be/Ol8cN6Qp9wM?si=lfmYgK2ytOnK6-_g
+
+**69. óra — 10.04. — A madarak szerepe a természetben és az ember életében. ГР 3**
+Házi feladat: 57. §. „Taraj nélküli madarak. A madarak szerepe a természetben és az ember életében" — https://cutt.ly/crdlo2yZ. Végezzétek el „Ismerd fel a madarak hangját" gyakorlatot — https://learningapps.org/1481963. Videó: https://www.youtube.com/watch?v=ShH0ZXshpmk&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=19&pp=iAQB
+
+**70. óra — 10.04. — Emlősök. Az emlősök jellemző sajátosságai. ГР 1**
+Házi feladat: 58. §. „Az emlősök jellemző vonásai" — https://cutt.ly/rrdlpOQJ. Ismerjétek fel az emlős külső felépítésének összetevőit — https://learningapps.org/25130633. „A testfelépítés sajátosságai" — https://learningapps.org/1532314 ; https://learningapps.org/2682562. „Az állatok intelligenciája és emlékezete" — https://cutt.ly/h84D94Z. Videó: Olena Zadrozsna — https://www.youtube.com/watch?v=dGCpzoQ6Rzg&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=4&pp=iAQB0gcJCX4JAYcqIYzv ; https://www.youtube.com/watch?v=JDxIfECFIeM&list=PLvzrJ6pmNyBlJmffliihIPj90e4nop8T3&index=18&pp=iAQB
+
+**71. óra — 15.04. — Emlősök. Az emlősök sokfélesége. Tojásrakó emlősök, erszényesek, rovarevők, denevérek, rágcsálók. ГР 2**
+Házi feladat: 59. §. „Az emlősök sokfélesége. Tojásrakó emlősök. Erszényesek. Rovarevők. Denevérek. Rágcsálók" — https://cutt.ly/Qrf0I1dk. Információkereső projekt: a szülőföld emlősei; „Az emlősök sokfélesége. Rágcsálók" — https://learningapps.org/2780308. „Sokféleség" — https://learningapps.org/2780109. Videó: https://www.youtube.com/watch?v=79csZzBTxl0&list=UULF75zUGWPLwyioDAnG359dTw&index=42&pp=iAQB
+
+**72. óra — 17.04. — Emlősök. Az emlősök sokfélesége. Patások, cetek, ragadozók, főemlősök. ГР 2**
+Házi feladat: 60. §. „Patások. Cetek. Ragadozók. Főemlősök" — https://cutt.ly/HrhQxCAN. Információkereső projekt: az emlősök fogazatának felépítési sajátosságai a táplálkozás jellegétől függően. „Sokféleség. Ragadozók" — https://learningapps.org/2780450. „Sokféleség. Főemlősök" — https://learningapps.org/2780721. „Sokféleség. Patások" — https://learningapps.org/3062524. Videók: https://www.youtube.com/watch?v=sMeLxJrqmY4&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=2&pp=iAQB ; https://www.youtube.com/watch?v=BLSMyleEev0&list=UULF75zUGWPLwyioDAnG359dTw&index=41&pp=iAQB
+
+**73. óra — 22.04. — Emlősök. Munkavédelmi oktatás. Gyakorlati munka: „Az emlősök külső felépítésének sajátosságainak meghatározása a különböző életfeltételekhez való alkalmazkodással összefüggésben". ГР 3**
+Házi feladat: 58–60. §. Alkotó projekt: esszé (fogalmazás, elbeszélés) írása: „Az állatok az életemben". Állítsátok fel a megfeleltetést: „Melyik állat a leggyorsabb" — https://learningapps.org/33994116. Videó: O. Zadrozsna — https://www.youtube.com/watch?v=dGCpzoQ6Rzg&list=PL-Oj-EuOS6c_P6DLJM2iTHrbK4-aenr_0&index=4&pp=iAQB
+
+**74. óra — 24.04. — Az emlősök szerepe a természetben és az ember életében. ГР 2. Összegzés „A húros állatok" témából**
+Házi feladat: 61. §. „Az emlősök szerepe a természetben és az ember életében. Az emlősök védelme" — https://cutt.ly/jrhQcygR. Videók: https://youtu.be/bINd78uZSi4?si=E_PuL8CtVelkk7Z7 ; https://youtu.be/uuiS7_daR90?si=29BtIkEh5wZGrVvh ; https://www.youtube.com/watch?v=uuiS7_daR90&list=UULF75zUGWPLwyioDAnG359dTw&index=40&pp=iAQB. Végezzétek el „Az állatok sokfélesége" gyakorlatot — https://learningapps.org/3104841
+
+### 8. téma. Az állatok életkörnyezetei (3 óra)
+
+**75. óra — 24.04. — Az állatok közötti és más szervezetekkel való kapcsolatok az ökoszisztémákban. ГР 3**
+Házi feladat: 62. §. „Az állatok alkalmazkodása a vízi és talajbeli életkörnyezetekhez" — https://cutt.ly/frhQVY6W. Gyakorlatorientált projekt: esszé (fogalmazás, elbeszélés) írása: „A viszonyom az otthon élő díszállatokhoz". Kollázs, brosúra, lapbook készítése: „Ukrajna (a világ) gyógyító állatai". Videók: https://www.youtube.com/watch?v=QUG69E7l3bA&list=UULF75zUGWPLwyioDAnG359dTw&index=34&pp=iAQB ; https://www.youtube.com/watch?v=o8eMe78wwYo&list=UULF75zUGWPLwyioDAnG359dTw&index=35&pp=iAQB
+
+**76. óra — 29.04. — Az állatok szerepe a bioszférában. Az állatok szerepe az ember életében. ГР 3**
+Házi feladat: 63. §. „Az állatok alkalmazkodása a szárazföldi-légi környezethez és a más élőlények szervezeteiben való élethez" — https://cutt.ly/krjNk6ma. Gyakorlatorientált projekt: „Az állatok szerepe a bioszféra anyagkörforgásában" (a saját vidék kertjének, erdejének, gyümölcsösének példáján). Információkereső projektek: „Az állattenyésztés és baromfitenyésztés fő irányai a szülőföldön".
+
+**77. óra — 01.05. — Összegzés a témákból: Húros állatok. Az állatok életkörnyezetei. ГР 2**
+Házi feladat: 50–63. §. Gyakorlatorientált projekt: „Ukrajna (a saját vidékem) Vörös Könyvének állatai"; Alkotó projekt: „Miért váltak az élő szervezetek más élőlények élőhelyévé?"
+
+### 9. téma. A gombák – heterotróf szervezetek (7 óra)
+
+**78. óra — 06.05. — A gombák táplálkozási módjai: szaprotróf, parazita, szimbióta gombák. A valódi gombák és a gombaszerű szervezetek fogalma. Többsejtű és egysejtű gombák. ГР 2**
+Házi feladat: 64. §. „A gombák jellemző vonásai" — https://cutt.ly/MrjNlOp7. Alkotó projekt: esszé (fogalmazás, elbeszélés) írása: „Az első találkozásom a gombákkal", „Milyen lenne a világ a penicillin felfedezése nélkül". Brosúra, lapbook készítése: „Az ukrán nép közmondásai a gombákról". Videók: https://www.youtube.com/watch?v=GIyEWXn0pT4&list=UULF75zUGWPLwyioDAnG359dTw&index=31&pp=iAQB ; https://www.youtube.com/watch?v=8ybwKpfYXJo&list=UULF75zUGWPLwyioDAnG359dTw&index=33&pp=iAQB. Gyakorlat: „Válasszátok ki a gombák jellemzőit" — https://learningapps.org/16716534. Gyakorlat: „A gombák – a legrejtélyesebb szervezetek" — https://learningapps.org/11676982. Gyakorlat: „Válasszátok ki a gombák, növények, állatok közös jellemzőit" — https://learningapps.org/30367932
+
+**79. óra — 08.05. — Az egysejtű (az élesztő példáján) gombák felépítése és életfolyamatai. Szaprotróf gombák. Penészgombák. Munkavédelmi oktatás. Laboratóriumi kutatások: a mikroszkopikus gombák (az élesztő példáján); a penészgombák (a mucor vagy más képviselők példáján). ГР 1**
+Házi feladat: 65. §. „A gombák sokfélesége. Élesztők. Penészgombák" — https://cutt.ly/mrlKu8NL. Információkereső projekt: „A gombák – a növények parazitái"; „A gombák – az ember parazitái"; Videó: https://youtu.be/GIyEWXn0pT4?si=nwb7a56OtxnEfsiC. Gyakorlat: „Közmondások a gombákról" — https://learningapps.org/1654570
+
+**80. óra — 08.05. — A többsejtű (a kalapos gombák példáján) gombák felépítése és életfolyamatai. Munkavédelmi oktatás. Laboratóriumi kutatás: A kalapos gombák felépítése. ГР 1**
+Házi feladat: 66. §. „Kalapos gombák" — https://cutt.ly/krlKinEr. Gyakorlatorientált projekt: „A kalapos gombák termesztése mesterséges körülmények között". Videó: https://www.youtube.com/watch?v=5pcxuTpiPYM&list=UULF75zUGWPLwyioDAnG359dTw&index=30&pp=iAQB. Játék: „A csiperke felépítésének vázlata" — https://learningapps.org/3506810. Gyakorlat: „A kalapos gombák felépítése" — https://learningapps.org/11570717 ; https://learningapps.org/11383767 ; https://learningapps.org/24984181 ; https://learningapps.org/11059920
+
+**81. óra — 13.05. — Ehető és mérgező gombák. Munkavédelmi oktatás. Gyakorlati munka: A saját vidékem ehető és mérgező gombáinak felismerése. ГР 2**
+Házi feladat: 67. §. „Mely kalapos gombák ehetők és melyek mérgezők" — https://cutt.ly/yrlKi1Nb. Gyakorlati munka: A saját vidékem ehető és mérgező gombáinak felismerése. Gyakorlatorientált projekt: „A gombagyűjtés szabályai a természetben". Videók: https://www.youtube.com/watch?v=hsjeg0pqTIo&list=UULF75zUGWPLwyioDAnG359dTw&index=29&pp=iAQB ; https://www.youtube.com/watch?v=PNeSYCLRLWc&list=UULF75zUGWPLwyioDAnG359dTw&index=28&pp=iAQB. Gyakorlat: „Gyakorlati munka. GOMBÁK: ehető, mérgező, nem ehető" — https://learningapps.org/25282566. Gyakorlat: „Gombák: ehető, mérgező, nem ehető" — https://learningapps.org/30294802. Játék: „Ehető és mérgező gombák" — https://learningapps.org/2200173. Játék: „Írd alá az ehető gombák neveit" — https://learningapps.org/3165740. Gyakorlat: „Állítsd fel a megfeleltetést a gombák és neveik között" — https://learningapps.org/1797856
+
+**82. óra — 15.05. — A gombák – a növények parazitái (fitoftórák, lisztharmatgombák, üszöggombák, anyarozs, taplógombák). ГР 2**
+Házi feladat: 68. §. „Parazita gombák" — https://cutt.ly/ZrlKoxsy. Információkereső projekt: „A gombák – a növények parazitái". Videó: https://www.youtube.com/watch?v=A7CWM-VuXMo&list=UULF75zUGWPLwyioDAnG359dTw&index=27&pp=iAQB. Játék: „Élesztők, üszöggomba" — https://learningapps.org/2341879. Gyakorlat: „Parazita gombák" — https://learningapps.org/13088781. Gyakorlat: „Különböző gombák" — https://learningapps.org/7305460
+
+**83. óra — 20.05. — A zuzmók – a valódi gombák társulásai fotoszintetizáló szervezetekkel (moszatokkal és cianobaktériumokkal). A zuzmótelep felépítése és a zuzmók életműködésének sajátosságai (táplálkozás, szaporodás). A zuzmók jelentősége a természetben és az ember életében. ГР 3**
+Házi feladat: 69. §. „Zuzmók" — https://cutt.ly/SrzQyKtj. Ismételjétek át a 64–69. §-t. Információkereső projekt: „A zuzmók – a levegő tisztaságának bioindikátorai". Gyakorlatorientált projekt: „A szülőföld zuzmóinak sokfélesége"; Gyakorlat: „Zuzmók" — https://learningapps.org/20000685. Gyakorlat: „Állítsd fel a megfeleltetést. Zuzmók" — https://learningapps.org/29829037. Videó: https://www.youtube.com/watch?v=y8oOWudsqXg&list=UULF75zUGWPLwyioDAnG359dTw&index=25&pp=iAQB
+
+**84. óra — 22.05. — Az ismeretek összegzése „A gombák – heterotróf szervezetek" témából. ГР 2**
+Gyakorlatorientált projekt: „A zuzmók felhasználása az orvostudományban és az iparban". Játék: „A gombák sokfélesége" — https://learningapps.org/2217495. Kvíz: „Gombák" — https://learningapps.org/3443784. Kvíz: „A gombák országa" — https://learningapps.org/1473849. Gyakorlat: „Találd meg a párt" — https://learningapps.org/20229255
+
+## Összegzés (3 óra)
+
+**85. óra — 22.05. — A szerves világ rendszeréről szóló modern elképzelések. ГР 2**
+Házi feladat: 70. §. „A szerves világ rendszeréről szóló modern elképzelések" — https://cutt.ly/3rzQuYM. Gyakorlatorientált projekt: „Bolygónk biodiverzitásának védelme". Videó: https://www.youtube.com/watch?v=DpFlSXdna9c&list=UULF75zUGWPLwyioDAnG359dTw&index=20&pp=iAQB
+
+**86. óra — 27.05. — A félév során tanultak összegzése**
+Alkotó projekt: Kollázs, brosúra készítése:
+- a szülőföld növényeinek sokfélesége;
+- a szülőföld állatainak sokfélesége;
+- a szülőföld gombáinak sokfélesége. Állatok: házi és vad — https://learningapps.org/4268715. Videó: https://www.youtube.com/watch?v=F8SAiG_MVJk&list=UULF75zUGWPLwyioDAnG359dTw&index=21&pp=iAQB
+
+**87. óra — 29.05. — Az év során tanultak összegzése**
