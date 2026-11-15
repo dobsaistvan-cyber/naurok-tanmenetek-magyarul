@@ -1,0 +1,66 @@
+# Naptári-tematikus terv a „Technológiák" órákhoz, 7. osztály — „Technológiák. 7–9. osztály" modell-tanterv
+
+- **Eredeti ukrán cím:** Календарно-тематичне планування уроків «Технології» 7 клас Модельна навчальна програма «Технології 7-9 класи» для закладів загальної середньої освіти (автори Ходзицька І. Ю., Горобець О. В., Медвідь О. Ю., Пасічна Т. С., Приходько Ю. М.)
+- **Szerző:** Пирог В. В.
+- **Tankönyv:** nincs megadva (a „Технології. 7–9. osztály" modell-tanterv alapján, szerzők: Ходзицька І. Ю., Горобець О. В., Медвідь О. Ю., Пасічна Т. С., Приходько Ю. М., az Ukrán Oktatási és Tudományos Minisztérium augusztus 16-i 1001. sz. rendelete)
+- **Osztály:** 7. osztály (NUS)
+- **Heti óraszám:** 1 (évi 35 óra)
+- **Félév/év:** nincs megadva (feltöltve 2024. október 1-jén)
+- **Forrás URL:** https://naurok.com.ua/kalendarno-tematichne-planuvannya-urokiv-tehnologi-7-klas-modelna-navchalna-programa-tehnologi-7-9-klasi-dlya-zakladiv-zagalno-seredno-osviti-avtori-hodzicka-i-yu-g-423721.html
+
+**Megjegyzés: a táblázat a szöveges kivonatban felsorolássá omlott össze; az elvárt eredmények csak a projektek első óráinál (1., 9., 16., 21., 30. óra) szerepelnek; a dátum-oszlop végig üres.**
+
+## NAPTÁRI-TEMATIKUS TERV A „TECHNOLÓGIÁK" ÓRÁKHOZ
+
+**7. OSZTÁLY**
+
+„Технології. 7–9. osztály" modell-tanterv az általános középfokú oktatási intézmények számára
+
+(szerzők: Ходзицька І. Ю., Горобець О. В., Медвідь О. Ю., Пасічна Т. С., Приходько Ю. М.)
+
+(Ukrán Oktatási és Tudományos Minisztérium augusztus 16-i 1001. sz. rendelete)
+
+| Sz. | Dátum | Az óra témája | Elvárt eredmények |
+| --- | --- | --- | --- |
+| ***A faanyagok megmunkálásának technológiája (upcycling technológia)*** — ***A projekttevékenység tárgya: Poligonális falikép*** | | | |
+| 1. |  | Bevezető óra. A biztonságos munkavégzés szabályainak betartására és a munkahely megszervezésére irányuló cselekvések kidolgozása a Technológiák óráin. A tervezendő tárgy kiválasztása. Modell-analógok kiválasztása. Természetes méretű vázlat készítése. A kép több lapra való nagyításának módjai. | Aktuális információt talál, választ és értékel a kreatív ötlet feltárásához (1). Megindokoltan alkalmaz digitális eszközöket a projekt-technológiai tevékenység különböző szakaszaiban: információ keresése, elemzése és felhasználása, a projekt bemutatása stb. (1). Kidolgozza a tervezendő tárgy modelljét, elemezve a különböző dizájnstílusokat (1). Megindokolja a tervezendő tárgy szerkezetét az anyagok kiválasztásán, megmunkálási módszereiken, a termék készítésének költségeinek kiszámításán stb. keresztül (1). Önállóan megszervezi és megtervezi a tervezett termék készítésére irányuló munkát előre meghatározott sorrend szerint (1). Célszerűen használja az eszközöket, segédeszközöket, gépesített munkaeszközöket; betartja a munkavédelmi szabályokat és az egészségügyi normákat (1). Megtervezi a saját életterét az ökológiai anyagok és háztartási termékek célszerű felhasználásával. Ökológiai termékeket hoz létre az anyagok higiéniai tulajdonságainak figyelembevételével. (3) |
+| 2. |  | A vázlat előkészítése a munkához. A munkához való szerkezeti anyagok és eszközök kiválasztása. |  |
+| 3. |  | A termék szerkezetének készítési technológiai folyamata. A szerkezet középső részének elemeinek kialakítása. |  |
+| 4. |  | A termék szerkezetének készítési technológiai folyamata. A szerkezet felső részének elemeinek kialakítása. |  |
+| 5. |  | A termék szerkezetének készítési technológiai folyamata. A szerkezet alsó részének elemeinek kialakítása. |  |
+| 6. |  | A termék szerkezetének készítési technológiai folyamata. A termék elemeinek összeillesztése. |  |
+| 7. |  | A termék díszítésének technológiai folyamata. Előkészítés és festés aeroszolos festékekkel. |  |
+| 8. |  | A termék végső megmunkálása. A projekt megvédése. |  |
+| ***A faanyagok megmunkálásának technológiája (farostlemez, rétegelt lemez)*** — ***A projekttevékenység tárgya: Kulcstartó*** | | | |
+| 9. |  | A projekttevékenység alapjai. A projekt témájának kiválasztása és megindoklása. A tervezendő tárgy kiválasztása. A termék modell-analógjainak elemzése. A fókuszobjektumok módszerének fogalma és annak felhasználása a termékek létrehozásában | A tanárral vagy más személyekkel közösen megbeszéli a projekt-technológiai tevékenység célját. Keresést végez és modell-analógokat választ a tervezett tervezési tárgynak megfelelően. A tanár vagy más személyek segítségével kidolgozza a kritériumokat, amelyeknek a tervezendő tárgy meg kell, hogy feleljen, és meghatározza annak paramétereit. Anyagokat választ a termék készítéséhez és kiszámítja azok költségeit. Kiválasztja a szükséges eszközöket és segédeszközöket a meghatározott technológiai sorrendnek megfelelően. Végrehajtja a tervezett technológiai műveleteket meghatározott sorrendben, ésszerűen beosztva az időt. Alkalmazza a díszítő-alkalmazott művészet technikáit a termék díszítése során. Bemutatja a saját projekt-technológiai tevékenységének eredményeit |
+| 10. |  | A grafikus írástudás elemei. Méretek a rajzokon. A nézetek fogalma. A kulcstartó grafikus ábrázolásainak létrehozása |  |
+| 11. |  | Az anyagtudomány alapjai. A fa tulajdonságai. A termékhez szükséges anyag kiválasztása és mennyiségének meghatározása. A részletek gazdaságos jelölése. A termék készítéséhez való eszközök és segédeszközök kiválasztása |  |
+| 12. |  | A termék részleteinek rétegelt lemezből való készítési technológiai folyamata kifűrészeléssel. A külső kontúrok kifűrészelése |  |
+| 13. |  | A termék részleteinek fából való készítési technológiai folyamata. A részletek felületének csiszolása. Az élek megmunkálása. |  |
+| 14. |  | A fából készült részletek összeillesztésének technológiai folyamata. A termék díszítése |  |
+| 15. |  | A technológiai műveletek végrehajtási minőségének elemzése. A hiányosságok kiküszöbölése. A projekt bemutatása és megvédése. |  |
+| ***A drót megmunkálásának technológiája*** — ***A projekttevékenység tárgya: „Kerékpár" dekoratív kaspó*** | | | |
+| 16. |  | Bevezető óra. A biztonságos munkavégzés szabályainak betartására és a munkahely megszervezésére irányuló cselekvések kidolgozása a Technológiák óráin. Ötletbank létrehozása az éves projektekhez. Megismerkedés az eszközökkel, anyagokkal, berendezésekkel új technológiák használata esetén | Megbeszéli és meghatározza a tanárral és más személyekkel közösen a digitális eszközök ésszerű alkalmazását a projekt-technológiai tevékenység különböző szakaszaiban. Meghatározza a választott tervezési tárgy fogyasztóinak szükségleteit és ízlését, szerkezetének, funkcionalitásának, esztétikájának sajátosságait kis volumenű és léptékű marketingkutatások végzésével. Aktuális információt keres a tervezendő tárgyról és rendszerezi azt. A tanár vagy más személyek segítségével kidolgozza a kritériumokat, amelyeknek a tervezendő tárgy meg kell, hogy feleljen, és meghatározza annak paramétereit. Keresést végez és modell-analógokat választ a tervezett tervezési tárgynak megfelelően. Megbeszéli az ötleteket, konstruktívan együttműködik más személyekkel a saját modell kombinálása során a modell-analógok legjobb ismertetőjegyeinek elemzése alapján. Alkalmazza a tervezési módszereket az egyéni képességeknek és saját érdeklődésének megfelelően, azzal a céllal, hogy a kreatív ötleteket megtestesítse a termék szerkezetében. Megalkotja és kényelmes formában megjeleníti a kreatív ötletet. Értékeli a termék művészi megtervezésének saját eredményeit. Megtervezi a termék modelljének készítéséhez szükséges cselekvések sorrendjét, azok végrehajtásának tájékoztató határidejét, a digitális eszközök felhasználásának lehetőségeit. Elkészíti a termék modelljének részleteinek műszaki rajzát vagy vázlatát, feltüntetve a készítéséhez szükséges információkat. Anyagokat választ a termék készítéséhez és kiszámítja azok költségeit. Kiválasztja a szükséges eszközöket és segédeszközöket a meghatározott technológiai sorrendnek megfelelően. Önállóan vagy más személyekkel közösen dolgozik a megadott utasításnak megfelelően, szükség esetén elosztva a munka részeit. Önállóan vagy mások segítségével használja az eszközöket és segédeszközöket, betartva a biztonságos munkavégzés szabályait és az egészségügyi normákat. |
+| 17. |  | A tervezés alapjai. A fókuszobjektumok módszerének algoritmusa a termék tökéletesítéséhez vagy létrehozásához. A tervezendő termék kiválasztása. Ötletbank létrehozása a projekt végrehajtásához. A modell-analógok kiválasztása és elemzése |  |
+| 18. |  | A termék szerkesztése. A termék grafikus ábrázolásának végrehajtása a fantáziálás fókuszobjektumok módszerének felhasználásával. A termék készítéséhez való szerkezeti anyagok kiválasztása; eszközök és segédeszközök. Az anyagmennyiség kiszámítása |  |
+| 19. |  | A termék részleteinek készítése a választott technológiának megfelelően. A termék részleteinek összeillesztése |  |
+| 20. |  | A termék készítése, díszítése és kialakítása. A termék készítésének ellenőrzése és önellenőrzése. A termék kialakítása. A projekttevékenység bemutatása. Az elkészített termék minőségének értékelése |  |
+| ***A szalmafonás technológiája (upcycling technológia)*** — ***A projekttevékenység tárgya: Karácsonyi pókocska („Himmeli" dísz)*** | | | |
+| 21. |  | A tervezendő tárgy kiválasztása. Története Ukrajnában és Európában. A modell-analógok elemzése. A munkához való szerkezeti anyagok és eszközök kiválasztása. | Megkülönbözteti az autentikus alkotásokat, a stilizált termékeket, az etnostílusú termékeket, tudományosan értelmezve saját tudását. Meghatározza a díszítő-alkalmazott művészet ismertetőjegyeit Ukrajna néprajzi régiói szerint. Megértéssel választja meg és alkalmazza a tervezési módszereket az etnostílusú tárgyi környezet létrehozásában. Stilizálja a terméket a díszítő-alkalmazott művészet technológiáival, a művészi díszítés technikáival, figyelembe véve a tervezendő tárgy funkcionális és esztétikai követelményeit. Jellemzi a legújabb anyagokat és technikákat, meghatározza azok költségmutatóit, megindokolva azok felhasználását a projektben. Innovációs projekteket, STEM-projekteket hajt végre, amelyek a másodlagos erőforrások felhasználásával kapcsolatos kutatásokat foglalnak magukban. Megtervezi a saját életterét az ökológiai anyagok és háztartási termékek célszerű felhasználásával. Ökológiai termékeket hoz létre az anyagok higiéniai tulajdonságainak figyelembevételével |
+| 22. |  | A „Pókocska" termék készítésének sorrendje. A szükséges hosszúságú szalmaszálak jelölése és előkészítése. |  |
+| 23. |  | Gyakorló feladatok végrehajtása az első oktaéder-figura készítéséhez. Az összeillesztés sorrendje és módjai. A termék fő elemének készítése. |  |
+| 24. |  | A termék szerkezetének készítési technológiai folyamata. A termék szerkezetének 5 középső elemének készítése. |  |
+| 25. |  | A termék szerkezetének készítési technológiai folyamata. A szerkezet 5 kis elemének készítése. |  |
+| 26. |  | A termék szerkezetének készítési technológiai folyamata. A termék szerkezeti elemeinek összeillesztése. |  |
+| 27. |  | A termék díszítésének technológiai folyamata. A térbeli elemek aeroszolos festékekkel való festésének sajátosságai. |  |
+| 28. |  | A termék végső megmunkálása. Dekoratív elemek (függők, pomponok stb.) készítése |  |
+| 29. |  | A projekt megvédése. |  |
+| ***Az ételkészítés technológiája*** — ***A projekttevékenység tárgya: Vareniki*** | | | |
+| 30. |  | A tervezendő tárgy kiválasztása és megindoklása. A projekten való munka megtervezése. Lisztes ételek és termékek. Vareniki | Meghatározza a saját és mások szükségleteit a háztartás megszervezésével kapcsolatban. Információt keres és dolgoz fel a saját vagy közös élettér, tárgyi környezet berendezésére, a háztartás megszervezésére vonatkozó ötletek generálásához. Megvalósítja a projektet a saját életterében. Bemutatja a projekt eredményeit különböző kommunikációs csatornákon, bemutatási eszközökön keresztül, különösen digitális eszközök felhasználásával. Berendezi a saját vagy közös életterét a háztartásban [belső tér, ruházat, az étkezés esztétikája stb.], és tökéletesíti azt a dizájn követelményei, valamint a saját szükségletei, érdeklődése, lehetőségei alapján. Takarékosan és biztonságosan alkalmazza a háztartási technikát a gyakorlati feladatok megoldásához. |
+| 31. |  | A vareniki készítésének technológiája. A minőségi követelmények. A recept és a termékek kiválasztása. A szükséges összetevők kiválasztása és mennyiségének meghatározása. A szükséges konyhai eszközök és edények kiválasztása |  |
+| 32. |  | A vareniki készítése. A munkák végrehajtása a választott technikáknak és technológiáknak megfelelően. A tálalás szabályai |  |
+| 33. |  | A kész ételekkel szembeni minőségi követelmények. A projekt megvédése |  |
+| 34. |  | Összegző dolgozat |  |
+| 35. |  | Összegző óra az évre |  |
+
+*Megjegyzések: (1) A táblázat a szöveges kivonatban felsorolássá omlott össze; az elvárt eredmények csak a projektek első óráinál (1., 9., 16., 21., 30. óra) szerepelnek. (2) Az 1. óra elvárt eredményeinél zárójelben eredménycsoport-számok szerepelnek: „(1)" az egyes pontok után, „(3)" az utolsó pont után. (3) Sajtóhibák/OCR-hibák: „конту��ів" (12. óra); „конструкційнихматеріалів" (21. óra); „методу фантазування фокальних об'єктів" (18. óra — két módszer összevonva); „моделей -аналогів" (16. óra). (4) A dátum-oszlop a forrásban végig üres.*

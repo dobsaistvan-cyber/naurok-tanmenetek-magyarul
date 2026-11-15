@@ -1,0 +1,46 @@
+# Naptári terv technológiából
+
+- **Eredeti ukrán cím:** Календарне планування технології
+- **Szerző:** Пополова Ю. С.
+- **Tankönyv:** nincs megadva (a „Технології. 5–6. osztály" modell-tanterv alapján, szerzők: Ходзицька І. Ю., Горобець О. В., Медвідь О. Ю., Пасічна Т. С., Приходько Ю. М., az Ukrán Oktatási és Tudományos Minisztérium 2021. 07. 12-i 795. sz. rendelete)
+- **Osztály:** 5. osztály (NUS, inkluzív, pedagógiai patronázs)
+- **Heti óraszám:** 0,25 óra havonta (évi 9 óra)
+- **Félév/év:** nincs megadva (feltöltve 2024. augusztus 20-án)
+- **Forrás URL:** https://naurok.com.ua/kalendarne-planuvannya-tehnologi-419284.html
+
+**Megjegyzés: a terv pedagógiai patronázs keretében készült (9 óra, havi 0,25 óra); minden projekt 1 órás.**
+
+## Naptári terv
+
+**Technológiák, 5. osztály**
+
+*(pedagógiai patronázs, 9 óra, havi 0,25 óra)*
+
+Összeállítva a „Технології. 5–6. osztály" modell-tanterv alapján az általános középfokú oktatási intézmények számára (szerzők: Ходзицька І. Ю., Горобець О. В., Медвідь О. Ю., Пасічна Т. С., Приходько Ю. М.), „Ajánlotta Ukrajna Oktatási és Tudományos Minisztériuma" (Ukrajna Oktatási és Tudományos Minisztériumának 2021. 07. 12-i 795. sz. rendelete)
+
+| **Sorszám** | **Az óra témája és tartalma** | **Óraszám** | **A megtartás dátuma** |
+| --- | --- | --- | --- |
+| *I. modul. Az ötlet megvalósítása kész termékben a projekt-technológiai tevékenység algoritmusa szerint* | | | |
+| **A projekttevékenység tárgya:** Puha játék<br>**Fő technológia.** A textilanyagok kézi megmunkálásának technológiája.<br>**Kiegészítő technológia.** A textilanyagok gépi megmunkálásának technológiája | | **1** | |
+| 1 | Megismerkedés a tanműhelyben való belső rend szabályaival és a biztonságos munkavégzés általános szabályaival. A tervezés fogalma. A tervezés szakaszai. A tervezendő tárgy kiválasztása. A projekten való munka megtervezése<br>A fantáziálás módszerének fogalma és alkalmazása. A forma tervezése a fantáziálás módszerével. Grafikus ábrázolás<br>A szerkezeti anyagok, eszközök és segédeszközök kiválasztása. Sablonok készítése. A részletek kiszabása. A biztonságos munkavégzés szabályainak betartása a projekt végrehajtása során<br>A „tű előre" és a „tű hátra" öltés alkalmazása a játék készítéséhez. A termék összevarrása és kitömése<br>Díszítés. A termék végső megmunkálása.<br>A projekt megvédése |  | |
+| **A projekttevékenység tárgya.** Falikép<br>**Fő technológia.** A textilanyagokból készült applikáció készítésének technológiája | | **1** | |
+| 2 | A tervezendő tárgy (falikép) kiválasztása és megindoklása. A modell-analógok kiválasztása és elemzése. A forma tervezése a fantáziálás módszerével. A termék grafikus ábrázolása<br>A szerkezeti anyagok, eszközök és segédeszközök kiválasztása. Sablonok készítése. Az applikáció részleteinek kiszabása.<br>Az applikáció részleteinek rögzítése a falikép alapjára „tű előre" öltéssel. A huroköltés használata az applikáció részleteinek rögzítéséhez a termék alapjára<br>A termék készítése, végső megmunkálása (mosás, vasalás), rendbetétele (keretbe foglalás) és díszítése. A projekt megvédése. |  | |
+| *II. modul. A díszítő-alkalmazott művészet hagyományos és modern technológiáinak kreatív alkalmazása* | | | |
+| **A projekttevékenység tárgya:** Újévi üdvözlőlap<br>**Fő technológia:** Fonalgrafika (izonitka) technológiája | | **1** | |
+| 3 | A projekt témájának (az üdvözlőlap fajtájának) kiválasztása és megindoklása. A projekten való munka megtervezése.<br>A forma tervezése a fantáziálás (bioformák) módszerével. Grafikus ábrázolás.<br>A fonalgrafika technológiája.<br>A munkához való eszközök és szerkezeti anyagok kiválasztása.<br>Az üdvözlőlap alapjának készítése.<br>Az üdvözlőlap készítésének technológiai folyamata: a rajz felvitele, a rajz átvarrása.<br>Az üdvözlőlap készítésének technológiai folyamata: a rajz átvarrása.<br>A termék díszítése és dekorálása.<br>A termék végső megmunkálása. A projekt megvédése. |  | |
+| **A projekttevékenység tárgya:** Ünnepi dísz<br>**Fő technológia:** Az applikáció (textil- és természetes anyagokból) készítésének technológiája<br>**Kiegészítő technológia:** A termékek „makramé" technikában való készítésének technológiája | | **1** | |
+| 4 | A tervezendő tárgy kiválasztása és megindoklása. A projekten való munka megtervezése.<br>A forma tervezése a fantáziálás (bioformák) módszerével. Modell-analógok. Grafikus ábrázolás.<br>A szerkezeti anyagok (fonalak), eszközök és segédeszközök (a fonalak rögzítéséhez) kiválasztása.<br>A fonáshoz szükséges fonalhossz kiszámítása. Csomókötési gyakorlatok. A dísz készítése.<br>A dísz készítésének technológiai folyamata.<br>A termék díszítése. A termék végső megmunkálása. A projekt megvédése |  | |
+| *III. modul. A technika és az anyagok hatékony felhasználása a környezet károsítása nélkül* | | | |
+| **A projekttevékenység tárgya.** Sütikiszúró formák<br>**Fő technológia.** A vékony fémlemezből készült termékek készítésének technológiája | | **1** | |
+| 5 | A tervezendő tárgy kiválasztása. A vékony fémlemez tulajdonságai. Modell-analógok. A bioformák módszerének fogalma és alkalmazása. A lépték és a méretek fogalma. A termék vázlatának és a részlet rajzának elkészítése<br>A termék készítésének sorrendje. A termék részleteihez szükséges anyagmennyiség meghatározása. A vékony fémlemez megmunkálásának technológiája. Eszközök és segédeszközök kiválasztása<br>A formák készítésének technológiai folyamata: reszelés és csiszolás. A vékony fémlemez hajlításának technológiája. A kiterített lemez hajlítása jelölés szerint, tüskék felhasználásával<br>A formák készítésének technológiai folyamata: az összeillesztés módjai. A termékek tárolása. A projekt megvédése |  | |
+| **A projekttevékenység tárgya.** „Álomfogó" vagy „Szélzene" amulett<br>**Fő technológia.** A rétegelt lemezből készült termékek készítésének technológiája<br>**Kiegészítő technológia.** Áttört kifűrészelés, makramé, gyöngyfűzés | | **1** | |
+| 5 | A tervezendő tárgy kiválasztása. Modell-analógok kiválasztása az amulett készítéséhez. A termék vázlatának elkészítése. A termék készítésének sorrendje. A termék alapjának jelölése a rétegelt lemezen<br>A rétegelt lemezből készült termék készítésének technológiai folyamata kifűrészeléssel. A termék alapjának kifűrészelése. Lyukak fúrása, csiszolás és az alap végső megmunkálása<br>A pókháló vagy háló készítésének technológiai folyamata a rétegelt lemez alapon<br>A termék apró elemeinek (tollacskák, függők stb.) készítése makramé technikával, áttört kifűrészeléssel vagy gyöngyfűzéssel.<br>Az apró elemek összeillesztése az alappal. A termék végső megmunkálása. A projekt megvédése |  | |
+| *IV. modul. Gondoskodás a saját háztartásról, a saját és mások szükségleteinek kielégítése* | | | |
+| **A projekttevékenység tárgya.** Szappan<br>**Fő technológia.** A szappankészítés technológiája (szappanfőzés) | | **1** | |
+| 7 | A projekt kiválasztása és megindoklása. A szappankészítés technológiájának alapjai: Egyrétegű szappan készítése. A biztonságos munkavégzés szabályainak betartása a munka során. A dekorálás fő technikái.<br>A szappan csomagolásának módjai. A projekten való munka megtervezése. Grafikus ábrázolás. A szappan készítéséhez való fő és kiegészítő összetevők, eszközök és segédeszközök kiválasztása. A dekorálási technika és a csomagolási mód kiválasztása<br>A termék készítése és díszítése. A termék végső megmunkálása (csomagolás). A projekt megvédése |  | |
+| **A projekttevékenység tárgya.** Lakásgondozás<br>**Fő technológia.** A lakás gondozásának technológiája | | **1** | |
+| 8 | A projekt kiválasztása és megindoklása. A lakás gondozásának technológiájának alapjai: a lakás higiéniájának jelentősége az emberi életben; a lakás takarítása során végzett cselekvések sorrendje; mosószerek és eszközök.<br>A belső tárgyak és a háztartási technika gondozásának sajátosságai.<br>A lakás gondozására irányuló munka megtervezése. A helyiség kiválasztása, valamint a helyiség takarításához való mosószerek, eszközök, segédeszközök és berendezések kiválasztása.<br>A helyiség takarítása. A biztonságos munkavégzés szabályainak betartása a projekt végrehajtása során. A projekt megvédése |  | |
+| **A projekttevékenység tárgya:** Forró italok<br>**Fő technológia:** Az ételkészítés technológiája | | **1** | |
+| 9 | A projekt témájának kiválasztása és megindoklása (a forró italok kiválasztása).<br>A projekten való munka megtervezése.<br>A forró italok fajtái, jelentőségük az emberi táplálkozásban.<br>A forró italok készítésének technológiája<br>A forró italok elkészítése. A forró italok asztalra tálalása.<br>A kész ételekkel szembeni minőségi követelmények. A projekt megvédése |  | |
+
+*Megjegyzések: (1) Forrás-hiba: az 5. sorszám kétszer szerepel (a süti kiszúróformák és az „Álomfogó" amulett projekt is 5-ös), a 6. sorszám hiányzik. (2) Az óraszám (1 óra) a projektfejlécekben szerepel, az órasorok óraszáma üres; a dátum-oszlop végig üres. (3) A 3. óra témájában a fonalgrafika technológiai folyamata kétszer szerepel. (4) Sajtóhibák: „кострукційних" (1. óra); „р��зміри" (5. óra); „Технологічний процесс" (orosz alak, 4. óra); „милких" (orosz alak, 5./6. óra); „Остаточно обробка" (5./6. óra); „мила.Планування" (7. óra); „Технологія п**р**иготування" (9. óra); „макrame**»**" (4. projekt).*
