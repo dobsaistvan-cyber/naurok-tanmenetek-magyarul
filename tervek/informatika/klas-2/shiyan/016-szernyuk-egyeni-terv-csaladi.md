@@ -1,0 +1,35 @@
+# Egyéni tanterv családi oktatási formában tanuló tanuló számára (informatika, 2. osztály, NUS)
+
+- **Eredeti ukrán cím:** Індивідуальний навчальний план учня який здобуває освіту за сімейною формою навчання
+- **Szerző:** Сернюк І. І.
+- **Tankönyv:** nincs megadva
+- **Osztály:** 2. osztály (NUS)
+- **Heti óraszám:** nincs megadva
+- **Félév/év:** nincs megadva (a konzultációk 26.01., 16.03., 27.04. dátumúak; a terv a II. félévre vonatkozik)
+- **Forrás URL:** https://naurok.com.ua/individualniy-navchalniy-plan-uchnya-yakiy-zdobuvae-osvitu-za-simeynoyu-formoyu-navchannya-321589.html
+- **Megjegyzés:** Horodeckiji Líceum. A tanuló neve üres (csak „a 2. osztály tanulója" — nőnemű alakban). Az igazgató neve helykitöltő („ПІП"). A terv a Шиян-program szerint készült (MOU 2022.08.12., 743-22. sz. rendelet). Csak két tartalmi vonal szerepel (Felelősség és biztonság az információs társadalomban; Az én digitális kreativitásom). Elírások: „Поняттям команди." (a „Поняття команди." helyett), „конфеденційності" (a „конфіденційності" helyett). „комп‘ютерними" fordított aposztróffal.
+
+JÓVÁHAGYOM
+
+A Horodeckiji Líceum igazgatója
+
+________ ПІП
+
+**Egyéni tanterv informatikából**
+
+**a 2. osztály tanulója számára**
+
+**____________________**
+
+**aki családi oktatási formában tanul**
+
+(Шиян Р. Б. programja szerint)
+
+(A terv a Ukrajna Oktatási és Tudományos Minisztériumának 2022.08.12-i, 743.22 sz. rendeletével jóváhagyott program szerint készült)
+
+| **A tanulási foglalkozások témái** | **Elvárt eredmények** | **A konzultációk, az ellenőrzés típusainak dátuma/ideje** |
+| --- | --- | --- |
+| **„Felelősség és biztonság az információs társadalomban" tartalmi vonal**<br>   Kezdeti elképzelések az internetről.<br> A böngésző fogalma mint az interneten való munkára szolgáló program. A böngésző ablaka. Az ablakvezérlő gombok. Műveletek az ablakkal. A böngésző lapjai. Hivatkozás. Könyvjelző.<br> Munka a számítógépes programokkal az idegen nyelv tanulásának támogatására. Önszabályozás a digitális eszközökkel való munka során.<br> PIN-kódok és jelszavak (szöveges, grafikus, szám-, tapintásos, fotójelszavak, képjelszavak stb.), rendeltetésük és célszerű használatuk<br> A biztonságos munka szabályai az interneten. Információ gyermekeknek és felnőtteknek. Magán (személyes, családi) és nyilvános információ. A tartalom szerzősége (saját és idegen). Életkori korlátozások az oldalak tartalmának megtekintésére.<br> Hogyan kerüljük el a zaklatást és cselekedjünk sértések esetén a digitális kommunikációban. Szoftvereszközök, amelyek megkönnyítik a különleges szükségletű emberekkel való kommunikációt.<br> Képek keresése az interneten. A képekhez való jog. Az idegen képek felhasználására vonatkozó engedélyek megkülönböztetése. Emotikonok, információs jelek. | *betartja* a digitális eszközökkel való munka biztonságos üzemmódját<br> *tájékoztatja* a felnőtteket közérzetéről<br> *érvel* a jelszavak bizalmas kezelésének szükségessége mellett<br> *betartja* a digitális eszközökkel és a hálózatokban való biztonságos munka szabályait<br> *megőrzi* a személyes információ bizalmas jellegét és megmagyarázza ennek szükségességét<br> *felismeri* a veszélyes tartalmú információt és *tájékoztatja* erről a felnőtteket<br> *segítségért fordul*, ha kétségei vannak a hálózatokban és a valós életben a tartalommal vagy a beszélgetőpartnerrel kapcsolatban<br> helyesen *reagál* a kijelentésre, amellyel nem ért egyet<br> *megkülönbözteti* a magán- és a nyilvános információt<br> *jóindulatú* hozzáállást *mutat* másokhoz közvetlenül és a hálózatokon keresztül<br> *tájékoztatja* a felnőtteket a sértésekről és a zaklatásról<br> *feltünteti* saját munkái szerzőségét (vezetéknév, keresztnév, dátum),<br> *bizonyítja* azt<br> *nem* *másol* *és* *nem* *enged* *másolni*, érvelve megindokolva, miért<br> *megjelöli* a munkáiban felhasznált anyagok szerzőit | Konzultáció 26.01 |
+| **„Az én digitális kreativitásom" tartalmi vonal**<br> A parancs fogalma. A parancs és a felszólító mondat összehasonlítása. Parancsok és végrehajtók.<br> A cselekvések sorozata. Példák a cselekvések sorozatára a természetben. Egymást követő cselekvések végrehajtása. A hibák keresése a cselekvéssorozatban.<br> Játékos gyakorlatok parancsok adására a végrehajtóknak a «Lépések az informatikához» tanulási környezet használatával *(„Kertész" játék)*<br> Táblázatok kitöltése eszközökön és azok nélkül, egyszerű számítások. Egyszerű lineáris algoritmusok létrehozása a tanulók által.<br> Rajz létrehozása lineáris algoritmus alapján.<br> Elektronikus szövegek. Betűtípus. Színek és díszítés. A szövegek kialakítása. A szöveg formázása lineáris algoritmus alapján<br> Az információs termékek mentése az eszközökön lineáris algoritmus alapján, utasításkártya formájában.<br> Saját irodalmi művek létrehozása szöveg- és grafikus szerkesztők segítségével. Saját ötletek, gondolatok és információs termékek bemutatása a közönség előtt.<br> *A II. félév tananyagának ismétlése és rendszerezése*.    Balesetvédelmi oktatás.  Játékok a manipulátorokkal, billentyűzettel való munka készségeinek javításához.<br> *A tanév tananyagának ismétlése és rendszerezése.*    Balesetvédelmi oktatás.  Munka a számítógépes programokkal a logikus gondolkodás fejlesztésére. | *megállapítja* az események vagy cselekvések logikai sorrendjét<br> *elmondja* az események és cselekvések sorozatát (a szövegben, a jelenségekben stb.)<br> *értékeli* a cselekvéssorozat megsértésének kockázatát (például az út kereszteződésen való átkelése során)<br> *a javasolt terv szerint cselekszik*, kiemeli a terv pontjait<br> *összeállítja* a cselekvések sorozatát (algoritmust), amelyeket a cél eléréséhez kell végrehajtani a mindennapi tevékenységben<br> *összeállítja* a végrehajtó cselekvési tervét pontos és egyértelmű utasításokkal<br> *megfogalmazza* a várt eredményt<br> *megváltoztatja* a cselekvéssorozatokat egy másik eredmény elérése érdekében<br> *egyetért* vagy *cáfolja* az eredmény elérésének tényét<br> *kijavítja* a hibákat a tervben<br> *kiemeli* a részeket az egészből<br> *összeállítja* az egészet a javasolt részekből<br> *kiemeli* az összetett feladatban az egyszerű feladatokat,<br>  *javasolja* megoldásuk sorrendjét<br> *kísérletezik* a részek cseréjével<br> *kockáztat* az ismeretlen feladatok végrehajtása során<br> *használja*, *létrehozza*, *megváltoztatja* a szöveget digitális eszközök és programok segítségével<br> *egyszerű rajzokat hoz létre* digitális eszközök és programok segítségével<br> *bemutatja* ötleteit és/vagy tevékenységének eredményeit rajzok, szövegek, zene stb. segítségével<br> *olvassa* az elektronikus szövegeket, *jelöléseket és könyvjelzőket ad hozzá*<br> *kitölti* a táblázat hiányosságait, egyszerű számításokat végezve<br> *fényképeket készít*, *videót forgat*, *hangokat rögzít*, *szövegeket hallgat* alternatív forrásokból (hangoskönyvek)<br> *használja* az egyszerű információs termékek létrehozásának és szerkesztésének fő eszközeit | Konzultáció 16.03<br> Konzultáció 27.04 |
+
+Megismertem, egyetértek _______________ ______
