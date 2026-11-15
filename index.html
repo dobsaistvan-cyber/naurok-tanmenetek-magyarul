@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Naurok Tanmenetek Magyarul — Tanársegéd</title>
-<meta name="description" content="A naurok.com.ua angol tanmeneteinek magyar fordítása, 1–11. osztály. 1620 tétel, 1598 letölthető terv magyar nyelvű tanároknak.">
+<meta name="description" content="A naurok.com.ua tanmeneteinek magyar fordítása: angol tanmenetek 1–11. osztályból és NUS tanmenetek minden tantárgyból, 2022-től. 5121 tétel, 5025 letölthető terv magyar nyelvű tanároknak.">
 <style>
 :root{--bg:#f6f7f9;--card:#fff;--text:#1c2333;--muted:#5b6478;--line:#e2e5ec;--accent:#1d5fbf;--accent-2:#e8f0fd;--warn:#b45309;--warn-bg:#fef3c7;--radius:12px}
 *{box-sizing:border-box}
@@ -60,24 +60,27 @@ footer a{color:var(--accent)}
 <header>
 <div class="wrap">
 <h1>Naurok Tanmenetek Magyarul</h1>
-<p>Tanársegéd gyűjtemény magyar nyelvű tanároknak: a naurok.com.ua angol tanmenetei (Планування), 1–11. osztály, egy-az-egyben magyar fordításban, letölthetően.</p>
+<p>Tanársegéd gyűjtemény magyar nyelvű tanároknak: a naurok.com.ua tanmenetei (Планування) magyar fordításban, letölthetően — az angol tanmenetek teljes gyűjteménye 1–11. osztályból, valamint NUS (új tanterv) tanmenetek minden tantárgyból, 2022-es vagy újabb megjelenéssel.</p>
 <div class="stats">
-<div class="stat"><b id="stTotal">1620</b><span>tétel</span></div>
-<div class="stat"><b id="stDone">1598</b><span>letölthető terv</span></div>
-<div class="stat"><b>11</b><span>évfolyam</span></div>
-<div class="stat"><b>22</b><span>hiányzó tétel</span></div>
+<div class="stat"><b id="stTotal">5121</b><span>tétel</span></div>
+<div class="stat"><b id="stDone">5025</b><span>letölthető terv</span></div>
+<div class="stat"><b>41</b><span>tantárgy</span></div>
+<div class="stat"><b>96</b><span>hiányzó tétel</span></div>
 </div>
 </div>
 </header>
 <main class="wrap">
 <div class="intro">
-<p><b>Hogyan készült?</b> Minden terv a Naurok könyvtárában megjelenített szöveg egy-az-egyben fordítása. Az angol óracímek angolul maradtak, a szerzők neve eredeti ukrán írásmóddal szerepel. A 22 hiányzó tétel a forráson csak regisztrációhoz kötött letölthető fájlként érhető el, megjelenített szöveg nélkül — ezért a fordításuk nem készült el, és kitalált tartalommal nem pótoltuk őket. Ezek külön jelölve, eredeti címmel és forráslinkkel szerepelnek.</p>
+<p><b>Hogyan készült?</b> Minden terv a Naurok könyvtárában megjelenített szöveg egy-az-egyben fordítása. Az angol óracímek angolul maradtak, a szerzők neve eredeti ukrán írásmóddal szerepel. A gyűjtemény két részből áll: az angol tanmenetek teljes gyűjteménye (1–11. osztály), valamint a NUS (új tanterv) tanmenetek minden tantárgyból, 2022-es vagy újabb megjelenéssel. A 96 hiányzó tétel a forráson csak regisztrációhoz kötött letölthető fájlként érhető el, megjelenített szöveg nélkül — ezért a fordításuk nem készült el, és kitalált tartalommal nem pótoltuk őket. Ezek külön jelölve, eredeti címmel és forráslinkkel szerepelnek.</p>
 </div>
 <div class="controls">
 <input type="search" id="q" placeholder="Keresés cím, szerző vagy tankönyv alapján…" autocomplete="off">
 <div class="grades" id="grades"></div>
 <div class="filters">
-<label> Tankönyv
+<label> Tantárgy
+<select id="fSubject"><option value="">Minden tantárgy</option></select>
+</label>
+<label> Tankönyv / csoport
 <select id="fCat"><option value="">Mind</option></select>
 </label>
 <label> Félév
@@ -100,7 +103,7 @@ footer a{color:var(--accent)}
 </main>
 <footer>
 <div class="wrap">
-<p>Forrás: <a href="https://naurok.com.ua/biblioteka/angliyska-mova" target="_blank" rel="noopener">naurok.com.ua — angol nyelv, Планування (tanmenetek)</a>. A gyűjtemény a megjelenített szövegek magyar fordítása; a tervek szerzői joga az eredeti szerzőket illeti.</p>
+<p>Forrás: <a href="https://naurok.com.ua/biblioteka/" target="_blank" rel="noopener">naurok.com.ua — könyvtár, Планування (tanmenetek)</a>. A gyűjtemény a megjelenített szövegek magyar fordítása; a tervek szerzői joga az eredeti szerzőket illeti.</p>
 </div>
 </footer>
 <dialog id="dlg">
@@ -117,7 +120,10 @@ footer a{color:var(--accent)}
 <script src="js/md2docx.js"></script>
 <script>
 var DATA=[];
-var state={q:"",g:0,cat:"",sem:"",hrs:"",status:"",sort:"default",page:1};
+var SUBJECTS={"algebra":"Algebra","angliyska-mova":"Angol nyelv","batkivski-zbori":"Szülői értekezlet","biologiya":"Biológia","ekonomika":"Közgazdaságtan","etika":"Etika","fizichna-kultura":"Testnevelés","fizika":"Fizika","francuzka-mova":"Francia nyelv","geografiya":"Földrajz","geometriya":"Geometria","gromadyanska-osvita":"Állampolgári nevelés","himiya":"Kémia","informatika":"Informatika","ispanska-mova":"Spanyol nyelv","istoriya-ukra-ni":"Ukrajna története","klasnomu-kerivnikovi":"Osztályfőnöknek","literaturne-chitannya":"Irodalmi olvasás","matematika":"Matematika","mistectvo":"Művészet","movi-nacionalnih-menshin":"Nemzeti kisebbségek nyelvei","muzichne-mistectvo":"Zenei művészet","navchannya-gramoti":"Írás-olvasás tanítás","nimecka-mova":"Német nyelv","nush-serednya-shkola":"NUS középiskola","obrazotvorche-mistectvo":"Képzőművészet","osnovi-zdorov-ya":"Egészség, biztonság és jóllét","pedagogika":"Pedagógia","pidpriemnictvo-i-finansova-gramotnist":"Vállalkozás és pénzügyi műveltség","polska-mova":"Lengyel nyelv","pravoznavstvo":"Jogismeret","prirodnichi-nauki":"Természettudományok","prirodoznavstvo":"Természetismeret","tehnologi":"Technológia","trudove-navchannya":"Munkára nevelés","ukrainska-literatura":"Ukrán irodalom","ukrainska-mova":"Ukrán nyelv","vsesvitnya-istoriya":"Egyetemes történelem","ya-doslidzhuyu-svit":"Felfedezem a világot","zahist-vitchizni":"Honvédelem","zarubizhna-literatura":"Világirodalom"};
+function subjectName(s){return SUBJECTS[s]||s}
+function gradeLabel(g){return g?g+". osztály":"Évfolyam nem ismert"}
+var state={q:"",g:0,subject:"",cat:"",sem:"",hrs:"",status:"",sort:"default",page:1};
 var PER=24;
 function esc(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;")}
 function fname(p){return p.split("/").pop()}
@@ -156,13 +162,14 @@ function filtered(){
   var q=state.q.trim().toLowerCase();
   var out=DATA.filter(function(r){
     if(state.g&&r.g!==state.g)return false;
+    if(state.subject&&r.subject!==state.subject)return false;
     if(state.cat&&r.cat!==state.cat)return false;
     if(state.sem&&r.sem!==state.sem)return false;
     if(state.hrs&&String(r.hrs)!==state.hrs)return false;
     if(state.status==="done"&&r.missing)return false;
     if(state.status==="missing"&&!r.missing)return false;
     if(q){
-      var hay=(r.hu+" "+r.ua+" "+r.author+" "+r.book).toLowerCase();
+      var hay=(r.hu+" "+r.ua+" "+r.author+" "+r.book+" "+subjectName(r.subject)).toLowerCase();
       if(hay.indexOf(q)<0)return false;
     }
     return true;
@@ -184,7 +191,7 @@ function render(){
       var dl=r.missing?"":"<a class=\"btn\" href=\""+encodeURI(r.file)+"\" download=\""+esc(fname(r.file))+"\">Letöltés (.md)</a>";
       var dlx=r.missing?"":"<button class=\"btn ghost\" type=\"button\" onclick=\"dlDocx(this,"+r.g+",'"+r.id+"')\">Letöltés (.docx)</button>";
       var miss=r.missing?"<span class=\"badge miss\">Hiányzik</span>":"";
-      return "<div class=\"card"+(r.missing?" missing":"")+"\"><div><span class=\"badge\">"+r.g+". osztály</span><span class=\"badge\">"+esc(r.cat)+"</span>"+miss+"</div><h3>"+esc(r.hu)+"</h3><p class=\"meta\"><b>Szerző:</b> "+esc(r.author)+"</p><p class=\"meta\"><b>Tankönyv:</b> "+esc(r.book)+"</p><p class=\"meta\"><b>Óraszám:</b> "+esc(r.hours)+" · "+esc(r.sem)+"</p><div class=\"actions\">"+dl+dlx+"<button class=\"btn ghost\" type=\"button\" onclick=\"openDlg("+r.g+",'"+r.id+"')\">Részletek</button></div></div>";
+      return "<div class=\"card"+(r.missing?" missing":"")+"\"><div><span class=\"badge\">"+gradeLabel(r.g)+"</span><span class=\"badge\">"+esc(subjectName(r.subject))+"</span><span class=\"badge\">"+esc(r.cat)+"</span>"+miss+"</div><h3>"+esc(r.hu)+"</h3><p class=\"meta\"><b>Szerző:</b> "+esc(r.author)+"</p><p class=\"meta\"><b>Tankönyv:</b> "+esc(r.book)+"</p><p class=\"meta\"><b>Óraszám:</b> "+esc(r.hours)+" · "+esc(r.sem)+"</p><div class=\"actions\">"+dl+dlx+"<button class=\"btn ghost\" type=\"button\" onclick=\"openDlg("+r.g+",'"+r.id+"')\">Részletek</button></div></div>";
     }).join("");
   }
   var p=document.getElementById("pager");
@@ -201,7 +208,8 @@ function openDlg(g,id){
   if(r.missing){dl.style.display="none";dx.style.display="none";}else{dl.style.display="";dl.href=encodeURI(r.file);dl.setAttribute("download",fname(r.file));dx.style.display="";dx.onclick=function(){dlDocx(dx,r.g,r.id);};}
   document.getElementById("dlgLink").href=r.url;
   document.getElementById("dlgBody").innerHTML=
-    "<dt>Évfolyam</dt><dd>"+r.g+". osztály</dd>"+
+    "<dt>Évfolyam</dt><dd>"+gradeLabel(r.g)+"</dd>"+
+    "<dt>Tantárgy</dt><dd>"+esc(subjectName(r.subject))+"</dd>"+
     "<dt>Szerző</dt><dd>"+esc(r.author)+"</dd>"+
     "<dt>Tankönyv</dt><dd>"+esc(r.book)+"</dd>"+
     "<dt>Óraszám</dt><dd>"+esc(r.hours)+" · "+esc(r.sem)+"</dd>"+
@@ -212,9 +220,9 @@ function openDlg(g,id){
 document.getElementById("dlgClose").addEventListener("click",function(){document.getElementById("dlg").close()});
 document.getElementById("dlg").addEventListener("click",function(e){if(e.target===this)this.close()});
 document.getElementById("q").addEventListener("input",function(e){state.q=e.target.value;state.page=1;render()});
-["fCat","fSem","fHrs","fStatus","fSort"].forEach(function(id){
+["fSubject","fCat","fSem","fHrs","fStatus","fSort"].forEach(function(id){
   document.getElementById(id).addEventListener("change",function(e){
-    var key={fCat:"cat",fSem:"sem",fHrs:"hrs",fStatus:"status",fSort:"sort"}[id];
+    var key={fSubject:"subject",fCat:"cat",fSem:"sem",fHrs:"hrs",fStatus:"status",fSort:"sort"}[id];
     state[key]=e.target.value;state.page=1;render();
   });
 });
@@ -228,6 +236,11 @@ fetch("data.json").then(function(r){return r.json()}).then(function(d){
   var sems=[...new Set(d.map(function(r){return r.sem}))].sort(function(a,b){return a.localeCompare(b,"hu")});
   var hrs=[...new Set(d.map(function(r){return String(r.hrs)}))].sort(function(a,b){return parseFloat(a)-parseFloat(b)});
   fillSelect("fCat",cats);fillSelect("fSem",sems);fillSelect("fHrs",hrs);
+  var subCounts={};
+  d.forEach(function(r){subCounts[r.subject]=(subCounts[r.subject]||0)+1});
+  var subs=Object.keys(subCounts).sort(function(a,b){return subjectName(a).localeCompare(subjectName(b),"hu")});
+  var fsub=document.getElementById("fSubject");
+  subs.forEach(function(s){var o=document.createElement("option");o.value=s;o.textContent=subjectName(s)+" ("+subCounts[s]+")";fsub.appendChild(o)});
   var gg=document.getElementById("grades");
   var all=document.createElement("button");
   all.type="button";all.className="gbtn";all.dataset.g="0";all.textContent="Mind";
