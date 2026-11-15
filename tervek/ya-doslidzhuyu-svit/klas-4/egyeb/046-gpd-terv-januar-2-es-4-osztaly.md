@@ -1,0 +1,38 @@
+# Naptári-tematikus terv a napközis csoport (ГПД) számára, II. félév, 2023–2024-es tanév, Sijan programja alapján, január
+
+- **Eredeti ukrán cím:** календарно-тематичне планування гпд на 2 семестр 2023-2024 н.р за шияном
+- **Szerző:** Низенко І. Б.
+- **Tankönyv:** nincs megnevezve (a nevelési rendezvények a svitdovkola.org YaDS-leckéire hivatkoznak, 2. és 4. osztály)
+- **Osztály:** 4. osztály (NUS) — a terv a 2. és a 4. osztály napközis csoportjára együtt vonatkozik
+- **Heti óraszám:** —
+- **Félév/év:** II. félév, 2023–2024-es tanév (január: 15.01.–02.02.)
+- **Forrás URL:** https://naurok.com.ua/kalendarno-tematichne-planuvannya-gpd-na-2-semestr-2023-2024-n-r-za-shiyanom-388041.html
+- **Megjegyzés:** Napközis csoport (ГПД — група подовженого дня) terve, nem tantárgyi tanmenet; a nevelési rendezvények YaDS-tartalmúak (Sijan programja, a Voloscsenko-tankönyv svitdovkola.org-on elérhető leckéi alapján, 2. és 4. osztály), ezért bevonva — a 190–193. tétel (májusi, áprilisi, márciusi és februári ГПД-terv) januári párja, ugyanazon szerzőtől, ugyanazzal a felépítéssel. A listázó 4. osztályos címkéje alapján a klas-4 mappába került, de a terv a 2. és a 4. osztályra együtt vonatkozik. A forrás táblázata a kivonatban összefolyt (az oszlopok egybefolytak); a fordítás a tartalom alapján rekonstruált táblázat. A terv a 15.01.–02.02. időszakot fedi le (a téli szünet miatt az 01–14.01. nem szerepel); a 21.01. és a 28.01. (vasárnapok) bejegyzése hiányzik. A 20.01. és a 27.01. (szombatok) csak naptári napokat tartalmaznak, foglalkozást nem. A terv elején egy dátum nélküli bejegyzés szerepel („Mit értékelek az emberekben?" / „Mik a vírusok?"). A 15.01. bejegyzés nem tartalmaz testnevelési rovatot és naptári napokat. A 29.01. bejegyzésben a 2. osztályos téma hiányzik (két 4. osztályos téma szerepel: 19.7. és 19.1. lecke). ЗРВ = általános fejlesztő gyakorlatok. Elírások: olvashatatlan karakter a 27.01. bejegyzésben („Міжнародний де��ь пам'яті жертв Голокосту"); az üzenetrögzítő buta üzeneteinek napja kétszer szerepel a 30.01. bejegyzésben; a 17.01. 2. osztályos hivatkozása a 19.4–5. leckére mutat (a 17. leckék helyett) — ugyanaz a hivatkozás, mint a 31.01. bejegyzésben; szóköz a vessző előtt a 16.01. és a 22.01. bejegyzésben; szóközök a pontok előtt a 17.01. bejegyzésben; a 4. osztályos 17.1., 18.2., 18.5. és 19.3. lecke kimarad. Az „Ez a nap a naptárban" rovat a dilovamova.com naptárából származik.
+
+## TERVEZÉS
+
+**Naptári-tematikus terv a napközis csoport számára a II. félévre, 2023–2024-es tanév, Sijan programja alapján, január**
+
+| Dátum | Nevelési rendezvények | Testnevelési-egészségügyi munka | Ez a nap a naptárban (a nap hírei) |
+| --- | --- | --- | --- |
+| **Értékek** | **„A láthatatlan világ"** | | |
+| — | Mit értékelek az emberekben? Mik a vírusok? | ЗРВ. Mozgásos játékok a friss levegőn. Játék: „Macska és egerek" | A kalap napja (a fejfedő napja) |
+| 15.01 | Beszélgetés a napközis csoport biztonsági technikájáról (viselkedés az osztályteremben, az ebédlőben, a sportpályán, a mozgásos játékok során). Milyen ajándék a legjobb számodra? (2. o., 17.1. lecke). Szokatlan vendégek (4. o., 17.2. lecke) |  |  |
+| 16.01 | Az álmom (2. o., 17.2–3. lecke). A hőmérőről részletesebben (4. o., 17.3. lecke) | ЗРВ. Mozgásos játékok a friss levegőn. Játék: „Osztály, vigyázz!" | A kiborgok emléknapja Ukrajnában; a sárkány napja; a „Semmi" napja |
+| 17.01 | Milyen értékek vannak? (2. o., 19.4–5. lecke). Láthatatlan ellenség (4. o., 17.4. lecke) | ЗРВ. Mozgásos játékok a friss levegőn. Játékok a gyerekek érdeklődése szerint | A gyermek-feltalálók napja; a felvonó napja; az újévi ígéretek be nem tartásáért való megbocsátás napja; a múzeumi szelfi napja |
+| 18.01 | Mi egyesíti a családot? (2. o.). Állj, vírusok! Titkos fegyver a vírusok ellen | ЗРВ. Mozgásos játékok a friss levegőn. Játék: „Vadászok és kacsák" | A tezaurusz napja; Micimackó napja |
+| 19.01 | Mi befolyásolja az ember egészségét és közérzetét. Az influenza betegség jelei | ЗРВ. Mozgásos játékok a friss levegőn. Játék: „Farkas az árokban" | A konzervdoboz napja; a nemzetközi cirkuszfesztivál Monte-Carlóban |
+| 20.01 |  |  | A donyecki repülőtér védelmezőinek tiszteletnapja Ukrajnában; a Krími Autonóm Köztársaság napja; a videokamera napja |
+| **Milyen értéket teremthetek én?** | **Álommunka minden vírusnak** | | |
+| 22.01 | Hogyan javítsam ki a hibáimat? (2. o., 18.1. lecke). A mikrobák beszélgetései (4. o., 18.1. lecke) | ЗРВ. Mozgásos játékok a friss levegőn. A madarak életének megfigyelése, a madarak segítése | Az egység napja (az egyesülés napja); az Ukrán Központi Rada elfogadta a Negyedik Univerzálét; a macskád kérdéseire válaszolás nemzeti napja az USA-ban; az élet ünneplésének napja |
+| 23.01 | Miről mesélnek nekünk a természeti és kulturális emlékek. Ismerkedjetek meg: a baktériumok (4. o., 18.3. lecke) | Séta a friss levegőn. Játékok | A kézírás napja (a kézi írás napja); a lábmérés napja |
+| 24.01 | Eltűnhetnek-e a természeti értékek? (2. o., 18.4–5. lecke). A baktériumok — barátok és ellenségek is (4. o., 18.4. lecke) | Séta a friss levegőn. Játék: „Két fagy" | Ukrajna Külső Hírszerző Szolgálatának napja; az oktatás nemzetközi napja; az afrikai kultúra és az afrikai származásúak kultúrájának világnapja; a sörösdoboz napja; a nevetés napja; a bók napja |
+| 25.01 | Mit tehetsz a természet védelméért? (2. o., 18.6–7. lecke). Házikó a baktériumoknak (4. o., 18.6. lecke) | Séta a friss levegőn. Játék: „Tiltott mozgás" | A diákok napja (Tatjana napja); a kizárólag magamnak napja; a fordítva napja |
+| 26.01 | Hogyan érhetünk el egyetértést: az együttműködés szabályai (2. o., 18.8. lecke). Mikroszakácsok (4. o., 18.7. lecke) | Séta a friss levegőn. A téli égbolt megfigyelése | Az ökológiai oktatás világnapja; Ausztrália napja; India köztársaságának napja; Ukrajna ellenőrzési-revíziós szolgálati dolgozójának napja; a vámos nemzetközi napja |
+| 27.01 |  |  | A holokauszt áldozatainak nemzetközi emléknapja; a magcsere napja |
+| **Természeti értékek** | **Álommunka minden vírusnak** | | |
+| 29.01 | A hétköznapi dolgok értéke (4. o., 19.7. lecke). Mikrobák a munkában (4. o., 19.1. lecke) | Séta a friss levegőn. A madarak megfigyelése télen | A kruti hősök emléknapja; az atomháború fenyegetése elleni erőfeszítések mozgósításának napja; a „Látó szemek" vakvezető kutya születésnapja; a buborékfólia napja; a zsugori napja; a kirakós (puzzle) napja; az autó feltalálásának napja |
+| 30.01 | Mit értékelek az emberekben (2. o., 19.2–3. lecke). Teagomba termesztése (4. o., 19.2. lecke) | Séta a friss levegőn. Játékok a gyerekek választása szerint | Az Ukrán Fegyveres Erők katonai-szociális igazgatási szakemberének napja; az elektronikai szakember nemzetközi napja; az üzenetrögzítő buta üzeneteinek napja; az üzenetrögzítő buta üzeneteinek napja |
+| 31.01 | Az én értékeim (2. o., 19.4–5. lecke). A mikrobák beszélgetései (4. o., 19.4. lecke) | Séta a friss levegőn. Mozgásos játékok: „A hóerőd védelme", „Hólőtér" | Az ékszerész világnapja (az ékszerészek nemzetközi szakmai ünnepe); a bűvész nemzetközi napja; a „feje tetejére állt" nap; az „Öleld meg a közgazdászt" nap; a művészet általi inspiráció napja |
+| 01.02 | Milyen értéket teremthetek én? (2. o., 19.6–7. lecke). Hol élnek a mikrobák? (4. o., 19.5–6. lecke) | Séta a friss levegőn. Focis elemeket tartalmazó játékok | A rágógumi napja; a cukorkadíszek napja; az illat napja Japánban |
+| 02.02 | Mi egyesíti a családot? (2. o., 19.8. lecke). Minden mikroba káros-e? (4. o., 19.7. lecke) | Séta a friss levegőn. Mozgásos játék: „Napocska és eső" | A mormota napja; a vékony palacsinták napja; a hawaii gitár világnapja |
