@@ -1,0 +1,113 @@
+# Naptári-tematikus terv ukrán nyelvből 4. osztály, I. félév (Bubir)
+
+- **Eredeti ukrán cím:** Календарно-тематичне планування
+- **Szerző:** Бубир Н. О.
+- **Tankönyv:** І. Большакова, «Українська мова та читання», 4. osztály, 1. rész + «Хрестоматія» (Olvasókönyv)
+- **Osztály:** 4. osztály (NUS)
+- **Heti óraszám:** 5 óra
+- **Félév/év:** I. félév, 2023/2024, 81 óra, dátumokkal 2023.09.01–12.22. (az utolsó 5 óra dátum nélküli), tankönyvi oldalszámokkal, várható eredményekkel a fejezetek első óráinál
+- **Forrás:** https://naurok.com.ua/kalendarno-tematichne-planuvannya-371274.html
+- **Feltöltés dátuma:** 2023. november 6.
+
+## Megjegyzések
+
+- **Tájékoztató számozás:** a forrásban minden sor «1.»-gyel kezdődik (ez az óraszám, nem a sorszám); a sorszámok itt tájékoztató jellegűek, a sorrendet követik.
+- **Forráshibák (megőrizve):** «об’єктів Учень / учениця: 10 мистецтва» (23., összefolyt szöveg — «об’єктів мистецтва» közé beékelődött «Учень / учениця: 10»); «проблемні с��туації» (23.), «Діагностув��льна робота» (45.), «��озрізняє факти» (56., olvashatatlan karakterek); «Cтворює» (33., 47., 56., latin C betű a cirill С helyett); «Г. Фалькович «Ми сьогодні гнігопади»» (78., elütés — valószínűleg «снігопади», hóesések); «об’єктів; мистецтва» (47., felesleges pontosvessző); «За меган Мак-Дональд» (4., kisbetűs «меган»); az 56. óránál a várható eredményekben a «Cтворює прості мовні ігри... коригує своє мовлення.» bekezdés kétszer szerepel.
+- **Duplikált/majdnem duplikált témák:** a 24–26. óra («Правопис слів з орфограмою ненаголошені е та и. Міфи» — a 24. «Міфи слов’ян», a 25–26. «Міфи»); a 63–64. óra («Родовий відмінок іменників», eltérő oldalszámokkal); a 66–67. óra («Малий та Карлсон», a 67. «продовження» + diagnosztizáló munka: hangos olvasás); a 70–71. óra («Марійка і жадібний грабіжник»).
+- A várható eredmények hosszú leírása csak a fejezetek első óráinál jelenik meg (1., 23., 33., 47., 56. óra); [4 МОВ] kódok nincsenek.
+- Az oldalszámoknál a forrásban gyakran szóköz szerepel a kötőjel után («с. 16- 17» stb.) — a fordításban egységesítve.
+
+## Naptári-tematikus terv
+
+**UKRÁN NYELV**
+
+**Heti 5 óra**
+
+| № | Téma | Várható eredmények | Oldalak | Dátum |
+| --- | --- | --- | --- | --- |
+|  | **Nyelv és beszéd** |  |  |  |
+| 1 | Ukrán nyelvet tanulok. | **Szóbeli interakció.** Kritikusan befogadja az információt különböző célok elérése érdekében; pontosítja az információt a helyzetre tekintettel. A hallottak alapján asszociatív sémákat, táblázatokat hoz létre; tömören és szelektíven közvetíti a hallottak tartalmát; különböző feladatok szerint elmondja a szöveget. Kiemeli a szükséges információt különböző szóbeli forrásokból, többek között médiatextusokból, saját megnyilatkozás létrehozásához konkrét céllal. Meghatározza és megbeszéli a szóbeli információ céljait, fő gondolatait és egyes részleteit; megmagyarázza a szövegek, többek között a médiatextusok tartalmát és formáját, összekapcsolja, szembeállítja saját megfigyeléseivel, élettapasztalatával, figyelembe veszi mások véleményét. Kifejezi viszonyulását a szóbeli üzenethez, egyszerű szöveghez, médiatextushoz, indokolja gondolatait saját tapasztalatára támaszkodva; meghatározza a beszélgetőpartner álláspontját, egyetért vele vagy vitatja azt. Kifejezi saját nézeteit, példákkal támasztja alá azokat, figyelembe veszi mások véleményét; a legfontosabb irodalmi ejtési szabályokat betartja, amikor saját nézeteit fejezi ki. Leírja saját érzelmeit és a beszélgetőpartner érzelmeit a hallottak/látottak alapján. Helyénvalóan használja saját beszédében a beszédetikett formuláit. **Médiát kutatunk.** Verbális és nem verbális kommunikációs eszközöket választ, helyénvalóan használja azokat kommunikációra és egyszerű médiatextusok létrehozására a kommunikációs célnak megfelelően; helyes intonációval ejti a közlés célja szerint különböző mondatokat; saját beszédében használja a művészi kifejezés eszközeit különböző műfajú művekben. **Írásbeli interakció.** Kézírással, olvashatóan ír olyan tempóban, amely lehetővé teszi saját gondolata és különböző forrásokból származó információ leírását; megnyilatkozásokat hoz létre, leírja azokat, figyelembe véve a célt és a címzettet, betartva az irodalmi nyelv normáit, használja a helyesírási szótárt; ellenőrzi az írottak helyességét. | 1. rész, 6–7. o. | 09.01. |
+| 2 | Ismétlés. Szöveg. Mondat. Szó. |  | 1. rész, 7–8. o. | 09.04. |
+| 3 | *Munka gyermekkönyvvel.* A könyv, amelyet nyáron olvastam. *Művészi könyv.* |  |  | 09.05. |
+| 4 | Ismétlés. Szöveg. Mondat. Szó. Helyesírási szabály. Megan McDonald «Újra iskolába». |  | 1. rész, 8–12. o. | 09.06. |
+| 5 | Ismétlés. Szöveg. Mondat. Szó. |  | 1. rész, 13–14. o. | 09.07. |
+| 6 | ***Beszédfejlesztés. Utasítás.*** |  | 1. rész, 15. o. | 09.08. |
+| 7 | Ismétlés. Szöveg. Mondat. Szó. |  | 1. rész, 16–17. o. | 09.11. |
+| 8 | Ismétlés. Szöveg. Mondat. Szó. Elbeszélés. A szereplők jellemzése. «A lány, aki könyveket mentett» Klaus Hagerup nyomán. |  | 1. rész, 17–21. o. | 09.12. |
+| 9 | Nyelv és beszéd. Szóbeli és írásbeli beszéd. |  | 1. rész, 21–23. o. | 09.13. |
+| 10 | Kommunikációs helyzet. Beszédstílusok. |  | 1. rész, 23–25. o. | 09.14. |
+| 11 | Kommunikációs helyzet. Párbeszéd és monológ. **Diagnosztizáló munka: párbeszéd alkotása (írásban).** |  | 1. rész, 25–27. o. | 09.15. |
+| 12 | Írásbeli beszéd. Az irodalom nemek szerinti felosztása. |  | 1. rész, 28–29. o. | 09.18. |
+| 13 | *Munka gyermekkönyvvel. Ivan Andrusjak «Hogyan barátkozzunk meg a sakállal». Olvasókönyv. 22–28. o.* |  | Olvasókönyv, 22–28. o. | 09.19. |
+| 14 | Írásbeli beszéd. Esszé. |  | 1. rész, 30–31. o. | 09.20. |
+| 15 | ***Beszédfejlesztés. Esszé.*** |  | 1. rész, 32. o. | 09.21. |
+| 16 | Szöveg. Mondat. A mondat homogén részei. |  | 1. rész, 33–35. o. | 09.22. |
+| 17 | A mondat homogén részei, amelyeket az і (és) kötőszó köt össze. |  | 1. rész, 35–37. o. | 09.25. |
+| 18 | A mondat homogén részei, amelyeket az ismétlődő і (és) kötőszó köt össze. |  | 1. rész, 37–39. o. | 09.26. |
+| 19 | A mondat homogén részei, amelyeket az а, але (és, de) kötőszavak kötnek össze. |  | 1. rész, 39–40. o. | 09.27. |
+| 20 | A mondat homogén részei. Ismétlés. |  | 1. rész, 41–43. o. | 09.28. |
+| 21 | **Diagnosztizáló munka a «Nyelv és beszéd» nyelvi témából. Hallás utáni szövegértés.** |  |  | 09.29. |
+| 22 | A diagnosztizáló munka elemzése. *A tanulók ismereteinek általánosítása és rendszerezése a «Nyelv és beszéd» témából.* «Mit tudok / mire vagyok képes?» |  | 1. rész, 43. o. | 10.02. |
+|  | **Hangok és betűk** |  |  |  |
+| 23 | Helyesírási szabály. A mítosz fogalma. | **A beszédet kutatjuk.** Tisztázza a szó felépítését, kifejezi saját gondolatait, kutatja a hangokat/betűket, betartja a helyesejtési követelményeket saját beszédében. Elemzi, értelmezi és értékeli a problémás helyzeteket, olvas. Írásbeli üzeneteket hoz létre, elemzi a szavakat, hangmodelleket épít. Rendszerezi, általánosítja a szükséges információt. Különböző vizualizációs formákat használ. **Szóbeli interakció.** Kiemeli a szükséges információt különböző szóbeli forrásokból, többek között médiatextusokból, saját megnyilatkozás létrehozásához konkrét céllal. Kifejezi saját nézeteit, példákkal támasztja alá azokat, figyelembe veszi mások véleményét; a legfontosabb irodalmi ejtési szabályokat betartja, amikor saját nézeteit fejezi ki. Teljes értékű olvasási készségekkel rendelkezik. Leírja a szereplők érzelmi állapotát, együtt érez velük. Betartja a beszédetikettet. **Írásbeli interakció.** Kézírással, olvashatóan ír olyan tempóban, amely lehetővé teszi saját gondolata és különböző forrásokból származó információ leírását; megnyilatkozásokat hoz létre, leírja azokat, figyelembe véve a célt és a címzettet, betartva az irodalmi nyelv normáit, használja a helyesírási szótárt; ellenőrzi az írottak helyességét. **Olvasunk.** Leírja a szereplők érzelmi állapotát, együtt érez velük. Kifejezi saját viszonyulását a művekhez, irodalmi szereplőkhöz, a művészet [Tanuló: 10] tárgyaihoz és a környező világhoz, egyszerű érveket hoz saját gondolataira vonatkozóan, a szöveget, saját tapasztalatát és más forrásokat felhasználva. | 1. rész, 44–46. o. | 10.03. |
+| 24 | A hangsúlytalan е és и helyesírási szabályát tartalmazó szavak helyesírása. Szláv mítoszok. |  | 1. rész, 46–49. o. | 10.04. |
+| 25 | A hangsúlytalan е és и helyesírási szabályát tartalmazó szavak helyesírása. Mítoszok. |  | 1. rész, 50–51. o. | 10.05. |
+| 26 | A hangsúlytalan е és и helyesírási szabályát tartalmazó szavak helyesírása. Mítoszok. |  | 1. rész, 52–53. o. | 10.06. |
+| 27 | A lágy nyújtott mássalhangzó helyesírási szabályát tartalmazó szavak helyesírása. |  | 1. rész, 53–54. o. | 10.09. |
+| 28 | Az aposztróf helyesírási szabályát tartalmazó szavak helyesírása. Mítoszok. |  | 1. rész, 54–55. o. | 10.10. |
+| 29 | *Munka gyermekkönyvvel. Ivan Andrusjak «Hogyan barátkozzunk meg a sakállal». Olvasókönyv. 28–31. o.* |  | Olvasókönyv, 28–31. o. | 10.11. |
+| 30 | ***Beszédfejlesztés. Értekező szöveg rajz alapján «Előre látom a következményeket».*** |  | 1. rész, 56. o. | 10.12. |
+| 31 | **Diagnosztizáló munka a «Hangok és betűk» nyelvi témából. Másolás.** |  |  | 10.13. |
+| 32 | A diagnosztizáló munka elemzése. *A tanulók ismereteinek általánosítása és rendszerezése a «Hangok és betűk» témából.* «Mit tudok / mire vagyok képes?» |  | 1. rész, 56. o. | 10.16. |
+|  | **Szó. A szó lexikai jelentése** |  |  |  |
+| 33 | A szó jelentése. Egyjelentésű és többjelentésű szavak. | **Írásbeli interakció.** Kézírással, olvashatóan ír olyan tempóban, amely lehetővé teszi saját gondolata és különböző forrásokból származó információ leírását; megnyilatkozásokat hoz létre, leírja azokat, figyelembe véve a célt és a címzettet, betartva az irodalmi nyelv normáit, használja a helyesírási szótárt. Megtalálja és kijavítja a helyesírási hibákat, többek között a szó felépítésére vonatkozó ismeretek alkalmazásával. **A beszédet kutatjuk.** Elemzi a szavak jelentését a kontextus, a szó felépítése figyelembevételével, ellenőrzi a szó jelentésének saját értelmezését szótárak segítségével; saját beszédében átvitt jelentésű szavakat, szinonimákat és antonimákat, frazeologizmusokat használ a kommunikációs cél elérése érdekében. Egyszerű nyelvi játékokat, keresztrejtvényeket, rejtvényeket hoz létre, kísérletezve hangokkal, szavakkal, kifejezésekkel; kiemeli saját beszédének jellemző vonásait (kedvenc szavak, kifejezések); megfigyeli hatásukat a beszélgetőpartnerekre; korrigálja saját beszédét. **Olvasunk.** Leírja a szereplők érzelmi állapotát, együtt érez velük. Előrejelzi a gyermekkönyv tartalmát a borító, a cím, az illusztrációk és az annotáció alapján; teljes értékű olvasási készségekkel rendelkezik (hangosan és némán). Kifejezi saját viszonyulását a művekhez, irodalmi szereplőkhöz, a művészet tárgyaihoz és a környező világhoz, egyszerű érveket hoz saját gondolataira vonatkozóan, a szöveget, saját tapasztalatát és más forrásokat felhasználva. **Szóbeli interakció.** Kifejezi saját nézeteit, példákkal támasztja alá azokat, figyelembe veszi mások véleményét; a legfontosabb irodalmi ejtési szabályokat betartja, amikor saját nézeteit fejezi ki. | 1. rész, 57–59. o. | 10.17. |
+| 34 | Többjelentésű szavak és homonimák. |  | 1. rész, 59–61. o. | 10.18. |
+| 35 | Sajátosan ukrán és idegen szavak. Elavult és új szavak. |  | 1. rész, 61–62. o. | 10.19. |
+| 36 | **Diagnosztizáló munka: néma olvasási készség.** |  |  | 10.20. |
+| 37 | Népi legenda «Hogyan találták fel a csomákok az üveget». |  | 1. rész, 62–64. o. | 10.23. |
+| 38 | *Munka gyermekkönyvvel. Zirka Menzatjuk «Nem-mesék a kesztyűkről». Olvasókönyv. 107–111. o.* |  | Olvasókönyv, 107–111. o. | 10.24. |
+| 39 | Szinonimák. Népi fabula. |  | 1. rész, 65–68. o. | 10.25. |
+| 40 | Antonimák. Fabula (kívülről). |  | 1. rész, 68–69. o. | 10.26. |
+| 41 | Ismerkedünk az íróval. Leonyid Hlibov. Akrosztichon. |  | 1. rész, 70–71. o. | 10.27. |
+| 42 | A frazeologizmus fogalma. |  | 1. rész, 72–74. o. | 11.06. |
+| 43 | A frazeologizmusok használata. |  | 1. rész, 74–75. o. | 11.07. |
+| 44 | ***Beszédfejlesztés. Problémát oldok meg.*** |  | 1. rész, 76. o. | 11.08. |
+| 45 | **Diagnosztizáló munka: nyelvi téma.** |  |  | 11.09. |
+| 46 | A diagnosztizáló munka elemzése. *A tanulók ismereteinek általánosítása és rendszerezése a «Szó. A szó lexikai jelentése» témából.* «Mit tudok / mire vagyok képes?» |  | 1. rész, 76. o. | 11.10. |
+|  | **Szó. A szó felépítése** |  |  |  |
+| 47 | A szó felépítésének ismétlése. | **A beszédet kutatjuk.** Elemzi a szavak jelentését a kontextus, a szó felépítése figyelembevételével, ellenőrzi a szó jelentésének saját értelmezését szótárak segítségével; saját beszédében átvitt jelentésű szavakat, szinonimákat és antonimákat, frazeologizmusokat használ a kommunikációs cél elérése érdekében. Egyszerű nyelvi játékokat, keresztrejtvényeket, rejtvényeket hoz létre, kísérletezve hangokkal, szavakkal, kifejezésekkel; kiemeli saját beszédének jellemző vonásait (kedvenc szavak, kifejezések); megfigyeli hatásukat a beszélgetőpartnerekre; korrigálja saját beszédét. **Szóbeli interakció.** Kritikusan befogadja az információt különböző célok elérése érdekében; pontosítja az információt a helyzetre tekintettel. A hallottak alapján asszociatív sémákat, táblázatokat hoz létre; tömören és szelektíven közvetíti a hallottak tartalmát; különböző feladatok szerint elmondja a szöveget. Kifejezi saját nézeteit, példákkal támasztja alá azokat, figyelembe veszi mások véleményét; a legfontosabb irodalmi ejtési szabályokat betartja, amikor saját nézeteit fejezi ki. Leírja saját érzelmeit és a beszélgetőpartner érzelmeit a hallottak/látottak alapján. Helyénvalóan használja saját beszédében a beszédetikett formuláit. **Olvasunk.** Előrejelzi a gyermekkönyv tartalmát a borító, a cím, az illusztrációk és az annotáció alapján; teljes értékű olvasási készségekkel rendelkezik (hangosan és némán). Kifejezi saját viszonyulását a művekhez, irodalmi szereplőkhöz, a tárgyakhoz; a művészet és a környező világ tárgyaihoz, egyszerű érveket hoz saját gondolataira vonatkozóan, a szöveget, saját tapasztalatát és más forrásokat felhasználva. **Írásbeli interakció.** Kézírással, olvashatóan ír olyan tempóban, amely lehetővé teszi saját gondolata és különböző forrásokból származó információ leírását; megnyilatkozásokat hoz létre, leírja azokat, figyelembe véve a célt és a címzettet, betartva az irodalmi nyelv normáit, használja a helyesírási szótárt. Megtalálja és kijavítja a helyesírási hibákat, többek között a szó felépítésére vonatkozó ismeretek alkalmazásával. **Médiát kutatunk.** Kifejezi saját viszonyulását a művekhez, irodalmi szereplőkhöz, a művészet tárgyaihoz és a környező világhoz, egyszerű érveket hoz saját gondolataira vonatkozóan, a szöveget, saját tapasztalatát és más forrásokat felhasználva. **Színjátékot játszunk.** Kísérletezik a szöveggel (megváltoztatja a cselekményt, más nézőpontból mondja el a szöveget, szereplőket ad hozzá, improvizál a színre vitel során). Kézírással, olvashatóan ír olyan tempóban, amely lehetővé teszi saját gondolata és különböző forrásokból származó információ leírását; megnyilatkozásokat hoz létre, leírja azokat, figyelembe véve a célt és a címzettet, betartva az irodalmi nyelv normáit, használja a helyesírási szótárt. | 1. rész, 77–78. o. | 11.13. |
+| 48 | Szavak képzése előképzők és képzők segítségével. |  | 1. rész, 78–79. o. | 11.14. |
+| 49 | *Munka gyermekkönyvvel. Tetyana Sztusz «Hogy áll a nyakkendő, avagy miért nem minden kismalac piszkos». Olvasókönyv. 32–36. o.* |  | Olvasókönyv, 32–36. o. | 11.15. |
+| 50 | Összetett szavak képzése. Szerzői mese. |  | 1. rész, 80–81. o. | 11.16. |
+| 51 | Szerzői mese. «A festett róka» Ivan Franko nyomán (részlet kívülről). |  | 1. rész, 81–85. o. | 11.17. |
+| 52 | Ismerkedünk az íróval. Ivan Franko. |  | 1. rész, 86–87. o. | 11.20. |
+| 53 | ***Beszédfejlesztés. Mese állatokról.*** |  | 1. rész, 88. o. | 11.21. |
+| 54 | **Önálló munka a «Szó. A szó felépítése» nyelvi témából. Írásbeli tartalommondás.** |  |  | 11.22. |
+| 55 | A diagnosztizáló munka elemzése. *A tanulók ismereteinek általánosítása és rendszerezése a «Szó. A szó felépítése» témából.* «Mit tudok / mire vagyok képes?» |  | 1. rész, 88. o. | 11.23. |
+|  | **Szó. Szófajok** |  |  |  |
+| 56 | Önálló és segédszófajok. | **Szóbeli interakció.** A hallottak alapján asszociatív sémákat, táblázatokat hoz létre; tömören és szelektíven közvetíti a hallottak tartalmát; különböző feladatok szerint elmondja a szöveget. Kiemeli a szükséges információt különböző szóbeli forrásokból, többek között médiatextusokból, saját megnyilatkozás létrehozásához konkrét céllal. Kifejezi saját nézeteit, példákkal támasztja alá azokat, figyelembe veszi mások véleményét; a legfontosabb irodalmi ejtési szabályokat betartja, amikor saját nézeteit fejezi ki. Leírja saját érzelmeit és a beszélgetőpartner érzelmeit a hallottak/látottak alapján. Helyénvalóan használja saját beszédében a beszédetikett formuláit. **Olvasunk.** Előrejelzi a gyermekkönyv tartalmát a borító, a cím, az illusztrációk és az annotáció alapján; teljes értékű olvasási készségekkel rendelkezik (hangosan és némán), amely lehetővé teszi különböző típusú szövegek megértését. Összekapcsolja az információ elemeit egységes képpé; megkülönbözteti a tényeket és az ezekről a tényekről szóló véleményeket; közvetlen következtetéseket fogalmaz meg a szövegben talált információ alapján. Leírja a szereplők érzelmi állapotát, együtt érez velük. Kifejezi saját viszonyulását a művekhez, irodalmi szereplőkhöz, a művészet tárgyaihoz és a környező világhoz, egyszerű érveket hoz saját gondolataira vonatkozóan, a szöveget, saját tapasztalatát és más forrásokat felhasználva. Kísérletezik a szöveggel (megváltoztatja a cselekményt, más nézőpontból mondja el a szöveget, szereplőket ad hozzá, improvizál a színre vitel során). **Írásbeli interakció.** Kézírással, olvashatóan ír olyan tempóban, amely lehetővé teszi saját gondolata és különböző forrásokból származó információ leírását; megnyilatkozásokat hoz létre, leírja azokat, figyelembe véve a célt és a címzettet, betartva az irodalmi nyelv normáit, használja a helyesírási szótárt. Megtalálja és kijavítja a helyesírási hibákat, többek között a szó felépítésére vonatkozó ismeretek alkalmazásával. **Médiát kutatunk.** Kifejezi saját viszonyulását a művekhez, irodalmi szereplőkhöz, a művészet tárgyaihoz és a környező világhoz, egyszerű érveket hoz saját gondolataira vonatkozóan, a szöveget, saját tapasztalatát és más forrásokat felhasználva. Saját beszédében használja a művészi kifejezés eszközeit különböző műfajú művekben. **A beszédet kutatjuk.** Elemzi a szavak jelentését a kontextus, a szó felépítése figyelembevételével, ellenőrzi a szó jelentésének saját értelmezését szótárak segítségével; saját beszédében átvitt jelentésű szavakat, szinonimákat és antonimákat, frazeologizmusokat használ a kommunikációs cél elérése érdekében. Egyszerű nyelvi játékokat, keresztrejtvényeket, rejtvényeket hoz létre, kísérletezve hangokkal, szavakkal, kifejezésekkel; kiemeli saját beszédének jellemző vonásait (kedvenc szavak, kifejezések); megfigyeli hatásukat a beszélgetőpartnerekre; korrigálja saját beszédét. Egyszerű nyelvi játékokat, keresztrejtvényeket, rejtvényeket hoz létre, kísérletezve hangokkal, szavakkal, kifejezésekkel; kiemeli saját beszédének jellemző vonásait (kedvenc szavak, kifejezések); megfigyeli hatásukat a beszélgetőpartnerekre; korrigálja saját beszédét. **Színjátékot játszunk.** Kísérletezik a szöveggel (megváltoztatja a cselekményt, más nézőpontból mondja el a szöveget, szereplőket ad hozzá, improvizál a színre vitel során). Kézírással, olvashatóan ír olyan tempóban, amely lehetővé teszi saját gondolata és különböző forrásokból származó információ leírását; megnyilatkozásokat hoz létre, leírja azokat, figyelembe véve a célt és a címzettet, betartva az irodalmi nyelv normáit, használja a helyesírási szótárt. | 1. rész, 89–90. o. | 11.24. |
+| 57 | A főnév mint önálló szófaj. |  | 1. rész, 90–92. o. | 11.27. |
+| 58 | A főnevek szám szerinti változtatása. Egyes és többes szám. A főnevek neme. |  | 1. rész, 93. o. | 11.28. |
+| 59 | *Munka gyermekkönyvvel. Tetyana Sztusz «Hogy áll a nyakkendő, avagy miért nem minden kismalac piszkos». Olvasókönyv. 37–41. o.* |  | Olvasókönyv, 37–41. o. | 11.29. |
+| 60 | A főnevek ragozása. |  | 1. rész, 94–95. o. | 11.30. |
+| 61 | A főnevek alanyesete. |  | 1. rész, 95–97. o. | 12.01. |
+| 62 | ***Beszédfejlesztés. Különböző nézőpontokat írok le.*** |  | 1. rész, 97. o. | 12.04. |
+| 63 | A főnevek birtokos esete. |  | 1. rész, 97–99. o. | 12.05. |
+| 64 | A főnevek birtokos esete. |  | 1. rész, 100–101. o. | 12.06. |
+| 65 | A főnevek részes esete. |  | 1. rész, 101–102. o. | 12.07. |
+| 66 | «A kisöcsi és a tetőn lakó Karlsson» (részlet, rövidítve) Astrid Lindgren nyomán. |  | 1. rész, 102–105. o. | 12.08. |
+| 67 | «A kisöcsi és a tetőn lakó Karlsson» (részlet, rövidítve) Astrid Lindgren nyomán. **Diagnosztizáló munka: hangos olvasási készség** *folytatás.* |  |  | 12.11. |
+| 68 | Hogyan különböztessük meg a főnevek részes és helyhatározó esetét. Médiát kutatunk. Reklám. |  | 1. rész, 105–106. o. | 12.12. |
+| 69 | ***Beszédfejlesztés. Elbeszélő szöveg.*** |  | 1. rész, 107. o. | 12.13. |
+| 70 | A főnevek tárgyesete. Detektívtörténet. Szerepek szerint olvasunk. «Marijka és a mohó rabló» (rövidítve) Marina és Szerhij Gyacsenko nyomán. |  | 1. rész, 107–110. o. | 12.14. |
+| 71 | Detektívtörténet. Szerepek szerint olvasunk. «Marijka és a mohó rabló» (rövidítve) Marina és Szerhij Gyacsenko nyomán. |  | 1. rész, 111–113. o. | 12.15. |
+| 72 | *Munka gyermekkönyvvel. Ivan Malkovics «Ima az angyalhoz», «A Dnyeper fölött zúg a metró», «Az Ї betű gyertyácskája» (kívülről). Olvasókönyv. 148–152. o.* |  | Olvasókönyv, 148–152. o. | 12.18. |
+| 73 | A főnevek eszközhatározó esete. |  | 1. rész, 114–116. o. | 12.19. |
+| 74 | Elbeszélés. A szereplők jellemzése. «Finom torta» D. Kuzmenko nyomán. |  | 1. rész, 116–119. o. | 12.20. |
+| 75 | A főnevek helyhatározó esete. |  | 1. rész, 120–121. o. | 12.21. |
+| 76 | Elbeszélés. Téma és fő gondolat. Vitázunk. «Hol a hokimezem?» Zs. Tibo nyomán. |  | 1. rész, 121–124. o. | 12.22. |
+| 77 | A főnevek megszólító esete. Megszólítás. |  | 1. rész, 125. o. |  |
+| 78 | A főnevek ragozása többes számban. H. Falkovics «Ma hóesések vagyunk» (kívülről). |  | 1. rész, 126. o. |  |
+| 79 | ***Beszédfejlesztés. Témát kutatok.*** |  | 1. rész, 127. o. |  |
+| 80 | **Diagnosztizáló munka a «Szófajok. Főnév» nyelvi témából. Tollbamondás.** |  |  |  |
+| 81 | A diagnosztizáló munka elemzése. A tanulók ismereteinek általánosítása és rendszerezése a «Szó. Szófajok» témából. Összegzés a félév végén. |  | 1. rész, 127. o. |  |
