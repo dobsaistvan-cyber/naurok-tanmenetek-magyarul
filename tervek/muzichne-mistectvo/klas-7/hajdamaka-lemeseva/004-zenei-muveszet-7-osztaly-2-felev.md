@@ -1,0 +1,39 @@
+# Naptári-tematikus terv zenei művészet óráiról a 7. osztály számára, II. félév (NUS, Hajdamaka–Ljemeseva)
+
+- **Eredeti ukrán cím:** Календарно-тематичне планування з музичного мистецтва 7 класНУШ(підр. Гайдамака)
+- **Szerző:** Курочкіна Ж. М.
+- **Tankönyv:** О. Гайдамака, Н. Лємешева, «Мистецтво», 7. osztály
+- **Osztály:** 7. osztály (NUS)
+- **Heti óraszám:** 1 óra (II. félév: 16–35. óra, 20 óra)
+- **Félév/év:** II. félév
+- **Forrás URL:** https://naurok.com.ua/kalendarno-tematichne-planuvannya-z-muzichnogo-mistectva-7-klasnush-pidr-gaydamaka-441401.html
+- **Megjegyzés:** A Dátum oszlop üres. Minden óra 1 órás. Elírások a forrásban: a 17. óránál „Prime Оrchestra" (latin és cirill betűk keverve); a 21. óránál „електромузичні. цифрові" (pont vessző helyett) és „НАОНІ Оркестра" („Оркестр" helyett); a 26. óránál „«Спасибі, музико, ��обі»" kódolási hibával; a 30. óránál „Ariana Grade" („Grande" helyett); a 31. óránál „«Аrtarea часу. Перезавантаження»" (latin A-val); a 32. óránál „Відеомонтаж.За допомогою" (szóköz nélkül); a 35. óránál „Перевір себе.Музична вікторина." (szóköz nélkül).
+
+## Naptári-tematikus terv zenei művészet óráiról
+
+**a 7. osztály számára (20 óra), a II. félévre, O. Hajdamaka és N. Ljemeseva tankönyve szerint**
+
+### II. fejezet. MŰVÉSZET AZ EMBERÉRT
+
+| Óra | Óraszám | Téma, óra tartalma |
+|---|---|---|
+| 16 | 1 | **A jelenkor művészeti gyakorlatai.** A zene helye az életünkben. A zenei művészet fajtái a jelenkorban. ONUKA, „Peremoha". Tempei Nakamura, „RISING SOUL". Queen, We Will Rock You. James Last — Little Man (videó Charlie Chaplinnal). Wednesday Addams (részlet a sorozatból). „Az álom felé" (Nagyija Torbin zenéje és versei) |
+| 17 | 1 | **A jelenkor művészeti gyakorlatai (folytatás).** A művészet és a jelenkor népszerű kreatív szakmái. Kreatív és kulturális iparágak. A kreativitás és a professzionalizmus — fontos tulajdonságok, amelyeket fejleszteni kell. A „Nirvana" együttes kompozíciója a Prime Orchestra előadásában. Reklámfilm. „Cirque du Soleil" (részlet a show-ból). „Az álom felé" (Nagyija Torbin zenéje és versei) |
+| 18 | 1 | **A jelenkor művészeti gyakorlatai (folytatás).** A dzsessz zenéje: jellegzetes zenei jegyek, a dzsessz eredete. Dzsesszegyüttesek. Laura Marti, „Köszönöm". Louis Armstrong. „Let My People Go!" spirituálé. Scott Joplin, „Juharlevél" ragtime. Nina Simone, „I put a spell on you". Duke Ellington, „Karaván". Benny Goodman zenekara, „Sing, Sing, Sing". „Dzsesszt táncolunk" című dal (Olha Tokar feldolgozása, Nagyija Szemena ukrán szövege) |
+| 19 | 1 | **A jelenkor művészeti gyakorlatai (folytatás).** A dzsessz kölcsönhatása a zenei művészet más fajtáival. George Gershwin, „Kék rapszódia" (részlet). Miroslav Szkorik és a Lembergi Virtuózok, „Kellemes séta". Ihor Zakusz, JAZZ KOLO projekt, kolomejkák. Leroy Anderson, „Jazz-pizzicato". George Gershwin, „Porgy és Bess" opera, „Clara altatódala". „Dzsesszt táncolunk" című dal (Olha Tokar feldolgozása, Nagyija Szemena ukrán szövege) |
+| 20 | 1 | **A jelenkor művészeti gyakorlatai (folytatás).** Rockzene: jellegzetes zenei jegyek, eredete, irányzatai, hatáslehetőségei. Elvis Presley, „Blue Suede Shoes". The Beatles, „Let It Be". The Rolling Stones, „I Can't Get No". „Jó reggelt, Ukrajna!" című dal („Numer 482" együttes) |
+| 21 | 1 | **A jelenkor művészeti gyakorlatai (folytatás).** Rockzene: az emberre gyakorolt hatás lehetőségei. A rock és az akadémiai zene összefüggései. Zeneipar: a modern zenészek műveinek népszerűsítésére irányuló intézkedések. Modern hangszerek (akusztikus, elektromos zenei, digitális). Bumboksz, „Emberek". Okean Elzy, „Nem a te háborúd", „Minden rendben lesz". Kuzma Szkrjabin, „Régi fényképek". Club Band. The Beatles, „Let It Be" (Lonely előadásában). Oleh Szkripka és a NAONI Zenekar, „Tavasz". „Jó reggelt, Ukrajna!" című dal („Numer 482" együttes) |
+| 22 | 1 | **A jelenkor művészeti gyakorlatai (folytatás).** Popzene: a modern zenei tér, a hangfelvételi ipar és a show-biznisz jelentős része. Sláger. ABBA, Dancing Queen. Michael Jackson, Billie Jean. Madonna, Get Together. Whitney Houston, I Will Always Love You. „Ne veszítsd el a gyermekkorodat" című dal (Tina Karol zenéje és versei) |
+| 23 | 1 | **A jelenkor művészeti gyakorlatai (folytatás).** Populáris zene. Elektronikus zene. A zenei művészet modern irányzatai: hip-hop, rap, R&B stb. Rihanna, Take A Bow. Eminem, Lose Yourself. TNMK, „Mennem kell". TVORCHI, Heart of Steel. „Ne veszítsd el a gyermekkorodat" című dal (Tina Karol zenéje és versei) |
+| 24 | 1 | **A művészet új területei.** Színházművészet: az emberre gyakorolt hatás lehetőségei. A színház fajtái. Riccardo Cocciante zenéje, Élisabeth Anaïs librettója, „A kis herceg" (Le Petit Prince) musical. A Pilóta és a Kis Herceg duettje. Jelenet a Rózsával. Jelenet a Rókával. Finálé. Rachel Portman zenéje, Nicholas Wright librettója, „A kis herceg. Varázsopera" (The Little Prince: A Magical Opera) (részletek). „Ne veszítsd el a gyermekkorodat" című dal (Tina Karol zenéje és versei) |
+| 25 | 1 | **A művészet új területei (folytatás).** Rockopera: a műfaj zenei jellemzői. H. Tatarsenko, „Fehér varjú" rockopera: „Így nem élhetünk, emberek"; „Fehér varjú"; „Búcsú" (Jeanne d'Arc szerepében — Julija Vdovenko). Giuseppe Verdi, „Jeanne d'Arc" opera (részletek) |
+| 26 | 1 | **A művészet új területei (folytatás).** Rockopera (folytatás). Az akadémiai zene műveinek felhasználása a modern életben. Jean-Pierre Pilot, Olivier Schultheis, „Mozart" rockopera (tetszés szerinti részletek). Ismerkedés Aloisiával. Levél Leopold apától. Mozart áriája, Salieri áriája. Finálé (Vivre en crever). „Köszönöm, zene, neked" (Alevtina Nyukalo zenéje és versei) |
+| 27 | 1 | **A művészet új területei (folytatás).** Színházművészet és filmművészet: aktualitás a modern ember életében, az emberre gyakorolt hatás lehetőségei. Musical: népszerű cselekmények, amelyeket színházban állítottak színpadra és filmen forgattak. A játékfilm műfajai (ismétlés). A hangos / zenei megformálás szerepe a színházban és a filmben. „Iskola" musical a „Dyvovyzsni" színház-stúdió előadásában. „Iskolai musical" (High School Musical) (részletek). „Köszönöm, zene, neked" című dal |
+| 28 | 1 | **A művészet új területei (folytatás).** Dokumentumfilm: jellegzetes sajátosságok, a dokumentumfilm műfajai. „Fellángolás. Új ukrán folk". „Szolomija Kruselnicka. Tehetség és magány". „Szalmatető. Dokumentumprojekt a népi építészetről". „Az álmok országa" című dal (Oleh Szkripka zenéje és versei) |
+| 29 | 1 | **A művészet új területei (folytatás).** Animációs filmművészet. Az animáció fajtái. „Lélek" (Soul). „KAZKA: A Csarholosz titka". „Chihiro Szellemországban". „WALL-E" (részletek). Művészi-alkotó tevékenység: „Egy modern rajzfilm létrehozása" megismerése és elemzése. „Az álmok országa" című dal (Oleh Szkripka zenéje és versei) |
+| 30 | 1 | **A művészet új területei (folytatás).** Videojátékok. Új lehetőségek a zenei tartalom terjesztésére. Digitális zenei technológiák. Lady Gaga & Ariana Grande, Rain On Me. Roblox Music Video. Fortnite Festival Main Stage vs Jam Stage. How to Play. Sayri: The Beginning, a játék trailere. Never Alone, a játék trailere. Antytila, „Az én sólymom", soundtrack a „Death From Above" játékból. „A természet zenéje" (Nagyija Torbin zenéje és versei) |
+| 31 | 1 | **A művészet új területei (folytatás).** Digitalizáció a művészetben. Média-művészet. Mesterséges intelligencia által létrehozott művészet. Andy Thomas, digitális hangszobor madárkáról. Pavlo Kolpakov, 7. hangszobor (részlet). Megtekintés: „Az idő artterülete. Újraindítás" videóművészet. „Menekülés az elveszett piramisból" szabadulószoba a virtuális valóságban |
+| 32 | 1 | Videóvágás. Mobilalkalmazás és videóvágás segítségével médiamű létrehozása. „A természet zenéje" című dal (Nagyija Torbin zenéje és versei) |
+| 33 | 1 | Médiaművészet |
+| 34 | 1 | **Az oktatás minőségének monitorozása: félévi ellenőrzés** |
+| 35 | 1 | Ellenőrizd magad. Zenei vetélkedő |

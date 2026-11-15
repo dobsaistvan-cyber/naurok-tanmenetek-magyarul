@@ -1,0 +1,45 @@
+# Egyéni tanterv (adaptált) zenei művészetből, 6. osztály (inkluzív)
+
+- **Eredeti ukrán cím:** Інкл. ІНП з музичного мистецтва 6 клас на І семестр
+- **Szerző:** Федоренко Ю. М.
+- **Tankönyv:** nem megállapítható (a témák a Maszol–Proszina modellprogram szerkezetét követik)
+- **Osztály:** 6. osztály (NUS)
+- **Heti óraszám:** nem megállapítható (34 óra: 1. félév 15 óra + 2. félév 19 óra)
+- **Félév/év:** 1. félév a cím szerint, de a dokumentum a 2. félévet is tartalmazza; 2022–2023-as tanév
+- **Forrás URL:** https://naurok.com.ua/inkl-inp-z-muzichnogo-mistectva-6-klas-na-i-semestr-318564.html
+- **Megjegyzés:** Adaptált egyéni tanterv (ІНП — індивідуальний навчальний план) inkluzív oktatásban részesülő 6. osztályos tanuló számára; nem naptári terv: dátumok és órasorszámok nincsenek megadva. **A cím csak az 1. félévet jelöli, de a dokumentum mindkét félévet tartalmazza (1. félév: 15 óra, 2. félév: 19 óra, összesen 34 óra).** Elírások a forrásban: „орієнтується у характерних ознаках жанрів камерно-вокальної музики (пісня, гімн) розрізняє їх за особливістю звучання виражає власне ставлення" (hiányzó pontosvesszők); „муз. А.рубінштейна" (hiányzó szóköz, kisbetűs); „порівнює власну думку щодо хорової музики з думкам інших" („думками" helyett „думкам"); „Розвиваток вміння" („Розвиток" helyett); „Збагачення словникового запасу на основі з вивчення музичних творів" (felesleges „з"); „має уявлення про дотримується правил фразування" (hiányos mondat — a „має уявлення про" után hiányzik a tárgy); „Концерт Симфонічна фантазія" (hiányzó írásjel); a „Hangverseny. Szimfonikus fantázia" témánál a célok és a technológiák oszlopa a népi hangszerekről szól (másolási hiba a forrásban); „кіномистецтвом ." (szóköz a pont előtt).
+
+## A 6. osztályos tanuló egyéni tanterve
+
+**zenei művészetből a 2022–2023-as tanév 1. félévére**
+
+**(adaptált)**
+
+### 1. félév
+
+| A tananyag tartalma | A tanulás céljai | A cél elérését szolgáló pedagógiai technológiák |
+|---|---|---|
+| Kamaravokális műfajok: dal és himnusz (2 óra) | A tanuló: tájékozódik a kamaravokális zene műfajainak (dal, himnusz) jellemző ismérveiben, megkülönbözteti őket hangzásuk sajátossága alapján, kifejezi saját viszonyulását a hallott művekhez. | A dalok és himnuszok fajtáiról és hangzásuk sajátosságairól alkotott elképzelés gazdagítása. Az ukrán népi háztartási dalok és Ukrajna himnuszának előadására való képesség fejlesztése. |
+| A románc és fajtái: szerenád, ballada (2 óra) | A tanuló: elképzelése van a románcról és fajtáiról (a szerenádról és a balladáról); értékelő ítéleteket fogalmaz meg a különböző műfajú zenéről; kifejezi a művészeti alkotások által kiváltott érzelmeket, jellemzi hatásukat. | A zene befogadásának fejlesztése különböző művek hallgatása alapján: „Hegyi csúcsok", A. Rubinstein zenéje, Joaquín Malats „Spanyol szerenád" (gitár), F. Schubert „Az erdei király" (ballada). Az esztétikai elképzelés kialakítása. |
+| Modern és vokális műfajok: szerzői és esztráddal (2 óra) | A tanuló: megismerkedett a szerzői és esztráddalok hangzásának és előadásának sajátosságaival; megkülönbözteti a ritmusokat; igyekszik előadni a tantervi műveket. | A lelkesedés és az érdeklődés ösztönzése az esztráddalok hallgatása során. Az éneklési képesség fejlesztése. |
+| Kórusos egyházi zene: mise, liturgia, hangverseny, requiem (2 óra) | A tanuló: - összehasonlítja saját véleményét a kóruszenéről mások véleményével, és toleránsan viszonyul hozzájuk; - igyekszik megkülönböztetni a kóruszene különböző fajtáit. | A kóruszene hallás utáni felismerésére való képesség kialakítása. A kamaravokális műfajok konkretizálása. |
+| Kórusműfajok: kantáta, oratórium (2 óra) | A tanuló: - igyekszik értelmezni a kamaravokális és kórusművek képi tartalmát; - érzelmi viszonyulást fejez ki a művészeti alkotások iránt. | Az éneklési készségek, a vokális koordináció és a zenei hallás korrekciója. A hallási önkontroll fejlesztése. |
+| Ciklusok a vokális-kórus zenében (2 óra) | A tanuló: - tájékozódik a „vokális", „hangszeres", „kórus-" zene fogalmaiban; - befogadja és hallás alapján megkülönbözteti a zeneműveket. | A vokális-kórus zene fajtáiról alkotott elképzelés gazdagítása. |
+| Zenei műfajok a színházban és a moziban (2 óra) | A tanuló: - példákat hoz a zene jelentőségére az életben, különösen a hétköznapokban, a médiatérben; - igyekszik önállóan bemutatni az éneklést. | Az éneklési készségek, a vokális koordináció és a zenei hallás korrekciója. A hallási önkontroll fejlesztése. |
+| Ellenőrizzük az eredményeinket. (1 óra) | A tanuló: - használja az elsajátított vokális-kórus zenei kifejezőeszközöket a művek előadása során; - tisztán ejti a szavakat a gyors tempójú dalokban. | A zeneművek hallás utáni felismerésére, a dalok hangfelvétel-kísérettel való előadására, egyszerű alkotó feladatok elvégzésére vonatkozó ismeretek konkretizálása. |
+
+### 2. félév
+
+| A tananyag tartalma | A tanulás céljai | A cél elérését szolgáló pedagógiai technológiák |
+|---|---|---|
+| Prelűd. Elégia (2 óra) | A tanuló: meg tudja különböztetni hallás alapján a zenei kifejezőeszközöket; megfigyeli az érzelmi tónust, a hangulatot M. Glinka zeneműveiben. | A zenemű zenei képének jellemzésére való képesség fejlesztése. A zenei szakkifejezésekkel kapcsolatos ismeretek gazdagítása. Az orosz klasszikus zene művei, ukrán zeneszerzők dalai iránti érdeklődés kialakítása. |
+| Nokturn. Rapszódia (2 óra) | A tanuló: elképzelése van a világ más népeinek zenéjéről; megfigyeli a zene intonációs-képi fejlődését; kifejezi saját érzelmi-esztétikai viszonyulását a zeneműhöz. | Az érzelmi reakciók fejlesztése a világ különböző népeinek zeneműveivel való megismerkedés során; a fonematikai és zenei emlékezeté. A szókincs gazdagítása a zeneművek tanulmányozása alapján. Pozitív jellemvonások kialakítása a tananyag elsajátítása során. |
+| Scherzo. Etűd (2 óra) | A tanuló: - elképzelése van arról, hogy betartja a frazeálás és a légzés szabályait a zene előadása során; - kifejezi saját érzelmi-esztétikai viszonyulását a zeneműhöz. | Az orosz és külföldi zene programalkotásainak hősi képei, ukrán zeneszerzők dalai iránti érdeklődés kialakítása. |
+| Szonáta. Variációk (2 óra) | A tanuló: megkülönbözteti a program- és nem program-szimfonikus zenét; összehasonlítja a zenei és a képzőművészeti alkotás jellegét. | A tanulók azon képességének fejlesztése, hogy felismerjék és jellemezzék a szimfonikus zene zenei képét. A külföldi zeneszerzők szimfonikus program- és nem program-zeneművei iránti érdeklődés nevelése. |
+| Rondó. Szvit (2 óra) | A tanuló: - elképzelése van a zenei szakkifejezésekről és fogalmakról; - megfigyeli a zene intonációs-képi fejlődését; - használja a zenei terminológiát (a tantervi anyag keretein belül). | Az érzelmi-érzéki szféra aktivizálása. A hangszeres szólómű zenei képének jellemzésére vonatkozó elképzelések gazdagítása. A hangszerek hangzásának hallás utáni megkülönböztetése. |
+| Szimfónia. Nyitány (2 óra) | A tanuló: jellemzi a meghallgatott zeneművet; - betartja a zeneművek együttes előadását. | A zenekar előadásában megszólaló mű zenei képének jellemzésére való képesség fejlesztése. A szimfonikus zene hallgatása iránti igény kialakítása. |
+| Hangverseny. Szimfonikus fantázia (2 óra) | A tanuló: elképzelése van a népi hangszerekről és azok fajtáiról; érdeklődést mutat az éneklés iránt. | A népi hangszerekről és a zenekari zene fajtáiról szóló ismeretek konkretizálása. A fonematikai és zenei emlékezet fejlesztése a zenei anyag tanulmányozása során. |
+| Zenés-színházi műfajok: balett, operett (2 óra) | A tanuló: tud az énekhangok hangszíneiről és a vokális éneklés modorairól; tisztán ejti a szavakat a gyors tempójú dalokban. | A hangszínek hangzásának hallás utáni felismerésére való képesség általánosítása. A színnek a vokális mű hangulatához való illesztésére való képesség kialakítása. |
+| A műfajok találkoznak (1 óra) | A tanuló: betartja az éneklés szabályait (ülő és álló helyzetben) és a hanghigiéniát; használja az elsajátított vokális-kórus zenei kifejezőeszközöket a művek előadása során. | A helyes ritmikai légzés használata feletti önkontroll fejlesztése a zenei anyag visszaadása során; az éneklés artikulációs zavarainak és a fonematikai hallásnak a korrekciója. |
+| Ellenőrizzük az eredményeinket. (1 óra) | A tanuló: megfigyeli a zene intonációs-képi fejlődését; feltárja a zene és más művészeti ágak közötti közös és eltérő vonásokat a környező világ ábrázolásában (a tanár segítségével); - kifejezi saját érzelmi-esztétikai viszonyulását a művészeti alkotásokhoz; - érti a zeneművek tartalmát. | A zenei és irodalmi művészet szintéziséről alkotott elképzelések fejlesztése a színházban és a filmművészetben; annak a képességnek a fejlesztése, hogy közös kapcsolatokat találjon a vizuális művészeti ágakkal, a színházzal, a filmművészettel. |
+| Összegző óra (1 óra) | A tanuló: - használja az elsajátított vokális-kórus zenei kifejezőeszközöket a művek előadása során; - tisztán ejti a szavakat a gyors tempójú dalokban. | A zeneművek hallás utáni felismerésére, a dalok hangfelvétel-kísérettel való előadására, egyszerű alkotó feladatok elvégzésére vonatkozó ismeretek konkretizálása. |
