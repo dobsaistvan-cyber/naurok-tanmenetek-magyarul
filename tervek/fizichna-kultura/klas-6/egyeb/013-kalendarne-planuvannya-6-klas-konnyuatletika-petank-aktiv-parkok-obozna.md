@@ -1,0 +1,47 @@
+# Naptári terv: könnyűatlétika, pétanque, aktív parkok, 6. osztály, NUS
+
+- **Eredeti ukrán cím:** Календарне планування Легка атлетика Петанк Активні парки
+- **Szerző:** Обозна В. В.
+- **Tankönyv:** nem nevesítve (a terv a „Testnevelés. 5–9. osztály" modelltanterv — Bazsenkov Je. V., Bidnij M. V., Rebrina A. A., Danilcsenko V. O., Kolomojec H. A., Dutcsak M. V.; a MOH 2024. 08. 22-i 1185. sz. rendelete — alapján készült)
+- **Osztály:** 6. osztály (NUS)
+- **Heti óraszám:** 3 óra
+- **Félév/év:** I. és II. félév (a fejléc szerint 105 óra, heti 3 óra)
+- **Forrás URL:** https://naurok.com.ua/kalendarne-planuvannya-legka-atletika-petank-aktivni-parki-499572.html
+- **Megjegyzés:** **A terv fejlécében „6. osztály (105 óra / heti 3 óra)" szerepel, de a táblázat csak 24 számozott órát tartalmaz** — a terv a forrásban csonka. Az óraszám-elosztó táblázat csak a modulok listáját tartalmazza, óraszámok nélkül. Minden óra végén „Гр.1/2/3" (valószínűleg: 1./2./3. csoport) szerepel, 1–2–3 ciklikus váltakozással. Rövidítések: ÉBO (БЖД) — életbiztonság. Forrásbeli hibák: 12. óra házi feladata sérült („від стіни або підл��ги" — „підлоги", azaz padló, helyett); 14. óra: „Тестування фізичної підготовки.:" (kettős írásjel) és „Підтягування на перекладені" („перекладині" — rúdon — helyett); 14. óra házi feladata: „стрибков вправи" („стрибкові" helyett); 21. óra: „Стрибок у довжину змісця" („з місця" helyett); 24. óra: „нструктаж з БЖД" (az „І" betű hiányzik az „Інструктаж" elejéről). A pétanque szerepei („шутер" — lövő, „пойнтер" — pontozó) angol eredetű szakkifejezések, magyarul is így használatosak.
+
+**Naptári-tematikus terv 6. osztály számára, NUS, testnevelésből, I. és II. félévre**
+
+**6. osztály (105 óra / heti 3 óra)**
+
+***Modelltanterv „Testnevelés. 5–9. osztály" az általános középfokú oktatási intézmények számára (szerzők: Bazsenkov Je. V., Bidnij M. V., Rebrina A. A., Danilcsenko V. O., Kolomojec H. A., Dutcsak M. V.), „Ajánlotta Ukrajna Oktatási és Tudományos Minisztériuma", Ukrajna Oktatási és Tudományos Minisztériumának 2024. 08. 22-i 1185. sz. rendelete***
+
+**A tanórák modulok szerinti elosztásának táblázata — a programanyag első tanéve**
+
+**Modulok listája:** Könnyűatlétika (Gyermek-könnyűatlétika, 5–6. osztály); Pétanque; Aktív parkok.
+
+| № | Tartalom | Házi feladat |
+| --- | --- | --- |
+| 1 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: Olimpiai játékok. A kialakulás és az újjászületés története. Antik és modern játékok. 2. Pétanque: bevezetés, a játékszabályok, ismerkedés a felszereléssel. 3. Aktív parkok: bevezetés, biztonsági szabályok, ismerkedés a helyszínekkel. Гр.1 | Elméleti feladat: Keress az interneten információt a könnyűatlétika és a pétanque kialakulásának történetéről. Készíts rövid beszámolót |
+| 2 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: Olimpiai játékok. Szimbólumok és rítusok. Olimpiai Charta. 2. Pétanque: helyes állás, a golyó fogása. 3. Aktív parkok: bemelegítés, gyakorlatok a pályán. Гр.2 | Gyakorlati feladat: Végezd el a reggeli tornát, amely hajlékonysági és koordinációs gyakorlatokat tartalmaz (például „kerék", „fecske") |
+| 3 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: Olimpiai játékok. Kiemelkedő ukrán olimpikonok. Hozzájárulásuk a világ sportjához. 2. Pétanque: alapdobás célba. 3. Aktív parkok: gyakorlatok a nyújtón és a korláton. Гр.3 | Elméleti és gyakorlati feladat: Rajzold le a pétanque-ban a helyes dobás sémáját. Gyakorold a dobásokat képzeletbeli labdával célba |
+| 4 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: Olimpiai játékok. Paralimpiai és siketlimpiai mozgalmak. 2. Pétanque: dobás távolságra. 3. Aktív parkok: gyakorlatok ugrókötéllel. Гр.1 | Gyakorlati feladat: Gyakorold a helyből indulást, 5–10 rövid gyorsítást végezve a folyosón |
+| 5 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: Olimpiai játékok. A modern kor játékai. A fő sportágak tanulmányozása. 2. Pétanque: csapatversenyek (2×2). 3. Aktív parkok: futás körben, váltók. Гр.2 | Gyakorlati feladat: Végezz intervallumos futást helyben, a gyors tempót lassúval váltogatva |
+| 6 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: Olimpiai játékok. A sport hatása az ember egészségére. Olimpiai óra. 2. Pétanque: a „shooter" (lövő) szerepe (a golyó kiütése). 3. Aktív parkok: hajlékonysági gyakorlatok. Гр.3 | Gyakorlati feladat: Végezz 10 helyből távolugrást, minden alkalommal próbálva távolabbra ugrani |
+| 7 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: futás rövid távokra (60–100 m). A futás technikája. 2. Pétanque: a „pointer" (pontozó) szerepe (a golyó pontos elhelyezése). 3. Aktív parkok: mozgásos játékok a pályán. Гр.1 | Elméleti és gyakorlati feladat: Keress videót a nekifutásos távolugrás technikájáról. Végezd el az ugrás utánzását |
+| 8 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: futás hosszú távokra (500–1000 m). A légzés technikája. 2. Pétanque: taktikai cselekvések párban. 3. Aktív parkok: gyakorlatok fitnesz-felszereléssel. Гр.2 | Gyakorlati feladat: Végezz képzeletbeli labdahajítást, próbálva minél messzebbre dobni |
+| 9 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: váltófutás. 2. Pétanque: csapatváltók dobásokkal. 3. Aktív parkok: csapatjátékok. Гр.3 | Gyakorlati feladat: Gyakorold a váltóbot átadását egy partnerrel (családtaggal) |
+| 10 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: állóképesség-fejlesztő gyakorlatok. 2. Pétanque: versenyek a csoportok között. 3. Aktív parkok: erőgyakorlatok. Гр.1 | Gyakorlati feladat: Végezd el az „ingafutást" (4×9 méter) 3-szor |
+| 11 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: a lábak erejének fejlesztésére szolgáló gyakorlatok (ugrógyakorlatok). 2. Pétanque: a dobástechnika ismétlése különböző távolságokból. 3. Aktív parkok: saját testsúlyos gyakorlatok. Гр.2 | Gyakorlati feladat: Végezz 20 guggolást és 20 ugrást |
+| 12 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: a karok és vállak fejlesztésére szolgáló gyakorlatok. 2. Pétanque: pontossági gyakorlatok bonyolult körülmények között. 3. Aktív parkok: egyensúlygyakorlatok. Гр.3 | Gyakorlati feladat: Végezz 10 fekvőtámaszban karhajlítást a faltól vagy a padlótól |
+| 13 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: mozgásos játékok futás- és ugráselemekkel. 2. Pétanque: minitorna. 3. Aktív parkok: sportjátékok a pályán. Гр.1 | Elméleti feladat: Állíts össze egy listát azokról a játékokról, amelyeket otthon lehet játszani |
+| 14 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: magasugrás. Az ugrás módjai. 2. Pétanque: mozgásos játékok pétanque-elemekkel. 3. Aktív parkok: a fizikai felkészültség tesztelése: húzódzkodás a rúdon. Гр.2 | Gyakorlati feladat: Ismételd az ugrógyakorlatokat, és próbáld javítani az eredményedet |
+| 15 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: sportszer hajítása. A hajítás fajtái. 2. Pétanque: dobásedzés közepes távolságra. 3. Aktív parkok: gyakorlatok ugrókötéllel. Гр.3 | Gyakorlati feladat: Végezz intervallumos edzést ugrókötéllel: 1 perc gyorsan, 1 perc lassan (ismételd 5-ször) |
+| 16 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: könnyűatlétika. Váltófutás. A váltóbot átadása. 2. Pétanque: a távolsági dobás gyakorlása. 3. Aktív parkok: ugrások akadályokon át. Гр.1 | Gyakorlati feladat: Keress 3 kis tárgyat (például párnákat), és gyakorold az átugrásukat |
+| 17 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: a fizikai felkészültség tesztelése: karhajlítás és -nyújtás fekvőtámaszban. 2. Pétanque: pontossági gyakorlatok időnyomás alatt. 3. Aktív parkok: koordinációs gyakorlatok. Гр. 2 | Gyakorlati feladat: Végezz 10 labdahajítást célba, próbálva eltalálni azt |
+| 18 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: magasugrások (a technika alapjai). 2. Pétanque: a „shooter" szerepe a csapatban. 3. Aktív parkok: hajlékonysági gyakorlatok. Гр.3 | Elméleti feladat: Készíts rövid beszámolót a magasugrás technikájáról |
+| 19 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: többszörös ugrások (ugrássorozatok). 2. Pétanque: a „pointer" szerepe a csapatban. 3. Aktív parkok: ellenőrző norma: törzsemelés ülésbe. Гр.1 | Gyakorlati feladat: Végezz 3 sorozat többszörös ugrást, próbálva minél messzebbre ugrani |
+| 20 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: gyorsasági állóképességi gyakorlatok. 2. Pétanque: taktikai kombinációk (2×2, 3×3). 3. Aktív parkok: gyorsasági csapatjátékok. Гр. 2 | Gyakorlati feladat: Végezz „árnyékfutást" — fuss helyben, egy képzeletbeli ellenfél mögötti futást utánozva |
+| 21 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: a fizikai felkészültség tesztelése: helyből távolugrás. 2. Pétanque: játékos gyakorlatok a szerepek váltására. 3. Aktív parkok: állóképességi edzés. Гр.3 | Gyakorlati feladat: Tegyél egy 15 perces sétát gyors léptekkel |
+| 22 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: erőgyakorlatok (saját testsúly). 2. Pétanque: váltók és csapatversenyek. 3. Aktív parkok: erőgyakorlatok a pályán. Гр.1 | Gyakorlati feladat: Végezz 2×10 guggolást és 2×10 fekvőtámaszban karhajlítást |
+| 23 | Életbiztonsági oktatás. 1. Gyermek-könnyűatlétika: mozgásos játékok könnyűatlétikai elemekkel. 2. Pétanque: felkészülés a tornára, a technika ismétlése. 3. Aktív parkok: mozgásos játékok. Гр. 2 | Elméleti feladat: Keress az interneten bármely mozgásos játék szabályait, és ellenőrizd, lehet-e otthon játszani |
+| 24 | Életbiztonsági oktatás. A modulok ismereteinek összegzése. Összegző dolgozat. Гр.1, Гр.2, Гр.3 | Gyakorlati feladat: Gyakorold a váltóbot-átadás utánzását |

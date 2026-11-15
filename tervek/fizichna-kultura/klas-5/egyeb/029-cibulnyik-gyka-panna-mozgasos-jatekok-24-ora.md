@@ -1,0 +1,70 @@
+# Tananyag-tervezés, 5. osztály (NUS) — Gyermek-könnyűatlétika, Panna, mozgásos játékok (24 óra)
+
+**Eredeti ukrán cím:** Планування навчального матеріалу 5 клас НУШ
+
+**Szerző:** Цибульнік С. О.
+
+**Tankönyv:** —
+
+**Osztály:** 5. osztály (NUS)
+
+**Heti óraszám:** —
+
+**Félév/év:** 24 óra
+
+**Forrás:** https://naurok.com.ua/planuvannya-navchalnogo-materialu-5-klas-nush-440183.html
+
+**Megjegyzések:**
+- Modulok: Gyermek-könnyűatlétika, Panna, mozgásos játékok (24 óra).
+- A «Dátum», «A tanulók tanulási tevékenységének fajtái» és «Megjegyzés» oszlopok üresek a forrásban.
+- A 3. óránál «Рухлив ігри» elgépelés. Az 5. óránál «Стрибки через зі скакалкою» hibás alak. A 8. óránál «рухливих іг��р», a 17. óránál «Метанн��» kódolási hiba. A 18. óránál «зі скаклкою» elgépelés («скакалкою» helyett). A 18. és 20. óránál a záró mondat után hiányzik a záró zárójel. A 23–24. óránál «Ліга дружніх» csonka megjelölés szerepel.
+
+## Gyermek-könnyűatlétika, Panna, mozgásos játékok (24 óra)
+
+**1. óra —** EMI: Biztonságtechnikai oktatás az órán, a variatív modulokkal való foglalkozások során. ÁFE-komplexum helyben. Könnyűatlétika. Speciális futógyakorlatok, ugrógyakorlatok. Panna. A Panna-játékos állása. Haladás a labdarúgó állásában utánlépéssel. Mozgásos játékok és szórakozások. Speciális futógyakorlatok helyben és mozgásban. Gyorsítások. Ugrógyakorlatok helyben és előrehaladással. A tanulók differenciálása és individualizálása az alapvető mozgásos tulajdonságok fejlesztéséhez.
+
+**2. óra —** Könnyűatlétika. A fizikai/mozgásos aktivitás érdekessé, tartalmassá, jelentőségteljessé teszi az ember életét. ÁFE-komplexum helyben. Speciális futógyakorlatok, ugrógyakorlatok. Rajt és rajt utáni nekifutás. Panna. A Panna-játékos állása. Haladás a labdarúgó állásában utánlépéssel. Mozgásos játékok. «Csináld — dermedj meg», «Nappal-éjszaka» (labdával). Speciális futógyakorlatok helyben és mozgásban. Gyorsítások különböző kiinduló helyzetekből. Ugrógyakorlatok helyben és előrehaladással. Információs közlemények, megbeszélések és viták. Az elméleti ismeretek összekapcsolása a gyakorlati cselekvésekkel.
+
+**3. óra —** Könnyűatlétika. A gyermek-könnyűatlétika fejlődésének története. ÁFE-komplexum helyben. Speciális futógyakorlatok, ugrógyakorlatok. Rajt és rajt utáni nekifutás. Panna. Gyakorlatok a lábizmok erejének fejlesztéséhez. Haladás a labdarúgó állásában utánlépéssel. Mozgásos játékok. «Csináld — dermedj meg», «Nappal-éjszaka» (labdával). Futás akadályokkal (gátak — magasság 20–30 cm), futás akadályokkal (szlalom). Az elméleti ismeretek összekapcsolása a gyakorlati cselekvésekkel.
+
+**4. óra —** Panna. Az ukrán Panna-játék fejlődésének története. ÁFE-komplexum labdával. Ugrógyakorlatok, speciális gyakorlatok a felső vállöv hajlékonyságának, a felső és alsó végtagok erejének fejlesztéséhez. Labdarúgások helyben és mozgásban. Könnyűatlétika. Rajt és rajt utáni nekifutás, futás a távon. Mozgásos játékok. «Ugrások a zsombékokon», «Csináld — dermedj meg». Felsorakozás, járás, futás, ugrások, általános fejlesztő gyakorlatok. Mozgásos játékok és váltók; haladás különböző módokon és lépésekkel. A tanulók differenciálása az alapvető mozgásos tulajdonságok fejlesztéséhez az utcai labdarúgás eszközeivel.
+
+**5. óra —** Panna. A Panna-játék általános jellemzése (a játéktér jelölése, a játékos elhelyezkedése, a játék alapvető szabályai). ÁFE-komplexum labdával. Utánzó gyakorlatok. Labdarúgások helyben és mozgásban, falról. A labda átvétele falról. Könnyűatlétika. Ugrószámok: távolugrás helyből. Ugrókötél-ugrások. Mozgásos játékok. «Ki ugrik a legmesszebbre», «Ugrások a zsombékokon».
+
+**6. óra —** Panna. A Panna-játék általános jellemzése (a játéktér jelölése, a játékos elhelyezkedése, a játék alapvető szabályai). ÁFE-komplexum labdával. Labdás gyakorlatok az ügyesség fejlesztéséhez. Könnyűatlétika. Ugrószámok: távolugrás helyből. Ugrókötél-ugrások. Figyelemfejlesztő mozgásos játékok és «Ugrások a zsombékokon». Gyakorlatok a különböző erő-tulajdonságok komplex fejlesztésére. Karhajlítás és -nyújtás fekvőtámaszban, guggolások, törzsemelés hason fekvő helyzetből; súlyzós gyakorlatok (1 kg-ig), expanderekkel. Kereső (kreatív) feladatok, amelyek a játékszabályokra vonatkozó információ önálló keresését és kiválasztását feltételezik.
+
+**7. óra —** EMI: Az egészséges életmód alapjai. ÁFE-komplexum mozgásban, eszközökkel. Mozgásos játékok. A mozgásos játékok mint az olimpiai és világjátékok fejlődésének előfeltétele. Futás- és ugráselemeket tartalmazó mozgásos játékok. Könnyűatlétika. Speciális futó- és ugrógyakorlatok. Panna. Labdarúgások helyben és mozgásban, falról. A labda átvétele falról. Hajlékonyság- és ízületi mozgékonyság-fejlesztő gyakorlatok. A végtagok megtartása olyan helyzetben, amely a hajlékonyság határértékének megnyilvánulását igényli. A meghatározások gyakorlati ellenőrzése.
+
+**8. óra —** Mozgásos játékok. A mozgásos játékok a testnevelés rendszerében és fejlődésük történelmi aspektusai. ÁFE-komplexum mozgásban, eszközökkel. Könnyűatlétika. Speciális futó- és ugrógyakorlatok és nyújtógyakorlatok. Panna. Haladás labdával. Rúgások helyben és mozgásban. Figyelem- és leleményesség-fejlesztő mozgásos játékok. Ugrások (balra–jobbra) akadályon keresztül, előrehaladással, felugrások félig guggolásból és guggolásból. Frontális: megbeszélések és viták (tájékoztató témák a mozgásos játékok fejlődésének történetéből).
+
+**9. óra —** ÁFE-komplexum mozgásban, eszközökkel. Könnyűatlétika. A rövidtávfutás technikája. Futás 30 m, futás 60 m. A biztonságos magatartás szabályai a gyermek-könnyűatlétikai órákon. Panna. Labdás gyakorlatok az ügyesség és a gyorsaság fejlesztéséhez. Mozgásos játékok és szórakozások. Nyújtógyakorlatok statikus helyzetben. Gyorsítások különböző kiinduló helyzetekből, ismételt futás. A kar- vagy lábmozgások és a maximális sebességű futás utánzása különböző kiinduló helyzetekben. A mozgások és gyakorlatok gyakorlati végrehajtása a tanulás különböző szakaszaiban; készségek és képességek kialakítása.
+
+**10. óra —** Könnyűatlétika. A gyermek-könnyűatlétika fajtái. ÁFE-komplexum mozgásban, eszközökkel. A rövidtávfutás technikája. Futás 30 m, futás 60 m. Panna. Labdás gyakorlatok az ügyesség és a gyorsaság fejlesztéséhez. Gyakorlatok a hasprés és a hát izmainak fejlesztéséhez. Mozgásos játékok és szórakozások. Gyorsítások különböző kiinduló helyzetekből, ismételt futás. A kar- vagy lábmozgások és a maximális sebességű futás utánzása különböző kiinduló helyzetekben. Karhajlítás és -nyújtás fekvőtámaszban, guggolások, törzsemelés hason fekvő helyzetből; súlyzós gyakorlatok (1 kg-ig), expanderekkel. A mozgások és gyakorlatok gyakorlati végrehajtása a tanulás különböző szakaszaiban; készségek és képességek kialakítása.
+
+**11. óra —** ÁFE-komplexum mozgásban, eszközökkel. Könnyűatlétika. Gátfutás. Panna. Labdarúgások helyben és mozgásban. Mozgásos játékok. «Forma–1». A váltóbot átadásának technikája. Gyakorlatok a hasprés és a hát izmainak fejlesztéséhez. Gátak — magasság 20–30 cm, futás akadályokkal (szlalom), futás a «gyorsasági létrán». Könnyűatlétika-elemeket tartalmazó játékok, szórakozások: egyénileg, párokban és csapatban.
+
+**12. óra —** ÁFE-komplexum labdával, mozgásban. Panna. A kiinduló helyzet megválasztása a rúgásokhoz és a labda falról való átvételéhez. A vezetés és a megállítás fajtái. A káros szokások romboló hatása a gyermek szervezetére, és miért divatos egészségesnek lenni. Könnyűatlétika. Futás akadályokkal (gátak — magasság 20–30 cm), futás akadályokkal (szlalom), futás a «gyorsasági létrán». «Ki a legpontosabb?» mozgásos játék. Gyakorlatok a hasprés és a hát izmainak fejlesztéséhez. Egyszerű technikájú gyakorlatok, a legtöbb vázizom aktív működésével. A mozgások és gyakorlatok gyakorlati végrehajtása a tanulás különböző szakaszaiban; készségek és képességek kialakítása.
+
+**13. óra —** ÁFE-komplexum labdával, mozgásban. Panna. A labda átvétele falról. A megállítás fajtái. A rúgások és a labda falról való átvételének fajtái. Könnyűatlétika. Futás akadályokkal (gátak — magasság 20–30 cm), futás akadályokkal (szlalom), futás a «gyorsasági létrán». «Ki a legpontosabb?» mozgásos játék. Hajlékonyság- és ízületi mozgékonyság-fejlesztő gyakorlatok. Izom-, szalag-, ínlazító gyakorlatok; aktív gyakorlatok; passzív gyakorlatok; segítő gyakorlatok az egyes ízületek mozgékonyságának figyelembevételével. Csoportos: részvétel versenyeken és vetélkedőkön. A tanulók részvétele versenyeken, vetélkedőkön az órákon, iskolai vetélkedőkön és fesztiválokon, flashmobokon, valamint városi és összukrán eseményeken.
+
+**14. óra —** ÁFE-komplexum labdával, mozgásban. Panna. A labda átvétele falról. A megállítás fajtái. A rúgások és a labda falról való átvételének fajtái. Könnyűatlétika. Futáselemeket tartalmazó váltók. A tanulók által választott mozgásos játékok. Ritmus-visszaadó, mozgáskoordinációs gyakorlatok. Kör-edzés a gyakorlatok folyamatos, mérsékelt intenzitású végrehajtási módszerével; speciális légzőgyakorlatok. A mozgások és gyakorlatok gyakorlati végrehajtása a tanulás különböző szakaszaiban; készségek és képességek kialakítása.
+
+**15. óra —** ÁFE-komplexum ugrókötéllel. Mozgásos játékok. Az egészséges életmód szabályai. Könnyűatlétika. Futáselemeket tartalmazó váltók. Ritmus-visszaadó gyakorlatok. Panna. Haladás labdával, a labda átadásával kombinálva. Gyakorlatok a hasprés és a hát izmainak fejlesztéséhez. Kör-edzés a gyakorlatok folyamatos, mérsékelt intenzitású végrehajtási módszerével; speciális légzőgyakorlatok. Frontális: megbeszélések és viták (tájékoztató témák a mozgásos játékok fejlődésének történetéből).
+
+**16. óra —** ÁFE-komplexum ugrókötéllel. Mozgásos játékok. A mozgásos játékok osztályozása. A fizikai/mozgásos tevékenység megnyilvánulásai a mindennapi életben. Könnyűatlétika. Rajt és rajt utáni nekifutás. Egyenletes futás. Könnyűatlétika-elemeket tartalmazó kvestek. Panna. A labda átvétele falról. Állóképesség-fejlesztő mozgásos játékok és szórakozások. Gyakorlatok a lábizmok erejének fejlesztéséhez. Újdonságelemeket tartalmazó gyakorlatok; szokatlan kiinduló helyzetekből végzett gyakorlatok; aszimmetrikus mozgások. Integrált feladatok: a mozgások és készségek összekapcsolása a gyermek-könnyűatlétika tanulásának különböző szakaszaiban.
+
+**17. óra —** ÁFE-komplexum ugrókötéllel. Könnyűatlétika. A könnyűatlétika hatása az emberi szervezetre. Speciális futógyakorlatok. Hajítás célba akadályon keresztül (teniszlabda). Panna. A labda átvétele falról. Speciális gyakorlatok a felső vállöv hajlékonyságának fejlesztéséhez. Állóképesség-fejlesztő mozgásos játékok és szórakozások. A mozgás sebességének és tempójának változtatása; a gyakorlatok végrehajtási módjainak változtatása. Kereső (kreatív) feladatok, amelyek információ (történelmi tények, érdekes példák a könnyűatlétika emberi szervezetre gyakorolt hatásáról) önálló keresését és kiválasztását feltételezik.
+
+**18. óra —** ÁFE-komplexum ugrókötéllel. Könnyűatlétika. A gyermek-könnyűatlétika fejlődésének története. Hajítás célba akadályon keresztül (teniszlabda). Távolugrás helyből, többszörös ugrások, felugrások felfelé. Panna. Speciális gyakorlatok a felső vállöv hajlékonyságának fejlesztéséhez. Gyorsaság- és ügyességfejlesztő mozgásos játékok. Gátak — magasság 20–30 cm, futás akadályokkal (szlalom), futás a «gyorsasági létrán», távolugrás helyből. Megbeszélések és viták (tájékoztató témák a gyermek-könnyűatlétika történetéből).
+
+**19. óra —** Panna. A Panna-játékos állása. Haladás a labdarúgó állásában utánlépéssel, a kiinduló helyzet megválasztása a rúgáshoz. Könnyűatlétika. Speciális futógyakorlatok. Rajt és rajt utáni nekifutás. Egyenletes futás az állóképesség fejlesztéséhez. «Vadász és vadak» mozgásos játék. Felugrás fordulattal a megadott fokszámra; távolugrás helyből, pontos földet érésre. Integrált feladatok.
+
+**20. óra —** Panna. A Panna-játékos állása. Haladás a labdarúgó állásában utánlépéssel, a kiinduló helyzet megválasztása a rúgáshoz. Könnyűatlétika. Hajítás vízszintes és függőleges célba. Ügyesség- és mozgáskoordináció-fejlesztő gyakorlatok. «Vadász és vadak» mozgásos játék. Gyakorlatok a vízszintes és függőleges célba való pontos találatra, meghatározott távolságról. Megbeszélések és viták (tájékoztató témák a Panna történetéből és fejlődéséből).
+
+**21. óra —** EMI: A kábítószerek és pszichotróp anyagok romboló hatása a gyermek szervezetére. Panna. Labdarúgások helyben és mozgásban. A labda átvétele falról. Lúdtalpmegelőző gyakorlatok. Könnyűatlétika. Hajítás célba akadályon keresztül, hajítás térdelve, «forgó hajítás». Gyorsaság- és ügyességfejlesztő mozgásos játékok és szórakozások. Gyakorlatok a vízszintes és függőleges célba való pontos találatra, meghatározott távolságról.
+
+**22. óra —** Mozgásos játékok. A különböző pedagógiai feladatokkal és mozgásos tartalommal rendelkező mozgásos játékok alapvető fajtáinak tanulmányozása. Panna. A játékos haladásának fajtái. Technikai-taktikai gyakorlatok. Gyakorlatok a felső és alsó végtagok erejének fejlesztéséhez. Könnyűatlétika. Könnyűatlétika-elemeket tartalmazó játékok, szórakozások. Saját erővel végzett gyakorlatok: törzshajlítás a lábakhoz, a lábak hajlítása a mellkashoz és az egyik kézfej hajlítása. A biztonság és a fegyelem az órán — a tanulók egészségének megerősítésében elért megbízható siker záloga.
+
+**23. óra —** Mozgásos játékok. Mozgásos és népi játékok elemei, váltók, kozák mulatságok. Panna. A játékos haladásának fajtái. Technikai-taktikai gyakorlatok. Lúdtalpmegelőző gyakorlatok. Könnyűatlétika. Speciális ugrógyakorlatok. Ugrókötél-ugrások. Hajlékonyság- és ízületi mozgékonyság-fejlesztő gyakorlatok. Statikus helyzetek megtartása nagy lengési fokozatoknál; passzív mozgások. Barátságos liga.
+
+**24. óra —** Mozgásos játékok. A különböző fizikai tulajdonságok fejlesztéséhez szükséges gyakorlatok kiválasztása. Panna. Utánzó gyakorlatok. Technikai-taktikai gyakorlatok. Gyakorlatok a hasprés és a hát izmainak fejlesztéséhez. Könnyűatlétika. Speciális ugrógyakorlatok. Ugrókötél-ugrások. A variatív modulok gyakorlatai, amelyek a fizikai tulajdonságok komplex vagy izolált fejlesztésére irányulnak. Barátságos liga.

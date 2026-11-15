@@ -1,0 +1,48 @@
+# Naptári terv: Aktív parkok, turizmus, kosárlabda, 6. osztály, NUS
+
+- **Eredeti ukrán cím:** Календарне планування Активні парки Туризм Баскетбол
+- **Szerző:** Обозна В. В.
+- **Tankönyv:** nem nevesítve (a terv a „Testnevelés. 5–9. osztály" modelltanterv — Bazsenkov Je. V., Bidnij M. V., Rebrina A. A., Danilcsenko V. O., Kolomojec H. A., Dutcsak M. V.; a MOH 2024. 08. 22-i 1185. sz. rendelete — alapján készült)
+- **Osztály:** 6. osztály (NUS)
+- **Heti óraszám:** nem megállapítható
+- **Félév/év:** nem megállapítható (27 óra; a házi feladatokban „félév" szerepel, valószínűleg egy félév terve)
+- **Forrás URL:** https://naurok.com.ua/kalendarne-planuvannya-aktivni-parki-turizm-basketbol-501170.html
+- **Megjegyzés:** Az órák a forrásban nincsenek számozva (a № oszlop végig üres) — a fordításban a forrás sorrendjében 1–27-ig számozva szerepelnek. Az óraszám-elosztó táblázat csak a modulok listáját tartalmazza, óraszámok nélkül. A házi feladatok modul-számozása rendszeresen nem egyezik a tartalmukkal (pl. az 1. óránál a kosárlabda-házi feladat egy turisztikai térkép-vázlat, a 2. óránál a „Parkok" alatti kérdés turisztikai) — a fordítás a forrást híven követi. Rövidítések: ÉBO (БЖ) — életbiztonsági oktatás; EMI (ТМЗ) — elméleti-módszertani ismeretek; ÁFF (ЗФП) — általános fizikai felkészítés. Elírások a forrásban: 15. óra házi feladata: „по трає��торії" (sérült — „траєкторії", azaz pálya, helyett); 26. óra: „Онлайн-виставка проєктів «Мій рюкзак та вузли»3. Баскетбол: Відео-урок." (hiányzó szóköz/pont a „3." előtt); 27. óra: „Підсумковий урок. Онлайн-виставка проєктів «Мій рюкзак та вузли». ." (fölösleges „." a végén).
+
+**Naptári-tematikus terv 6. osztály számára, NUS, testnevelésből**
+
+***Modelltanterv „Testnevelés. 5–9. osztály" az általános középfokú oktatási intézmények számára (szerzők: Bazsenkov Je. V., Bidnij M. V., Rebrina A. A., Danilcsenko V. O., Kolomojec H. A., Dutcsak M. V.), „Ajánlotta Ukrajna Oktatási és Tudományos Minisztériuma", Ukrajna Oktatási és Tudományos Minisztériumának 2024. 08. 22-i 1185. sz. rendelete***
+
+**A tanórák modulok szerinti elosztásának táblázata — a programanyag első tanéve**
+
+**Modulok listája:** Aktív parkok; Turizmus; Kosárlabda.
+
+| № | Tartalom | Házi feladat |
+| --- | --- | --- |
+| 1 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: online torna; 2. Turizmus: a turizmus fajtái; 3. Kosárlabda: a játékszabályok | 1. Parkok: Végezd el a tornát. 2. Turizmus: A turizmus fajtái Ukrajnában. 3. Kosárlabda: Térkép-vázlat „Álomtúra" |
+| 2 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: ugrások; 2. Turizmus: a turizmus fejlődésének története; 3. Kosárlabda: a játékos állása | 1. Parkok: Kik voltak az első ukr. turisták? 2. Turizmus: A turizmus története. 3. Kosárlabda: Fotó-beszámoló a kosárlabda-állásról |
+| 3 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: hajlékonyság; 2. Turizmus: személyi felszerelés; 3. Kosárlabda: kézmunka | 1. Parkok: A „3 réteg rendszere" az öltözködésben. 2. Turizmus: A felszerelés fajtái. 3. Kosárlabda: Készíts elő egy zsinórt (1 m) |
+| 4 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: erő; 2. Turizmus: csoportos felszerelés és sátrak; 3. Kosárlabda: átadások (utánzás) | 1. Parkok: Erőgyakorlatok. 2. Turizmus: Milyen sátorformák vannak? 3. Kosárlabda: A hátizsákba való dolgok ellenőrzőlistája |
+| 5 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: deszka; 2. Turizmus: a turista fizikai felkészítése; 3. Kosárlabda: labdavezetés helyben | 1. Parkok: Állóképességi gyakorlatok. 2. Turizmus: Felkészülési program. 3. Kosárlabda: Videó-kihívás: labdavezetés (30 mp) |
+| 6 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: koordináció; 2. Turizmus: folyadékfogyasztási rend és táplálkozás; 3. Kosárlabda: cselek | 1. Parkok: Mennyi víz kell a túrára? 2. Turizmus: Dolgozz ki egy 1 napos menüt. 3. Kosárlabda: Ismételd a cselmozdulatokat |
+| 7 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: kitörések; 2. Turizmus: higiénia és biztonság a túrán; 3. Kosárlabda: védekező állás | 1. Parkok: A túra-gyógyszerkészlet összetétele. 2. Turizmus: A higiénia szabályai. 3. Kosárlabda: Írd le a biztonságot a védekező állásban |
+| 8 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: egyensúly; 2. Turizmus: „Vezető" és „Nyolcas" csomók; 3. Kosárlabda: a dobás technikája | 1. Parkok: Hol alkalmazzák a „Nyolcast"? 2. Turizmus: Egyensúly-edzés. 3. Kosárlabda: Fotó a „Nyolcas" csomóról |
+| 9 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: hasizom; 2. Turizmus: „Egyenes" és „Takács" csomók; 3. Kosárlabda: büntetődobás | 1. Parkok: Az egyenes csomó az „asszony-csomó" ellen. 2. Turizmus: Hasizom-gyakorlatok. 3. Kosárlabda: Köss össze két zsinórt Takács-csomóval |
+| 10 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: fekvőtámaszban karhajlítás; 2. Turizmus: „Kengyel" és „Bulin" csomók; 3. Kosárlabda: labdaelkapás | 1. Parkok: Miért mentőcsomó a Bulin? 2. Turizmus: A fekvőtámaszban karhajlítás technikája. 3. Kosárlabda: Rögzítsd a „Kengyel" csomót egy széken |
+| 11 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: bemelegítés; 2. Turizmus: szorítócsomók (pruszik); 3. Kosárlabda: ugrógyakorlatok | 1. Parkok: Mi az önbiztosítás? 2. Turizmus: Készíts hurkot a pruszikhoz. 3. Kosárlabda: Végezd el az ugráskomplexumot |
+| 12 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: hát; 2. Turizmus: gyors csomókötés; 3. Kosárlabda: koordináció labdával | 1. Parkok: Csomókötési rekordok. 2. Turizmus: Videó: 3 csomó 30 másodperc alatt. 3. Kosárlabda: Koordinációs gyakorlatok labdával |
+| 13 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: kardió; 2. Turizmus: az útvonal kiválasztása és kidolgozása; 3. Kosárlabda: a támadás taktikája | 1. Parkok: Hogyan számítsuk ki a kilométert? 2. Turizmus: Jelöld ki a parkba vezető utat a térképen. 3. Kosárlabda: A támadási taktika szabályai |
+| 14 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: Tabata; 2. Turizmus: tájékozódás (iránytű, térkép); 3. Kosárlabda: a bírók jelei | 1. Parkok: Hogyan tájékozódjunk a Nap alapján? 2. Turizmus: Rajzold le a szobád tervét. 3. Kosárlabda: Tanuld meg a bírók fő jeleit |
+| 15 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: nyújtás; 2. Turizmus: a táborhely kiválasztása és bivak; 3. Kosárlabda: „nyolcas" labdavezetés | 1. Parkok: A tűzbiztonság szabályai az erdőben. 2. Turizmus: A sátorhely sémája. 3. Kosárlabda: Labdavezetés pálya mentén |
+| 16 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: ügyesség; 2. Turizmus: kötelességek a csoportban; 3. Kosárlabda: kettős lépés (elmélet) | 1. Parkok: Ki a gondnok a túrán? 2. Turizmus: Írd le a csoport orvosának kötelességeit. 3. Kosárlabda: A kettős lépés elmélete |
+| 17 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: funkcionalitás; 2. Turizmus: a túra költségvetése; 3. Kosárlabda: átadások a faltól | 1. Parkok: A sátorbérlés árai. 2. Turizmus: Számítsd ki az étkezés költségét 2 napra. 3. Kosárlabda: Átadás-edzés a faltól |
+| 18 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: egyensúly; 2. Turizmus: ökológia és a turista kódexe; 3. Kosárlabda: védekezés (gyakorlatok) | 1. Parkok: Mennyi idő alatt bomlik le a műanyag? 2. Turizmus: Plakát „Őrizd meg a természetet". 3. Kosárlabda: Egyensúlygyakorlatok a védekezéshez |
+| 19 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: ÁFF; 2. Turizmus: beszámoló az utazásról; 3. Kosárlabda: a legjobb mérkőzések megtekintése | 1. Parkok: Hogyan vezessünk túranaplót? 2. Turizmus: Készítsd el a beszámoló címlapját. 3. Kosárlabda: Írd le a játékosok technikáját a videó alapján |
+| 20 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: erő; 2. Turizmus: „Grapevine" csomó; 3. Kosárlabda: a fault fogalma | 1. Parkok: A Grapevine csomó megbízhatósága. 2. Turizmus: Füzet „10 tanács a sportolónak". 3. Kosárlabda: Tanuld meg a faultok fajtáit |
+| 21 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: Tabata; 2. Turizmus: „Krenzel" (perec) csomó; 3. Kosárlabda: gyors áttörés | 1. Parkok: A Tabata-módszer története. 2. Turizmus: Készíts lejátszási listát a foglalkozásokhoz. 3. Kosárlabda: A gyors áttörés technikája |
+| 22 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: hajlékonyság; 2. Turizmus: tájékozódás a csillagok alapján; 3. Kosárlabda: küzdelem a labdáért | 1. Parkok: Hogyan találjuk meg a Sarkcsillagot? 2. Turizmus: Fotó a hajlékonysági gyakorlatról. 3. Kosárlabda: A labdáért folytatott küzdelem szabályai |
+| 23 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: koordináció; 2. Turizmus: csomók bekötött szemmel; 3. Kosárlabda: dribling (utánzás) | 1. Parkok: NBA-rekordok. 2. Turizmus: Videó a csomó bekötött szemmel való megkötéséről. 3. Kosárlabda: A dribling utánzása |
+| 24 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: torna; 2. Turizmus: a sátor rögzítésére szolgáló csomók; 3. Kosárlabda: kvíz | 1. Parkok: Hogyan rögzítsük a sátrat homokon? 2. Turizmus: Építs otthon „sátrat" csomókból. 3. Kosárlabda: Végezd el a kosárlabda-kvízt |
+| 25 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: nyújtás; 2. Turizmus: prezentáció készítése; 3. Kosárlabda: a taktika elemzése | 1. Parkok: Kosárlabda 3×3: szabályok. 2. Turizmus: Időrekord 5 csomóra. 3. Kosárlabda: A csapattaktika elemzése |
+| 26 | Életbiztonsági oktatás. EMI és ÁFF. 1. Aktív parkok: relaxáció; 2. Turizmus: online projektkiállítás: „A hátizsákom és a csomók"; 3. Kosárlabda: videólecke | 1. Parkok: Az erők helyreállításának módjai. 2. Turizmus: Kollázs „Az én aktív félévem". 3. Kosárlabda: A videólecke megtekintése |
+| 27 | Összegző óra. Online projektkiállítás: „A hátizsákom és a csomók" | 1. Parkok: Csomók a szakmákban. 2. Turizmus: Minden csomó ismétlése. 3. Kosárlabda: Esszé „Mit tanultam" |
