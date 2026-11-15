@@ -1,0 +1,51 @@
+# Naptári terv a korrekciós-fejlesztő órákhoz (beszédfejlesztés) sajátos nevelési igényű (SNI) tanuló számára, 2. osztály
+
+- **Eredeti ukrán cím:** КАЛЕНДАРНЕ ПЛАНУВАННЯ корекційно-розвиткових годин (розвиток мовлення) для учня з особливими освітніми потребами 2 клас
+- **Szerző:** Куралісова А. О.
+- **Tankönyv:** nincs megadva
+- **Osztály:** 2. osztály (NUS)
+- **Heti óraszám:** 1 óra/hét (19 óra)
+- **Félév/év:** II. félév (tanév nincs megadva)
+- **Forrás URL:** https://naurok.com.ua/kalendarne-planuvannya-korekciyno-rozvitkovih-godin-rozvitok-movlennya-dlya-uchnya-z-osoblivimi-osvitnimi-potrebami-2-klas-320291.html
+
+> Megjegyzések: a tanár neve nincs megadva — a „Tanár:" sorban a tantárgy neve szerepel („Beszédfejlesztés"). A dátum és a dátumkorrekció oszlop üres. Elírások: „однаковимзначенням" egybeírva (3. óra); „моральноетичних аспе��тів" hibás karakterek (9. óra); „моральноетичних" egybeírva (9., 13. óra); „слів,словосполучень" (hiányzó szóköz, 8. óra); „Опис переживань ." (szóköz a pont előtt, 9. óra); „Збагачувати словниковий запас учнів." főnévi igenévi alakban (10., 16. óra — a többi eredmény 3. személyű); „Закріплення та узагальненого вивченого за рік." (hibás esetegyeztetés, 19. óra). Ismétlődések: a 3. és 4. óra várt eredménye szó szerint azonos; a 14. és 15. óra várt eredménye szó szerint azonos (a „Tudja és használja…" mondat mindkettőben kétszer szerepel); a 8., 11., 12. óra várt eredménye majdnem azonos. A 17. óra eredményében „gyermekek" (többes szám) szerepel, bár a terv egy tanulóra vonatkozik. „Квітка-семибарвиця" = Hétszínvirág; „Івасик-Телесик" = Ivász-Teleszik (ukrán népmese); „Стара іграшка" = Régi játék.
+
+**NAPTÁRI TERV**
+
+**a korrekciós-fejlesztő órákhoz**
+
+**(beszédfejlesztés)**
+
+**sajátos nevelési igényű (SNI) tanuló számára**
+
+**2. osztály**
+
+Tanár: Beszédfejlesztés
+
+2. osztály
+
+(19 óra, heti 1 óra)
+
+**II. félév:**
+
+| № | Dátum | Dátumkorrekció | A tananyag tartalma | A korrekciós-fejlesztő munka iránya (várt eredmények) |
+|---|---|---|---|---|
+| 1 | | | A «Hétszínvirág» rajzfilm tartalmának újramesélése. *Beszédfejlesztés.* A természet leírásának összeállítása «Arany ősz» | Azonosul egy konkrét szereplővel, egy bizonyos álláspont, nézőpont hordozójával, akivel virtuális interakcióba lép. Azonosítja a szereplők érzelmi állapotait. Megpróbálja megérteni a szereplők viselkedésének ellentmondásait. A tanulók aktív szókincsének gazdagítása, a megszerzett tudás felhasználása saját életükben. |
+| 2 | | | A szókincs bővítése főnevekkel, melléknevekkel, igékkel a «virágok» lexikai téma alapján. *Beszédfejlesztés*: mondatok alkotása az adott szócsoport alkalmazásával. | Gyakorlatokat végez az észlelés, a figyelem, az emlékezet és a gondolkodás fejlesztésére. Gyakorlatokat végez az olvasás és írás mechanizmusainak fejlesztésére. Az elemzés, összehasonlítás, összefoglalás és az anyag megértésének képességeinek fejlesztése. A megszerzett tudás felhasználása saját élettevékenységében. |
+| 3 | | | A megfelelő, azonos jelentésű szavak kiválasztása, amelyek a «ki?», «mi?» kérdésekre válaszolnak. *Beszédfejlesztés*: szinonim szavak és főnevek használata számok szerint a szöveg igényeinek megfelelően | Gyakorlatokat végez, és használja a szavak kiválasztásának készségét lexikai témák szerint, az antonimák, szinonimák, igék és melléknevek főnevekhez való kiválasztását. A főnevek, melléknevek, igék, elöljárók és segédszavak helyes használata saját beszédében |
+| 4 | | | A megfelelő, ellentétes jelentésű szavak kiválasztása, amelyek a «ki?», «mi?» kérdésekre válaszolnak. *Beszédfejlesztés*: antonim szavak és főnevek használata számok szerint a szöveg igényeinek megfelelően | Gyakorlatokat végez, és használja a szavak kiválasztásának készségét lexikai témák szerint, az antonimák, szinonimák, igék és melléknevek főnevekhez való kiválasztását. A főnevek, melléknevek, igék, elöljárók és segédszavak helyes használata saját beszédében |
+| 5 | | | *Beszédfejlesztés.* Ismert mese újramesélése illusztrációk alapján. | Gyakorlatokat végez az észlelés, a figyelem, az emlékezet és a gondolkodás fejlesztésére. Teljes és összefüggő elbeszélés alkotásának készségeivel rendelkezik (vázlat szerint, önállóan); a szereplők, a természet, a hősök párbeszédeinek leírása |
+| 6 | | | A szó töve. Azonos tövű szavak. Mondatok alkotása azonos tövű szavakkal a tő jelentésének tudatosítása céljából | Megpróbálja a gondolat kifejezésekor a szóváltoztatás és szóképzés helyes formáit használni. A tanár segítségével kiemeli a tövet a megadott azonos tövű szavakban. Felismeri a megadott szavak között az azonos tövűeket. Mondatokat alkot azonos tövű szavakkal |
+| 7 | | | Munka deformált mondatokkal. *Beszédfejlesztés.* Ismert mese újramesélése vázlat alapján. | Gyakorlatokat végez az észlelés, a figyelem, az emlékezet és a gondolkodás fejlesztésére. Gyakorlatokat végez az olvasás és írás mechanizmusainak fejlesztésére. Teljes és összefüggő elbeszélés alkotásának készségeivel rendelkezik (vázlat szerint, önállóan); a szereplők, a természet, a hősök párbeszédeinek leírása. Önállóan fogalmazza meg a legegyszerűbb kérdéseket a szöveg egyes részeihez. |
+| 8 | | | Kérdések alkotása. Válaszok megfogalmazása a kapott kérdésekre kép alapján | Hallgatási és beszédkészségekkel rendelkezik a párbeszédes és monologikus beszéd különböző fajtáiban (önállóan vagy a tanár segítségével). A mondatok alkotásának és lejegyzésének képességeinek fejlesztése. Kötőszók, határozószók, szinonimák használata a szavak összekapcsolására a mondatban. A főnevek, melléknevek, igék, elöljárók és segédszavak helyes használata saját beszédében. A legegyszerűbb kérdések feltevésének képességének fejlesztése egyes szavakhoz, szókapcsolatokhoz, mondatokhoz |
+| 9 | | | Az «Ivász-Teleszik» rajzfilm tartalmának újramesélése. Az élmények leírása . | Együtt érez a főszereplővel, és megértést mutat viselkedésének erkölcsi-etikai vonatkozásai iránt. Azonosítja a szereplők érzelmi állapotait. Gyakorlatokat végez az észlelés, a figyelem, az emlékezet és a gondolkodás fejlesztésére. |
+| 10 | | | Főnevek, melléknevek képzése érzelmi-becéző árnyalatokkal képzők segítségével, képek felhasználásával | Megpróbálja a gondolat kifejezésekor a szóváltoztatás és szóképzés helyes formáit használni. A tanulók szókincsének gazdagítása. Gyakorlatokat végez az észlelés, a figyelem, az emlékezet és a gondolkodás fejlesztésére. |
+| 11 | | | Párbeszédek alkotása «Én a könyvtárban», «Én a boltban» saját tapasztalat felhasználásával. | Hallgatási és beszédkészségekkel rendelkezik a párbeszédes és monologikus beszéd különböző fajtáiban (önállóan vagy a tanár segítségével). A mondatok alkotásának és lejegyzésének képességeinek fejlesztése. Kötőszók, határozószók, szinonimák használata a szavak összekapcsolására a mondatban. A főnevek, melléknevek, igék, elöljárók és segédszavak helyes használata saját beszédében |
+| 12 | | | Párbeszédek alkotása «Én a szünetben», «Én a büfében» saját tapasztalat felhasználásával. | Hallgatási és beszédkészségekkel rendelkezik a párbeszédes és monologikus beszéd különböző fajtáiban (önállóan vagy a tanár segítségével). A mondatok alkotásának és lejegyzésének képességeinek fejlesztése. Kötőszók, határozószók, szinonimák használata a szavak összekapcsolására a mondatban. A főnevek, melléknevek, igék, elöljárók és segédszavak helyes használata saját beszédében |
+| 13 | | | Párbeszéd eljátszása a meghallgatott mese alapján. A «Régi játék» rajzfilm tartalmának újramesélése. | A beszélgetés során megértést mutat más szereplők iránt. Együtt érez a főszereplővel, és megértést mutat viselkedésének erkölcsi-etikai vonatkozásai iránt. Azonosítja a szereplők érzelmi állapotait. Megpróbálja megérteni a szereplők viselkedésének ellentmondásait. |
+| 14 | | | A beszédetikett kialakítása. Udvarias köszönő és búcsúzó szavak. Mondatok alkotása udvarias szavak használatával. | Tudja és használja a beszédetikett legegyszerűbb ukrán formuláit: köszönés, búcsúzás, kérés, bocsánatkérés. Gyakorlatokat végez az észlelés, a figyelem, az emlékezet és a gondolkodás fejlesztésére. Megpróbálja helyesen kiválasztani a beszédetikett megfelelő formuláit a különböző emberekkel való kommunikációban, koruktól, státuszuktól, családi kapcsolataiktól függően stb. Tudja és használja a beszédetikett legegyszerűbb ukrán formuláit: köszönés, búcsúzás, kérés, bocsánatkérés. |
+| 15 | | | A beszédetikett kialakítása. Udvarias köszönő és búcsúzó szavak. Udvarias szavak kiválasztása a mondatokhoz értelem szerint. | Tudja és használja a beszédetikett legegyszerűbb ukrán formuláit: köszönés, búcsúzás, kérés, bocsánatkérés. Gyakorlatokat végez az észlelés, a figyelem, az emlékezet és a gondolkodás fejlesztésére. Megpróbálja helyesen kiválasztani a beszédetikett megfelelő formuláit a különböző emberekkel való kommunikációban, koruktól, státuszuktól, családi kapcsolataiktól függően stb. Tudja és használja a beszédetikett legegyszerűbb ukrán formuláit: köszönés, búcsúzás, kérés, bocsánatkérés. |
+| 16 | | | A tanuló szókincsének bővítése a «közösségi helyek» lexikai téma alapján. Az etikett szabályai a közösségi helyeken | Tudja a viselkedés szabályait a moziban, a múzeumban, a poliklinikán, az iskolai ünnepen; alkalmazza a beszédetikett megfelelő formuláit. A tanulók szókincsének gazdagítása. |
+| 17 | | | A pozitív „Én" kialakítása. A szókincs bővítése melléknevekkel a «Jó „Én"» lexikai téma alapján. | Megnyilatkozásaikban a gyermekek figyelmet fordítanak az ember „belső Énjére", az olyan erkölcsi instanciákra, mint a „lelkiismeret", a „jóság". Ellentmondásokat tárnak fel, különböző nézőpontokat fejeznek ki, miközben figyelmesen hallgatják és megértik egymást. Megnyilatkozásaikban a másik emberre irányultságot mutatnak. |
+| 18 | | | *Beszédfejlesztés.* Kreatív elbeszélés alkotása «Hogyan töltöm a szünetet» témában. Hallás utáni diktálás | Teljes és összefüggő elbeszélés alkotásának készségeivel rendelkezik. A mondatok alkotásának és lejegyzésének képességeinek fejlesztése. Kötőszók, határozószók használata a szavak összekapcsolására a mondatban. A főnevek, melléknevek, igék, elöljárók és segédszavak helyes használata saját beszédében. |
+| 19 | | | Az év során tanultak rögzítése és összegzése. | Az elemzés, összehasonlítás, összefoglalás és az anyag megértésének képességeinek fejlesztése. A megszerzett tudás felhasználása saját élettevékenységében. |
